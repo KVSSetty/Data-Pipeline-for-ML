@@ -1,0 +1,521 @@
+product_id,product_name,category,price,cost,stock_quantity,weight,dimensions,rating,review_count,supplier,availability,created_date
+PROD_0001,HP Laptop 965,Peripherals,1563.73,791.19,2,3.01,16.7x39.1x15.5 cm,2.6,956.0,ABC Electronics,Out of Stock,2018-06-16
+PROD_0002,Dell Printer 687,Computers,1764.84,734.46,437,4.95,,1.9,381.0,XYZ Tech,In Stock,2023-01-29
+PROD_0003,HP Mouse 111,Accessories,237.34,94.43,799,0.6,19.3x11.7x11.3 inches,,,Tech Distributors Inc,Pre-order,2023-08-21
+PROD_0004,Microsoft Printer 511,Electronics,,,424,4.2,44.9x29.9x1.1 cm,4.6,183.0,Global Supply Co,In Stock,2022-08-20
+PROD_0005,Apple Mouse 584,Accessories,1985.7,1438.95,509,,14.8x41.6x4.8 cm,10.0,747.0,global supply co,In Stock,2020-02-06
+PROD_0006,Sony Monitor 179,Networking,1120.05,586.79,-63,2.18,29.9x16.8x2.1 cm,,,tech distributors inc,Discontinued,2021-05-13
+PROD_0007,Samsung Webcam 149,Peripherals,1750.24,1127.02,601,,31.7x16.3x10.0 cm,,,ABC Electronics,In Stock,2023-07-01
+PROD_0008,Microsoft Headphones 217,Electronics,901.32,482.66,964,0.62,6.1x46.4x14.1 cm,1.7,254.0,Global Supply Co,Discontinued,2019-02-20
+PROD_0009,HP Tablet 444,Networking,304.26,225.52,369,8.15,,4.5,582.0,Tech Distributors Inc,Discontinued,2021-07-06
+PROD_0010,Dell Smartphone 895,Networking,1125.39,574.97,962,8.3,13.0x11.6x18.6 cm,0.0,60.0,XYZ Tech,Out of Stock,2018-02-11
+PROD_0011,Apple Monitor 406,Computers,1894.88,1460.15,296,6.04,49.9x23.7x11.9 cm,1.9,863.0,tech distributors inc,In Stock,2023-07-21
+PROD_0012,Microsoft Smartphone 207,Computers,1085.44,659.07,394,9.0,19.1x46.8x4.6 inches,4.4,632.0,ABC Electronics,Pre-order,2021-09-25
+PROD_0013,Microsoft Smartphone 809,Peripherals,432.41,294.18,-27,9.52,38.5x25.8x15.5 cm,4.5,258.0,ABC Electronics,Out of Stock,2019-11-07
+PROD_0014,Microsoft Monitor 802,Peripherals,255.11,77.55,136,,,,,ABC Electronics,Pre-order,2022-02-01
+PROD_0015,Dell Printer 278,Computers,,,497,6.19,12.5x9.2x18.1 cm,4.4,498.0,XYZ Tech,Discontinued,2019-03-23
+PROD_0016,Dell Mouse 171,Networking,,,181,1.58,,6.0,485.0,Tech Distributors Inc,In Stock,2020-07-24
+PROD_0017,Microsoft Mouse 829,Computers,671.03,330.0,-85,,14.5x7.5x11.7 cm,,,Global Supply Co,Out of Stock,2022-04-22
+PROD_0018,Microsoft Headphones 826,Electronics,,,957,7.91,7.5x49.7x19.0 cm,1.8,604.0,XYZ Tech,Out of Stock,2023-03-19
+PROD_0019,HP Laptop 783,Accessories,1300.12,724.34,-37,3.06,11.3x25.6x15.7 cm,1.5,452.0,XYZ Tech,Pre-order,2023-08-07
+PROD_0020,Microsoft Router 347,Electronics,1294.28,488.22,200,,,2.7,899.0,Global Supply Co,In Stock,2019-06-30
+PROD_0021,Logitech Printer 156,Networking,1860.52,1287.79,127,7.0,19.9x8.6x17.3 cm,,,Tech Distributors Inc,Pre-order,2019-03-05
+PROD_0022,HP Headphones 174,Electronics,,,622,5.41,,4.4,564.0,Global Supply Co,Pre-order,2021-08-01
+PROD_0023,HP Mouse 463,Electronics,529.83,296.09,526,,,,,ABC Electronics,Out of Stock,2023-04-30
+PROD_0024,Sony Printer 652,Peripherals,1284.58,735.24,785,0.11,40.5x31.1x18.7 cm,2.4,659.0,XYZ Tech,In Stock,2020-02-07
+PROD_0025,Logitech Laptop 889,Networking,1070.96,801.02,337,1.71,14.3x47.9x16.2 cm,3.0,139.0,Global Supply Co,Out of Stock,2023-01-13
+PROD_0026,Microsoft Router 206,Computers,504.68,328.74,574,2.67,49.3x5.8x15.4 cm,1.4,687.0,abc electronics,Discontinued,2021-05-18
+PROD_0027,HP Keyboard 762,Peripherals,1357.77,920.89,18,0.8,,1.4,911.0,Tech Distributors Inc,Pre-order,2020-08-06
+PROD_0028,Sony Laptop 749,Accessories,,,649,,25.1x43.9x4.3 cm,3.7,305.0,ABC Electronics,In Stock,2019-10-11
+PROD_0029,Dell Smartphone 669,Accessories,,,-19,,34.5x19.0x8.6 cm,1.6,16.0,Global Supply Co,Pre-order,2022-10-07
+PROD_0030,Dell Monitor 549,Accessories,1224.4,862.65,686,2.5,,3.1,96.0,Tech Distributors Inc,In Stock,2018-01-07
+PROD_0031,Dell Printer 932,Electronics,234.92,130.99,58,7.08,42.0x45.1x3.5 cm,1.4,992.0,Tech Distributors Inc,In Stock,2023-09-13
+PROD_0032,Microsoft Printer 279,Computers,404.75,204.58,872,3.12,,1.9,152.0,XYZ Tech,Out of Stock,2019-11-10
+PROD_0033,Samsung Smartphone 336,Computers,792.92,442.85,661,0.3,41.6x11.7x9.5 cm,3.8,632.0,Global Supply Co,In Stock,2022-10-26
+PROD_0034,Apple Router 304,Accessories,,,534,0.8,,2.3,401.0,xyz tech,Pre-order,2022-11-21
+PROD_0035,HP Laptop 850,Accessories,226.03,84.36,322,4.28,,2.0,899.0,ABC Electronics,Pre-order,2022-05-05
+PROD_0036,HP Laptop 893,Computers,1409.23,955.93,290,3.86,,3.9,932.0,XYZ Tech,Discontinued,2019-11-23
+PROD_0037,Sony Webcam 419,Electronics,988.22,500.15,803,7.57,24.2x9.8x6.3 cm,2.8,623.0,Global Supply Co,In Stock,2021-06-30
+PROD_0038,Dell Laptop 823,Peripherals,700.5,547.7,301,,26.2x49.3x3.7 cm,,, Global Supply Co ,Out of Stock,2021-02-04
+PROD_0039,Apple Webcam 496,Accessories,,,644,,40.2x38.3x18.0 inches,1.4,810.0,XYZ Tech,Pre-order,2021-05-11
+PROD_0040,Logitech Webcam 595,Electronics,756.9,279.49,762,2.47,27.1x6.4x8.1 cm,2.9,607.0,Global Supply Co,Out of Stock,2021-09-04
+PROD_0041,Logitech Keyboard 331,Accessories,1180.89,365.57,818,4.21,,2.5,297.0, ABC Electronics ,Discontinued,2021-07-18
+PROD_0042,Microsoft Smartphone 913,Electronics,1530.59,468.88,45,5.73,14.5x33.8x13.4 inches,,,XYZ Tech,Pre-order,2018-08-18
+PROD_0043,Apple Tablet 209,Networking,1942.06,1377.08,551,9.41,44.5x9.2x12.7 cm,,,Tech Distributors Inc,In Stock,2023-05-30
+PROD_0044,Apple Printer 883,Accessories,,,565,9.67,,2.0,225.0,XYZ Tech,Discontinued,2021-03-12
+PROD_0045,Samsung Router 389,Networking,473.23,294.1,965,7.5,20.4x22.8x14.9 cm,2.4,575.0,ABC Electronics,Pre-order,2021-06-12
+PROD_0046,HP Laptop 549,Peripherals,64.65,44.38,-40,,47.8x22.1x2.8 cm,1.1,299.0,ABC Electronics,Out of Stock,2023-07-26
+PROD_0047,Apple Headphones 214,Peripherals,1582.12,937.15,381,8.07,18.1x21.7x8.4 cm,,,Global Supply Co,Discontinued,2021-05-27
+PROD_0048,Microsoft Headphones 670,Electronics,554.52,395.17,912,9.99,,,,Tech Distributors Inc,Discontinued,2022-10-04
+PROD_0049,Sony Webcam 709,Networking,694.1,355.51,21,7.92,12.3x26.6x19.3 cm,,,Tech Distributors Inc,Discontinued,2023-08-08
+PROD_0050,Logitech Headphones 941,Peripherals,1362.78,670.07,418,8.6,40.6x8.6x18.8 cm,2.7,648.0,Tech Distributors Inc,In Stock,2018-12-23
+PROD_0051,HP Webcam 529,Computers,565.88,286.46,35,8.88,,,,Tech Distributors Inc,Pre-order,2023-05-22
+PROD_0052,Logitech Tablet 894,Networking,1670.1,1319.45,829,,14.4x27.1x2.2 cm,2.7,512.0,ABC Electronics,In Stock,2022-10-30
+PROD_0053,Sony Webcam 804,Peripherals,249.98,121.3,88,7.27,48.5x8.3x12.8 cm,3.3,787.0,Global Supply Co,Pre-order,2021-02-03
+PROD_0054,Apple Monitor 599,Electronics,1283.42,820.0,169,9.06,16.7x21.9x14.2 cm,2.3,186.0,XYZ Tech,In Stock,2018-03-17
+PROD_0055,Logitech Monitor 454,Peripherals,,,313,3.04,7.5x27.8x18.9 cm,3.9,751.0,Tech Distributors Inc,Pre-order,2018-04-23
+PROD_0056,Logitech Keyboard 841,Networking,50000.0,34780.25,-9,,41.0x32.5x3.7 inches,1.9,271.0,Tech Distributors Inc,Pre-order,2022-02-03
+PROD_0057,Sony Router 652,Electronics,1446.33,727.77,558,,15.1x40.9x14.3 inches,,,ABC Electronics,In Stock,2019-07-25
+PROD_0058,Samsung Smartphone 978,Electronics,1748.29,1334.49,616,4.9,18.3x29.6x14.2 cm,10.0,148.0,Global Supply Co,Pre-order,2021-05-24
+PROD_0059,HP Headphones 419,Accessories,939.52,455.18,394,9.62,8.9x12.7x19.6 cm,1.5,691.0,Tech Distributors Inc,Out of Stock,2019-07-06
+PROD_0060,Dell Smartphone 447,Peripherals,-50.0,,684,0.44,34.6x37.8x12.8 cm,1.2,18.0,Global Supply Co,Pre-order,2023-04-10
+PROD_0061,Sony Tablet 980,Electronics,549.43,379.0,981,5.9,,1.3,563.0,Tech Distributors Inc,Pre-order,2023-07-06
+PROD_0062,Samsung Tablet 381,Electronics,677.34,211.21,866,1.34,35.5x20.9x17.7 cm,1.7,599.0,XYZ Tech,Discontinued,2018-04-23
+PROD_0063,Dell Monitor 187,Accessories,264.64,86.36,846,6.79,,4.0,574.0,XYZ Tech,In Stock,2021-04-21
+PROD_0064,Samsung Headphones 924,Electronics,349.22,165.89,798,5.17,33.7x29.9x3.2 cm,,,ABC Electronics,Out of Stock,2021-10-25
+PROD_0065,Sony Headphones 835,Accessories,1965.52,741.96,912,3.64,15.0x21.4x15.6 cm,3.9,808.0,Tech Distributors Inc,Out of Stock,2018-01-08
+PROD_0066,Microsoft Keyboard 540,Peripherals,,,774,,,,,ABC Electronics,In Stock,2020-07-22
+PROD_0067,Apple Webcam 285,Networking,193.78,146.42,836,1.6,,2.7,99.0, ABC Electronics ,Out of Stock,2020-02-04
+PROD_0068,Logitech Laptop 903,Peripherals,1278.27,918.58,827,,8.0x19.8x17.0 cm,3.1,171.0,xyz tech,In Stock,2020-08-01
+PROD_0069,Dell Router 246,Peripherals,367.37,192.95,215,,,1.9,480.0, Tech Distributors Inc ,In Stock,2018-02-27
+PROD_0070,Logitech Webcam 790,Networking,1438.87,1062.04,620,,21.6x21.8x17.0 cm,4.7,330.0,Global Supply Co,Pre-order,2020-12-05
+PROD_0071,Sony Keyboard 788,Accessories,1169.01,498.44,687,2.68,21.8x30.0x10.6 cm,3.1,620.0,XYZ Tech,In Stock,2018-01-06
+PROD_0072,Microsoft Printer 563,Accessories,685.7,492.03,887,4.39,22.9x5.5x15.2 cm,,,Global Supply Co,Pre-order,2021-09-16
+PROD_0073,Sony Headphones 876,Peripherals,875.4,360.97,281,0.89,,3.7,121.0,Tech Distributors Inc,Pre-order,2020-11-12
+PROD_0074,Dell Keyboard 694,Computers,186.83,146.55,712,6.78,32.7x37.1x1.4 inches,1.5,707.0,Tech Distributors Inc,Out of Stock,2020-09-04
+PROD_0075,Dell Laptop 811,Networking,1237.39,442.12,800,9.7,,2.1,418.0,Tech Distributors Inc,Pre-order,2021-04-29
+PROD_0076,Samsung Webcam 804,Peripherals,711.87,334.64,573,7.29,,4.6,845.0,Global Supply Co,In Stock,2020-08-23
+PROD_0077,Samsung Headphones 170,Networking,544.12,199.52,425,3.57,32.8x29.8x16.0 cm,2.9,161.0,ABC Electronics,Pre-order,2019-05-10
+PROD_0078,Sony Printer 661,Accessories,1477.26,978.21,426,3.62,,1.6,267.0,ABC Electronics,Pre-order,2022-11-07
+PROD_0079,Dell Router 406,Accessories,619.38,315.21,608,3.07,12.3x13.5x12.1 inches,1.3,663.0,Tech Distributors Inc,Out of Stock,2018-03-11
+PROD_0080,Apple Tablet 811,Electronics,50000.0,31168.94,845,2.11,10.5x38.0x2.4 cm,4.4,965.0,Tech Distributors Inc,Pre-order,2021-09-24
+PROD_0081,Apple Printer 900,Accessories,1639.89,530.02,930,3.61,10.4x40.3x6.7 cm,1.7,539.0,Global Supply Co,Out of Stock,2020-07-31
+PROD_0082,Dell Monitor 945,Electronics,,,228,8.73,,3.6,911.0,ABC Electronics,In Stock,2020-10-12
+PROD_0083,Logitech Laptop 817,Accessories,180.9,55.87,533,4.65,,3.8,386.0,XYZ Tech,In Stock,2020-11-12
+PROD_0084,Sony Webcam 858,Networking,680.13,294.47,658,8.61,27.8x32.5x5.9 cm,,,Tech Distributors Inc,In Stock,2018-06-21
+PROD_0085,Microsoft Headphones 107,Accessories,816.0,604.45,667,2.55,7.1x10.4x3.4 cm,2.2,770.0,ABC Electronics,Discontinued,2019-07-04
+PROD_0086,Dell Laptop 779,Peripherals,1316.61,459.31,426,,25.3x27.2x13.0 cm,1.8,947.0,Tech Distributors Inc,Out of Stock,2022-03-11
+PROD_0087,Logitech Headphones 428,Accessories,339.05,127.54,726,7.65,6.6x32.5x6.8 cm,4.8,939.0,ABC Electronics,Out of Stock,2022-03-10
+PROD_0088,Apple Printer 477,Electronics,1737.97,1062.05,58,9.54,,,,Global Supply Co,Pre-order,2022-02-20
+PROD_0089,Microsoft Keyboard 378,Peripherals,1491.2,1122.15,980,3.75,,2.2,46.0,ABC Electronics,Out of Stock,2018-04-18
+PROD_0090,Apple Keyboard 744,Electronics,338.34,223.0,23,7.48,40.0x6.9x6.7 cm,1.5,988.0,ABC Electronics,Discontinued,2023-03-13
+PROD_0091,Microsoft Webcam 624,Networking,1433.33,1118.15,40,4.62,9.5x14.5x15.0 cm,3.1,866.0,Global Supply Co,Discontinued,2019-10-30
+PROD_0092,Sony Mouse 426,Computers,1476.39,864.09,276,2.99,7.4x15.8x10.4 cm,10.0,301.0,Tech Distributors Inc,Discontinued,2019-05-02
+PROD_0093,HP Keyboard 855,Computers,1383.79,807.98,592,7.83,26.9x35.7x2.9 cm,,,ABC Electronics,Discontinued,2023-11-03
+PROD_0094,HP Keyboard 378,Accessories,1415.93,881.65,-23,2.47,44.0x16.4x8.8 cm,4.8,405.0,XYZ Tech,In Stock,2023-11-24
+PROD_0095,HP Headphones 415,Electronics,531.06,289.53,933,8.87,5.9x33.3x9.1 cm,1.6,105.0,abc electronics,In Stock,2021-03-24
+PROD_0096,Apple Monitor 504,Accessories,1163.43,361.01,887,9.26,10.6x21.9x2.0 cm,10.0,588.0,ABC Electronics,Discontinued,2020-02-26
+PROD_0097,Samsung Monitor 924,Computers,1257.54,870.28,159,7.21,10.3x48.4x1.8 cm,4.9,937.0,ABC Electronics,Pre-order,2023-10-17
+PROD_0098,Logitech Smartphone 685,Networking,1834.92,1186.81,394,,27.8x46.9x16.6 cm,3.2,230.0,ABC Electronics,Discontinued,2018-07-02
+PROD_0099,Logitech Smartphone 375,Electronics,1195.89,525.84,-34,2.73,28.2x17.7x12.3 cm,,,XYZ Tech,In Stock,2019-01-06
+PROD_0100,Logitech Mouse 337,Accessories,314.05,97.0,860,1.71,37.4x11.1x13.5 cm,,,ABC Electronics,Discontinued,2021-08-17
+PROD_0101,HP Mouse 462,Electronics,193.03,125.86,868,3.83,,2.7,302.0,Global Supply Co,In Stock,2020-11-19
+PROD_0102,Apple Smartphone 116,Peripherals,365.57,268.14,632,9.28,26.4x43.0x19.9 cm,,,Global Supply Co,Discontinued,2020-05-29
+PROD_0103,Dell Smartphone 600,Peripherals,,,794,1.83,20.5x15.1x5.0 inches,3.2,622.0, ABC Electronics ,In Stock,2018-04-11
+PROD_0104,HP Tablet 281,Electronics,,,135,3.82,48.3x49.6x3.5 cm,3.2,302.0,Global Supply Co,Discontinued,2023-08-16
+PROD_0105,Samsung Keyboard 195,Networking,,,808,7.72,,10.0,262.0,ABC Electronics,Pre-order,2018-12-20
+PROD_0106,Dell Headphones 591,Electronics,1054.66,471.75,869,7.52,34.0x33.5x8.3 cm,2.8,608.0,global supply co,Discontinued,2018-01-14
+PROD_0107,Dell Router 344,Computers,1845.43,993.39,943,7.07,,,,Global Supply Co,Discontinued,2023-01-01
+PROD_0108,HP Headphones 413,Accessories,,,214,,16.7x16.6x9.2 cm,1.1,971.0,Global Supply Co,In Stock,2023-12-16
+PROD_0109,HP Smartphone 873,Peripherals,153.81,61.17,745,4.18,34.6x49.1x5.4 cm,3.6,336.0,XYZ Tech,Discontinued,2022-01-21
+PROD_0110,Apple Webcam 314,Electronics,214.41,152.08,774,8.32,7.4x26.6x2.1 inches,1.9,366.0,Tech Distributors Inc,Discontinued,2022-03-13
+PROD_0111,Dell Smartphone 877,Computers,143.69,67.44,-36,3.75,48.1x21.7x11.7 cm,,,Global Supply Co,In Stock,2022-12-02
+PROD_0112,Logitech Tablet 671,Networking,441.19,144.04,889,9.39,,10.0,128.0,Global Supply Co,Pre-order,2021-07-23
+PROD_0113,Dell Smartphone 388,Accessories,1327.02,916.86,10,3.32,38.1x41.2x13.6 cm,4.9,477.0,Tech Distributors Inc,In Stock,2023-03-12
+PROD_0114,Sony Router 912,Peripherals,1393.9,575.79,905,9.77,28.6x28.4x2.5 cm,3.7,432.0,tech distributors inc,Pre-order,2023-04-18
+PROD_0115,Microsoft Laptop 689,Peripherals,1626.02,932.38,749,1.86,30.1x46.9x8.0 cm,4.2,67.0,Global Supply Co,In Stock,2022-02-15
+PROD_0116,Dell Laptop 626,Peripherals,1091.0,676.98,694,8.49,,3.0,56.0,Global Supply Co,Pre-order,2022-08-12
+PROD_0117,HP Webcam 569,Electronics,639.76,199.7,800,,,2.5,201.0,Tech Distributors Inc,In Stock,2020-06-19
+PROD_0118,Logitech Router 461,Networking,1098.56,490.11,149,2.78,7.8x15.0x15.4 cm,1.8,207.0,ABC Electronics,Pre-order,2018-07-30
+PROD_0119,Apple Keyboard 687,Networking,1477.59,755.41,984,3.56,,1.8,436.0, XYZ Tech ,Discontinued,2020-03-27
+PROD_0120,Microsoft Tablet 555,Computers,1942.55,1002.83,993,5.86,47.2x27.4x19.3 cm,4.1,383.0,ABC Electronics,Out of Stock,2018-01-17
+PROD_0121,Sony Monitor 940,Computers,1712.07,1303.87,965,4.26,18.4x25.1x12.8 inches,4.6,891.0,XYZ Tech,In Stock,2018-05-27
+PROD_0122,Logitech Keyboard 558,Computers,1065.99,606.35,218,5.67,,4.8,450.0,tech distributors inc,Out of Stock,2021-05-14
+PROD_0123,HP Tablet 390,Computers,261.4,153.38,96,2.23,34.4x16.9x1.7 cm,,,Global Supply Co,Discontinued,2019-08-26
+PROD_0124,Apple Webcam 912,Peripherals,1726.62,1255.26,62,2.86,25.6x18.6x11.3 cm,2.3,314.0,global supply co,Out of Stock,2023-07-17
+PROD_0125,Microsoft Mouse 713,Peripherals,743.85,429.34,505,5.56,,2.0,901.0,XYZ Tech,Pre-order,2020-11-06
+PROD_0126,Logitech Tablet 442,Electronics,928.89,711.37,-6,4.91,21.3x41.8x11.4 cm,,,Tech Distributors Inc,Out of Stock,2021-01-10
+PROD_0127,Apple Mouse 185,Electronics,210.04,147.08,870,,,1.2,406.0, XYZ Tech ,Pre-order,2019-10-30
+PROD_0128,Microsoft Monitor 285,Electronics,369.4,114.25,199,3.19,,,,XYZ Tech,Discontinued,2021-05-01
+PROD_0129,Microsoft Laptop 452,Networking,577.92,447.7,762,9.26,17.5x50.0x9.7 cm,,,xyz tech,Pre-order,2018-06-01
+PROD_0130,Apple Monitor 416,Accessories,891.4,682.41,486,6.28,35.6x14.0x14.3 cm,1.4,285.0,ABC Electronics,In Stock,2020-08-04
+PROD_0131,Microsoft Monitor 489,Accessories,29.89,9.82,227,,25.8x43.3x5.2 cm,3.7,304.0,XYZ Tech,Pre-order,2019-02-03
+PROD_0132,Microsoft Monitor 397,Electronics,1006.97,780.96,842,1.26,17.6x42.5x14.4 cm,2.6,618.0,tech distributors inc,In Stock,2019-07-26
+PROD_0133,Dell Laptop 312,Computers,719.82,424.07,634,4.73,,2.5,432.0,Tech Distributors Inc,Discontinued,2019-01-16
+PROD_0134,HP Headphones 819,Peripherals,1531.17,1060.01,-99,3.09,10.0x49.7x5.9 cm,2.1,293.0,XYZ Tech,In Stock,2018-03-08
+PROD_0135,Sony Keyboard 626,Computers,1674.92,782.48,782,5.65,8.4x18.2x12.0 cm,1.9,422.0,Global Supply Co,In Stock,2018-05-29
+PROD_0136,Dell Mouse 651,Computers,1090.42,598.61,923,0.68,,4.6,381.0,ABC Electronics,Discontinued,2018-06-03
+PROD_0137,Microsoft Tablet 815,Peripherals,1458.83,939.8,693,5.9,13.6x40.6x3.8 cm,,,Global Supply Co,Discontinued,2019-12-10
+PROD_0138,Apple Keyboard 722,Networking,652.08,456.99,47,0.95,39.5x14.2x11.4 cm,3.1,406.0,ABC Electronics,In Stock,2023-04-09
+PROD_0139,Samsung Router 942,Electronics,629.98,459.63,895,8.66,,,,Tech Distributors Inc,Pre-order,2019-04-19
+PROD_0140,Dell Smartphone 340,Networking,425.87,305.07,358,2.12,31.3x22.9x9.8 inches,1.8,882.0,ABC Electronics,Out of Stock,2021-06-25
+PROD_0141,HP Headphones 825,Networking,1658.04,589.65,711,,,2.1,880.0,global supply co,In Stock,2021-04-08
+PROD_0142,Microsoft Monitor 215,Computers,1110.89,664.29,956,2.28,45.8x6.3x6.6 inches,2.5,216.0,XYZ Tech,Discontinued,2018-09-16
+PROD_0143,HP Webcam 213,Peripherals,1329.75,655.91,344,,38.2x27.8x11.6 cm,,,tech distributors inc,Discontinued,2023-11-05
+PROD_0144,Sony Webcam 102,Accessories,93.41,62.47,886,2.58,28.8x22.4x16.1 cm,4.7,218.0,Tech Distributors Inc,Pre-order,2020-10-08
+PROD_0145,Sony Headphones 691,Networking,244.69,83.13,201,,42.1x38.4x18.0 cm,4.9,524.0,XYZ Tech,In Stock,2021-12-09
+PROD_0146,HP Monitor 860,Peripherals,594.81,230.68,288,4.7,17.6x8.5x5.6 cm,,,XYZ Tech,Out of Stock,2021-01-03
+PROD_0147,Samsung Keyboard 337,Accessories,1038.91,423.5,604,6.7,,2.6,148.0,Tech Distributors Inc,Out of Stock,2019-03-26
+PROD_0148,Samsung Router 699,Accessories,1009.57,634.64,809,3.66,,1.8,124.0,Tech Distributors Inc,Discontinued,2020-01-20
+PROD_0149,Sony Webcam 946,Peripherals,236.78,145.76,422,9.71,42.5x45.2x9.8 inches,1.3,649.0,ABC Electronics,In Stock,2020-07-20
+PROD_0150,HP Monitor 417,Networking,247.53,136.45,317,7.76,,3.2,991.0,xyz tech,Pre-order,2019-03-28
+PROD_0151,Microsoft Webcam 246,Accessories,1368.58,763.77,937,9.53,,1.1,369.0,Global Supply Co,Out of Stock,2022-03-07
+PROD_0152,Samsung Smartphone 211,Networking,,,653,,,,,Tech Distributors Inc,Pre-order,2021-11-01
+PROD_0153,Logitech Smartphone 615,Computers,613.09,196.87,884,1.32,21.3x22.0x10.7 inches,,,ABC Electronics,Discontinued,2023-10-08
+PROD_0154,Logitech Smartphone 346,Peripherals,1972.68,1243.47,812,,,,,XYZ Tech,Discontinued,2018-05-09
+PROD_0155,HP Mouse 618,Peripherals,1533.13,916.32,581,,41.1x48.5x15.7 cm,,,XYZ Tech,In Stock,2020-01-16
+PROD_0156,Microsoft Mouse 699,Peripherals,646.13,295.39,161,,37.8x27.6x18.2 cm,,,ABC Electronics,Pre-order,2023-01-09
+PROD_0157,Samsung Headphones 767,Accessories,917.34,662.24,220,0.61,24.8x32.4x17.3 cm,,,Tech Distributors Inc,Discontinued,2019-05-05
+PROD_0158,Logitech Monitor 523,Computers,852.07,616.63,815,3.83,41.7x7.3x13.2 cm,10.0,437.0,ABC Electronics,Pre-order,2019-04-23
+PROD_0159,HP Webcam 614,Accessories,,,231,,33.2x23.3x11.4 inches,2.6,126.0,Tech Distributors Inc,Pre-order,2018-08-26
+PROD_0160,Samsung Laptop 998,Accessories,1732.6,1336.1,823,0.38,9.0x8.9x12.2 cm,2.4,865.0, ABC Electronics ,Discontinued,2020-11-22
+PROD_0161,Logitech Laptop 808,Networking,355.52,163.6,991,1.06,,4.3,266.0,ABC Electronics,Out of Stock,2018-08-09
+PROD_0162,HP Smartphone 665,Electronics,1788.66,1408.0,608,1.2,,3.7,828.0,ABC Electronics,Out of Stock,2020-12-12
+PROD_0163,Logitech Mouse 888,Electronics,851.02,547.77,803,7.44,43.6x39.5x8.3 cm,1.2,780.0,ABC Electronics,In Stock,2022-09-16
+PROD_0164,Apple Keyboard 463,Electronics,1107.82,484.95,763,3.01,25.4x5.9x4.8 cm,1.8,230.0,ABC Electronics,Discontinued,2022-11-10
+PROD_0165,HP Smartphone 785,Accessories,1421.65,473.92,80,5.57,,3.3,894.0,Tech Distributors Inc,Discontinued,2019-12-16
+PROD_0166,Samsung Webcam 649,Computers,1901.4,960.19,331,7.19,45.8x32.5x7.2 cm,1.2,621.0,XYZ Tech,Pre-order,2022-10-23
+PROD_0167,Sony Mouse 206,Computers,,,765,2.64,,6.0,631.0,xyz tech,Discontinued,2021-09-09
+PROD_0168,Logitech Webcam 950,Peripherals,1441.81,962.52,768,4.86,,6.0,671.0,Tech Distributors Inc,In Stock,2019-09-05
+PROD_0169,Dell Printer 113,Electronics,,,455,6.2,28.0x40.3x18.0 cm,4.0,484.0, ABC Electronics ,Pre-order,2018-01-14
+PROD_0170,Microsoft Printer 758,Accessories,517.98,377.4,863,3.56,9.0x42.2x14.2 cm,4.5,7.0,Global Supply Co,Out of Stock,2022-07-05
+PROD_0171,Logitech Mouse 637,Computers,186.13,130.81,899,,,10.0,766.0,Tech Distributors Inc,In Stock,2021-06-16
+PROD_0172,Dell Headphones 555,Computers,658.61,510.89,987,1.98,,2.1,571.0,ABC Electronics,Pre-order,2020-04-02
+PROD_0173,Dell Tablet 526,Electronics,50000.0,16019.43,482,0.98,12.7x42.5x14.1 inches,4.4,594.0,XYZ Tech,Discontinued,2019-04-14
+PROD_0174,Microsoft Mouse 169,Accessories,49.81,21.54,891,,31.4x39.8x16.4 cm,0.0,537.0,xyz tech,In Stock,2022-12-05
+PROD_0175,Logitech Monitor 891,Electronics,50000.0,38014.03,548,6.9,39.7x16.3x8.0 cm,,,Tech Distributors Inc,Pre-order,2020-10-19
+PROD_0176,Logitech Tablet 482,Accessories,1800.07,1372.9,180,4.75,,1.8,29.0,Global Supply Co,In Stock,2022-07-09
+PROD_0177,Samsung Monitor 717,Networking,1264.96,814.81,271,5.68,41.4x12.7x11.3 cm,1.0,670.0,Tech Distributors Inc,Discontinued,2023-09-06
+PROD_0178,Sony Router 902,Computers,,,78,8.15,38.0x46.5x6.6 inches,6.0,980.0,Global Supply Co,In Stock,2021-03-06
+PROD_0179,Dell Keyboard 272,Accessories,1373.13,932.2,920,9.32,37.6x37.2x15.3 cm,1.2,63.0,XYZ Tech,Discontinued,2022-12-11
+PROD_0180,Logitech Keyboard 228,Electronics,857.12,631.54,383,,,4.1,428.0,ABC Electronics,In Stock,2023-08-02
+PROD_0181,Sony Laptop 619,Peripherals,558.26,432.92,240,7.58,,1.6,854.0,Tech Distributors Inc,Pre-order,2020-07-13
+PROD_0182,Sony Keyboard 422,Peripherals,1947.84,671.35,36,3.78,39.1x30.9x14.5 cm,3.0,864.0,XYZ Tech,In Stock,2021-08-04
+PROD_0183,Dell Tablet 194,Networking,129.65,76.82,878,7.49,44.7x49.9x15.7 cm,2.0,80.0,XYZ Tech,In Stock,2022-07-30
+PROD_0184,HP Headphones 667,Electronics,614.37,481.77,393,,,1.5,341.0,XYZ Tech,Out of Stock,2018-02-01
+PROD_0185,Sony Mouse 906,Electronics,,,389,2.89,24.3x9.2x16.9 inches,,,ABC Electronics,In Stock,2022-03-20
+PROD_0186,Sony Smartphone 727,Computers,1088.51,503.02,-51,3.06,8.5x8.2x10.1 cm,2.9,770.0,XYZ Tech,Discontinued,2018-09-26
+PROD_0187,Samsung Keyboard 876,Networking,50000.0,39098.35,133,3.35,,3.6,640.0,XYZ Tech,Pre-order,2020-04-27
+PROD_0188,Apple Laptop 799,Networking,327.84,250.95,454,9.65,25.7x26.1x19.4 cm,,, Global Supply Co ,Discontinued,2022-02-24
+PROD_0189,Apple Tablet 590,Computers,,,279,2.01,31.3x36.2x4.7 cm,4.5,998.0,Global Supply Co,Out of Stock,2022-03-14
+PROD_0190,HP Mouse 986,Peripherals,346.45,163.03,72,8.94,,4.5,540.0,Tech Distributors Inc,Out of Stock,2020-05-24
+PROD_0191,HP Laptop 537,Electronics,462.28,156.69,716,1.48,49.3x42.4x9.9 cm,4.8,967.0,XYZ Tech,Out of Stock,2019-09-14
+PROD_0192,Logitech Smartphone 220,Electronics,1889.71,1085.9,50,5.89,14.9x7.1x13.4 inches,1.3,660.0, Tech Distributors Inc ,In Stock,2023-09-21
+PROD_0193,Sony Tablet 677,Networking,1017.86,365.53,241,3.25,,,,Tech Distributors Inc,Discontinued,2023-09-02
+PROD_0194,Apple Printer 471,Peripherals,977.1,757.84,512,4.14,7.3x17.6x9.0 cm,,,Global Supply Co,Pre-order,2021-01-18
+PROD_0195,HP Printer 128,Peripherals,68.27,25.44,496,,11.5x42.3x3.9 cm,1.1,308.0,Tech Distributors Inc,Out of Stock,2022-07-04
+PROD_0196,Microsoft Headphones 789,Peripherals,1249.43,597.9,426,7.23,7.4x16.1x6.2 cm,,,Global Supply Co,Out of Stock,2019-12-07
+PROD_0197,Samsung Monitor 323,Accessories,1018.53,341.39,367,,,4.8,298.0,Global Supply Co,Discontinued,2018-08-29
+PROD_0198,Microsoft Printer 721,Accessories,96.08,34.41,14,,14.6x33.8x18.0 cm,2.4,342.0,Global Supply Co,Discontinued,2018-04-04
+PROD_0199,Microsoft Router 408,Accessories,1472.6,835.02,294,7.06,37.4x8.0x3.1 cm,2.6,975.0,XYZ Tech,Pre-order,2018-02-18
+PROD_0200,Sony Laptop 694,Networking,,,-18,2.29,32.7x43.7x1.7 cm,2.0,199.0,Global Supply Co,Pre-order,2018-08-08
+PROD_0201,HP Mouse 445,Electronics,0.0,,835,,,,,XYZ Tech,Pre-order,2019-07-04
+PROD_0202,Microsoft Webcam 395,Peripherals,,,98,5.12,16.6x39.3x8.4 inches,4.0,864.0,Global Supply Co,Out of Stock,2019-11-25
+PROD_0203,Apple Headphones 147,Networking,1697.86,1041.6,485,5.53,48.5x21.7x6.5 inches,2.7,895.0,XYZ Tech,Discontinued,2018-07-09
+PROD_0204,Logitech Smartphone 621,Peripherals,1622.94,843.78,562,,,1.3,364.0,ABC Electronics,Discontinued,2023-11-24
+PROD_0205,Microsoft Tablet 651,Peripherals,1400.26,609.18,269,3.77,,3.1,652.0,XYZ Tech,Out of Stock,2023-03-27
+PROD_0206,HP Keyboard 571,Electronics,1586.55,622.76,690,6.0,44.4x34.3x12.4 inches,2.7,525.0,ABC Electronics,Discontinued,2021-12-23
+PROD_0207,Logitech Keyboard 881,Computers,1182.33,704.44,718,,9.6x42.4x7.4 cm,1.9,276.0,XYZ Tech,In Stock,2022-06-21
+PROD_0208,Samsung Headphones 617,Networking,1885.54,1244.15,38,,8.1x5.2x19.1 cm,3.1,341.0, Tech Distributors Inc ,Pre-order,2022-09-08
+PROD_0209,Microsoft Monitor 552,Peripherals,1483.94,811.28,959,6.42,40.0x43.3x10.4 cm,2.9,696.0,XYZ Tech,Out of Stock,2020-09-23
+PROD_0210,Apple Printer 113,Electronics,,,900,0.15,,3.7,732.0,Tech Distributors Inc,Discontinued,2020-10-30
+PROD_0211,Dell Mouse 807,Computers,297.65,185.2,23,6.52,28.5x28.4x13.6 cm,1.0,849.0,Global Supply Co,Discontinued,2020-01-12
+PROD_0212,Apple Laptop 230,Peripherals,,,229,9.96,44.0x9.2x6.6 inches,3.0,526.0,ABC Electronics,Pre-order,2019-12-31
+PROD_0213,Sony Keyboard 260,Peripherals,73.37,49.09,621,3.23,35.9x20.1x12.9 cm,,, XYZ Tech ,Out of Stock,2018-12-18
+PROD_0214,Logitech Mouse 684,Peripherals,774.59,301.05,275,0.45,46.5x36.0x5.5 cm,,,Tech Distributors Inc,In Stock,2022-05-10
+PROD_0215,HP Printer 110,Peripherals,1997.43,1170.84,977,,6.8x33.2x4.6 cm,,,abc electronics,Out of Stock,2019-06-09
+PROD_0216,HP Keyboard 797,Peripherals,773.16,271.0,325,4.91,31.0x23.3x1.0 cm,6.0,860.0,ABC Electronics,Out of Stock,2020-01-15
+PROD_0217,HP Tablet 215,Computers,1492.44,878.39,26,1.87,,0.0,222.0,XYZ Tech,In Stock,2021-03-05
+PROD_0218,Dell Tablet 339,Accessories,1429.33,987.35,86,1.02,8.8x42.0x12.0 cm,2.3,490.0,Global Supply Co,In Stock,2021-04-16
+PROD_0219,Microsoft Headphones 431,Electronics,616.29,402.55,584,6.1,8.9x23.3x1.4 inches,,,ABC Electronics,Out of Stock,2019-04-12
+PROD_0220,Microsoft Monitor 556,Electronics,1887.68,567.47,308,9.03,11.2x6.2x6.0 cm,,,ABC Electronics,Out of Stock,2019-12-24
+PROD_0221,Samsung Webcam 543,Accessories,1130.6,454.83,382,,,3.6,387.0,Global Supply Co,In Stock,2022-10-10
+PROD_0222,Logitech Webcam 173,Computers,1781.68,811.3,19,0.32,,1.8,664.0,XYZ Tech,Pre-order,2018-06-28
+PROD_0223,Microsoft Webcam 302,Electronics,1100.71,590.32,447,,47.4x42.1x14.5 cm,3.2,352.0, global supply co ,Pre-order,2019-01-14
+PROD_0224,Logitech Monitor 499,Peripherals,130.86,60.15,668,3.49,28.3x33.0x1.3 inches,3.4,190.0,Tech Distributors Inc,Pre-order,2018-05-26
+PROD_0225,Microsoft Mouse 860,Networking,1357.64,979.82,126,5.68,42.1x15.0x19.1 cm,1.8,626.0,XYZ Tech,Out of Stock,2020-05-07
+PROD_0226,Apple Smartphone 829,Computers,,,515,1.61,23.0x20.2x10.9 cm,3.1,366.0,Tech Distributors Inc,Discontinued,2018-11-20
+PROD_0227,Logitech Router 582,Accessories,1543.37,1190.79,896,7.11,34.9x44.0x14.4 cm,4.0,17.0,Global Supply Co,In Stock,2020-01-18
+PROD_0228,Samsung Printer 174,Electronics,1144.95,506.58,300,,,1.6,650.0,Global Supply Co,Discontinued,2019-09-29
+PROD_0229,Sony Webcam 945,Networking,563.71,410.95,349,9.66,,,,Tech Distributors Inc,Pre-order,2020-03-18
+PROD_0230,Sony Printer 951,Computers,36.66,24.22,856,1.69,9.7x44.2x10.6 cm,4.9,984.0,ABC Electronics,Discontinued,2022-02-19
+PROD_0231,Samsung Monitor 744,Networking,1870.36,837.37,197,5.85,,2.2,469.0,Global Supply Co,Pre-order,2021-03-16
+PROD_0232,HP Smartphone 499,Networking,,,977,,13.8x35.6x12.7 cm,2.8,716.0,ABC Electronics,Pre-order,2022-01-30
+PROD_0233,Microsoft Monitor 502,Accessories,,,13,2.51,27.9x10.2x3.2 inches,3.3,613.0,XYZ Tech,Discontinued,2022-07-24
+PROD_0234,Samsung Tablet 418,Accessories,352.57,265.93,425,5.32,,2.8,296.0,ABC Electronics,Out of Stock,2022-08-26
+PROD_0235,Apple Laptop 154,Networking,,,489,6.87,17.7x49.9x1.7 cm,4.9,438.0,Global Supply Co,In Stock,2022-05-28
+PROD_0236,Sony Smartphone 966,Accessories,1707.69,833.69,-15,,,,,Global Supply Co,Out of Stock,2022-03-20
+PROD_0237,Microsoft Headphones 273,Accessories,815.43,303.2,636,,25.6x23.5x15.2 cm,5.0,57.0,Tech Distributors Inc,In Stock,2023-06-25
+PROD_0238,Dell Tablet 796,Networking,1335.88,676.97,422,2.66,23.5x36.2x15.1 cm,1.1,160.0,XYZ Tech,Out of Stock,2020-03-12
+PROD_0239,Logitech Keyboard 696,Accessories,902.68,391.16,89,2.78,,4.2,651.0,abc electronics,Discontinued,2023-05-14
+PROD_0240,Logitech Printer 172,Peripherals,1524.53,831.71,647,1.25,23.8x26.7x7.5 cm,1.2,799.0,global supply co,Pre-order,2018-08-24
+PROD_0241,Sony Monitor 512,Computers,1900.96,916.33,88,8.44,29.4x46.0x9.4 cm,3.6,28.0,global supply co,Discontinued,2019-02-05
+PROD_0242,Apple Monitor 505,Networking,0.0,,3,3.35,13.7x47.1x2.7 cm,2.2,527.0,ABC Electronics,Discontinued,2023-05-14
+PROD_0243,Logitech Keyboard 796,Peripherals,726.83,475.5,738,,39.3x16.0x9.7 cm,1.6,581.0,XYZ Tech,Discontinued,2021-01-05
+PROD_0244,Logitech Mouse 654,Peripherals,880.93,622.1,984,7.49,22.8x39.5x14.3 cm,4.3,376.0,Tech Distributors Inc,In Stock,2022-01-09
+PROD_0245,Samsung Smartphone 629,Electronics,1238.43,641.16,996,2.05,,,,Global Supply Co,Pre-order,2021-09-27
+PROD_0246,Apple Webcam 849,Electronics,77.43,50.54,122,,32.4x14.1x7.1 inches,,,Global Supply Co,Pre-order,2018-12-29
+PROD_0247,Apple Tablet 430,Networking,147.03,91.15,389,5.35,11.0x35.0x10.7 inches,,,Global Supply Co,Discontinued,2020-08-13
+PROD_0248,Microsoft Smartphone 962,Electronics,1406.58,757.88,983,3.92,24.6x18.8x5.3 cm,,,XYZ Tech,Pre-order,2018-10-18
+PROD_0249,Microsoft Monitor 789,Electronics,,,665,4.31,5.8x35.6x2.5 cm,3.7,218.0, ABC Electronics ,Pre-order,2023-07-29
+PROD_0250,Dell Tablet 615,Accessories,0.0,,420,0.52,14.3x38.6x19.4 inches,2.4,539.0,ABC Electronics,Discontinued,2019-02-13
+PROD_0251,Microsoft Smartphone 541,Peripherals,1173.6,394.89,319,6.37,20.6x25.3x4.7 cm,2.5,947.0,Tech Distributors Inc,Out of Stock,2020-04-30
+PROD_0252,Apple Laptop 857,Networking,1802.21,1403.33,297,,,2.4,537.0,XYZ Tech,Discontinued,2020-12-24
+PROD_0253,Logitech Mouse 456,Accessories,1271.02,724.06,260,0.57,43.6x7.0x15.7 cm,3.6,270.0,xyz tech,Pre-order,2018-07-22
+PROD_0254,Apple Printer 890,Networking,447.98,262.85,744,8.72,,2.7,9.0,ABC Electronics,Out of Stock,2023-05-17
+PROD_0255,Sony Laptop 627,Computers,1952.49,870.5,538,,46.7x33.4x14.0 cm,1.0,748.0,Global Supply Co,Out of Stock,2020-10-28
+PROD_0256,Logitech Webcam 745,Electronics,,,507,2.65,,,,Tech Distributors Inc,In Stock,2021-11-12
+PROD_0257,HP Keyboard 456,Computers,380.91,164.19,559,4.54,12.8x34.3x11.9 inches,4.6,398.0,Tech Distributors Inc,Pre-order,2018-09-26
+PROD_0258,HP Printer 965,Electronics,134.45,47.31,564,7.65,,1.1,410.0,Tech Distributors Inc,Out of Stock,2021-02-06
+PROD_0259,Samsung Monitor 132,Computers,,,771,6.42,38.2x20.2x5.4 cm,4.6,436.0,ABC Electronics,In Stock,2019-04-01
+PROD_0260,HP Tablet 429,Peripherals,556.7,337.16,-62,,9.6x35.5x2.3 cm,2.9,429.0,XYZ Tech,In Stock,2023-09-25
+PROD_0261,Samsung Tablet 596,Electronics,32.41,12.39,621,2.84,,4.1,187.0,XYZ Tech,Pre-order,2021-07-16
+PROD_0262,Microsoft Printer 830,Electronics,1150.95,874.14,762,,7.9x21.6x3.3 cm,,,Tech Distributors Inc,Out of Stock,2019-04-22
+PROD_0263,Sony Mouse 303,Peripherals,293.23,195.83,769,7.83,38.6x7.9x4.1 cm,4.8,700.0,global supply co,In Stock,2023-10-02
+PROD_0264,HP Headphones 777,Peripherals,1137.48,501.68,383,0.7,,4.1,561.0, Global Supply Co ,Discontinued,2020-10-25
+PROD_0265,Samsung Router 615,Networking,684.67,359.88,533,5.65,48.6x50.0x5.0 cm,1.3,882.0,XYZ Tech,Out of Stock,2020-02-10
+PROD_0266,Dell Tablet 774,Accessories,1205.41,541.96,584,,,1.6,478.0,XYZ Tech,Out of Stock,2019-01-17
+PROD_0267,Dell Mouse 784,Peripherals,1412.42,926.21,167,4.39,,0.0,691.0,tech distributors inc,In Stock,2022-03-23
+PROD_0268,HP Tablet 536,Accessories,50000.0,31605.41,155,1.62,25.7x41.0x16.9 cm,2.7,945.0,Global Supply Co,Pre-order,2023-07-23
+PROD_0269,Samsung Laptop 550,Electronics,111.64,84.06,-53,,,0.0,930.0,XYZ Tech,Pre-order,2020-11-10
+PROD_0270,Dell Headphones 195,Electronics,1686.82,1086.87,-56,,23.2x9.8x2.2 cm,,,ABC Electronics,Discontinued,2023-08-31
+PROD_0271,HP Smartphone 663,Peripherals,1807.1,667.73,477,0.66,8.0x21.4x2.5 cm,,, XYZ Tech ,In Stock,2018-03-18
+PROD_0272,Dell Keyboard 823,Electronics,98.67,61.95,528,5.96,,1.0,554.0,Tech Distributors Inc,Discontinued,2022-09-29
+PROD_0273,Sony Headphones 184,Electronics,1270.45,491.25,987,4.52,11.2x15.7x14.8 cm,0.0,403.0,ABC Electronics,Out of Stock,2019-06-12
+PROD_0274,Dell Monitor 702,Computers,113.88,39.51,-63,1.11,,,,Tech Distributors Inc,Pre-order,2019-06-21
+PROD_0275,Apple Printer 183,Peripherals,787.34,441.19,373,2.0,27.7x35.3x5.7 cm,4.7,882.0,XYZ Tech,In Stock,2023-11-03
+PROD_0276,Sony Webcam 215,Computers,988.24,394.15,531,7.65,36.7x42.9x7.1 inches,1.2,944.0,Global Supply Co,Discontinued,2021-05-02
+PROD_0277,HP Webcam 460,Computers,0.0,,854,8.14,43.2x37.6x6.7 cm,1.1,481.0,ABC Electronics,Pre-order,2023-07-24
+PROD_0278,Microsoft Mouse 308,Networking,,,853,3.2,,1.6,882.0,Global Supply Co,Out of Stock,2019-11-12
+PROD_0279,Logitech Monitor 804,Peripherals,302.99,138.21,487,1.29,,4.7,297.0,XYZ Tech,In Stock,2018-09-04
+PROD_0280,Apple Router 895,Computers,,,523,8.65,,4.6,520.0,Global Supply Co,Pre-order,2018-04-01
+PROD_0281,Microsoft Monitor 366,Electronics,-50.0,,588,5.05,,3.0,623.0,XYZ Tech,Discontinued,2020-09-25
+PROD_0282,Sony Smartphone 123,Accessories,1222.15,969.5,816,6.92,,1.1,779.0,ABC Electronics,Out of Stock,2023-03-05
+PROD_0283,Dell Laptop 177,Electronics,1977.32,1185.61,107,,21.3x24.8x11.6 inches,1.0,629.0,Global Supply Co,Out of Stock,2018-11-03
+PROD_0284,HP Smartphone 855,Accessories,0.0,,219,6.93,10.9x29.1x8.3 cm,3.4,258.0,ABC Electronics,Pre-order,2019-07-17
+PROD_0285,Microsoft Printer 827,Networking,201.02,128.06,470,,35.9x7.3x9.3 cm,3.2,846.0,ABC Electronics,Discontinued,2019-02-15
+PROD_0286,Logitech Headphones 106,Electronics,1864.36,712.28,411,4.26,12.7x48.8x5.6 cm,1.3,881.0,ABC Electronics,Out of Stock,2022-07-10
+PROD_0287,Microsoft Headphones 868,Peripherals,630.92,377.38,157,,,1.4,911.0,XYZ Tech,In Stock,2022-12-15
+PROD_0288,Samsung Webcam 695,Computers,854.2,674.43,130,3.32,42.9x11.2x1.9 inches,4.6,939.0,XYZ Tech,In Stock,2018-11-10
+PROD_0289,Samsung Tablet 189,Computers,1551.92,994.97,358,,,2.8,654.0,Global Supply Co,In Stock,2021-11-26
+PROD_0290,Apple Laptop 703,Peripherals,1450.27,519.74,522,,8.7x36.2x16.9 cm,,,ABC Electronics,Out of Stock,2019-10-24
+PROD_0291,Apple Mouse 959,Electronics,1012.29,697.15,61,,26.0x6.9x11.8 cm,3.5,96.0,Global Supply Co,In Stock,2019-01-17
+PROD_0292,HP Laptop 478,Electronics,1411.48,777.5,-37,4.15,20.7x15.2x19.4 cm,1.3,163.0,Tech Distributors Inc,Pre-order,2020-01-28
+PROD_0293,Logitech Keyboard 584,Peripherals,,,362,2.37,37.9x37.4x10.1 inches,4.4,915.0,Tech Distributors Inc,Pre-order,2020-02-24
+PROD_0294,Logitech Monitor 376,Electronics,,,685,9.4,8.3x29.5x7.7 cm,4.4,369.0,Tech Distributors Inc,Out of Stock,2023-03-07
+PROD_0295,Apple Smartphone 971,Networking,353.36,240.52,484,7.07,30.3x28.8x17.3 inches,10.0,21.0,ABC Electronics,Pre-order,2019-04-22
+PROD_0296,Sony Monitor 100,Electronics,528.62,281.85,764,9.65,18.5x18.8x15.5 cm,2.6,178.0,Tech Distributors Inc,Discontinued,2019-01-28
+PROD_0297,Microsoft Router 634,Electronics,1761.55,733.88,717,,47.7x19.3x7.4 inches,1.6,472.0,Tech Distributors Inc,Out of Stock,2022-02-22
+PROD_0298,Sony Printer 719,Networking,56.42,19.21,248,,,3.0,69.0,Tech Distributors Inc,Out of Stock,2020-09-16
+PROD_0299,Sony Laptop 158,Networking,,,327,0.58,,2.7,191.0,global supply co,Discontinued,2022-07-31
+PROD_0300,Microsoft Monitor 504,Electronics,13.71,7.66,823,,,4.4,533.0,Tech Distributors Inc,Discontinued,2018-04-15
+PROD_0301,Microsoft Webcam 111,Accessories,354.98,154.1,991,9.48,49.9x13.6x10.5 cm,4.4,336.0,XYZ Tech,In Stock,2019-04-20
+PROD_0302,Samsung Router 437,Electronics,860.78,451.09,381,3.24,8.7x40.1x19.4 cm,4.4,123.0,Global Supply Co,Out of Stock,2023-04-24
+PROD_0303,HP Smartphone 854,Electronics,1034.69,771.41,550,0.65,11.5x49.1x18.1 cm,,,Tech Distributors Inc,Pre-order,2022-10-10
+PROD_0304,Sony Webcam 473,Networking,1462.73,808.57,804,,5.7x6.2x17.1 cm,3.1,821.0,Global Supply Co,Out of Stock,2019-05-05
+PROD_0305,Apple Mouse 212,Electronics,50000.0,16960.6,202,2.36,,3.4,201.0,Tech Distributors Inc,Pre-order,2022-01-16
+PROD_0306,Sony Printer 187,Peripherals,1641.73,1152.05,22,6.54,11.0x21.0x14.1 cm,1.8,119.0,Tech Distributors Inc,Pre-order,2020-12-25
+PROD_0307,Logitech Laptop 660,Computers,620.69,271.42,529,6.91,,0.0,523.0,Tech Distributors Inc,Pre-order,2022-03-28
+PROD_0308,HP Headphones 601,Peripherals,1483.69,495.95,532,0.7,37.9x29.9x14.0 cm,1.4,135.0,Tech Distributors Inc,Pre-order,2019-07-13
+PROD_0309,HP Tablet 685,Networking,50000.0,20477.42,506,6.84,15.0x6.0x12.9 cm,1.3,126.0,Global Supply Co,Out of Stock,2022-05-19
+PROD_0310,Samsung Mouse 284,Networking,1064.93,537.36,905,8.6,16.3x17.8x13.1 cm,1.9,453.0,Global Supply Co,Pre-order,2021-05-11
+PROD_0311,Dell Mouse 607,Electronics,331.98,200.54,456,8.93,20.8x42.3x17.9 cm,4.8,999.0,ABC Electronics,Out of Stock,2022-03-31
+PROD_0312,Samsung Printer 921,Peripherals,345.95,242.05,462,7.28,5.7x41.4x2.6 cm,1.1,657.0,XYZ Tech,Discontinued,2021-03-25
+PROD_0313,Samsung Router 606,Peripherals,565.5,308.3,296,1.23,,,,Global Supply Co,Pre-order,2020-11-02
+PROD_0314,Samsung Webcam 567,Networking,1464.82,1098.39,511,0.99,,2.1,317.0,XYZ Tech,Pre-order,2020-05-23
+PROD_0315,HP Tablet 604,Electronics,,,598,9.52,,,,Global Supply Co,In Stock,2019-11-08
+PROD_0316,Apple Laptop 551,Computers,,,568,0.53,,3.5,614.0,Tech Distributors Inc,Pre-order,2021-08-03
+PROD_0317,Samsung Headphones 738,Peripherals,211.26,114.12,-23,3.69,47.4x31.3x13.3 cm,4.3,699.0,abc electronics,In Stock,2020-08-09
+PROD_0318,Dell Keyboard 562,Electronics,1504.77,904.33,271,5.16,36.1x16.0x17.1 cm,2.5,574.0,XYZ Tech,Out of Stock,2021-06-10
+PROD_0319,HP Laptop 388,Networking,660.2,524.15,114,9.75,,0.0,465.0,Global Supply Co,Out of Stock,2021-08-26
+PROD_0320,Sony Webcam 217,Accessories,-50.0,,859,3.67,44.5x27.3x18.6 cm,3.4,930.0,XYZ Tech,In Stock,2018-11-26
+PROD_0321,Dell Printer 384,Electronics,454.67,169.0,923,2.6,15.1x26.9x1.8 cm,,,Global Supply Co,Discontinued,2021-01-25
+PROD_0322,HP Tablet 938,Networking,1806.59,800.83,513,,14.9x38.6x4.0 cm,3.7,184.0,XYZ Tech,Pre-order,2019-02-15
+PROD_0323,Microsoft Webcam 462,Peripherals,1346.21,452.07,25,8.07,,3.1,85.0,XYZ Tech,Out of Stock,2021-02-20
+PROD_0324,Logitech Smartphone 970,Computers,-50.0,,504,1.46,15.3x6.4x12.8 cm,1.1,27.0,XYZ Tech,Pre-order,2023-12-26
+PROD_0325,Logitech Mouse 184,Accessories,,,788,3.19,18.8x40.3x12.4 cm,,,Tech Distributors Inc,Out of Stock,2020-08-04
+PROD_0326,Logitech Headphones 359,Peripherals,712.45,566.06,647,,,1.9,608.0,XYZ Tech,Pre-order,2021-09-13
+PROD_0327,Apple Headphones 248,Networking,1392.43,846.17,360,,26.5x41.9x10.1 cm,1.9,235.0,XYZ Tech,Discontinued,2021-10-11
+PROD_0328,Apple Laptop 310,Accessories,1524.1,499.17,746,0.87,13.7x34.8x1.4 cm,1.3,965.0,Tech Distributors Inc,Out of Stock,2019-06-01
+PROD_0329,Logitech Monitor 140,Networking,1743.76,1008.14,423,0.11,33.1x48.7x16.3 cm,4.7,767.0,Tech Distributors Inc,In Stock,2019-11-24
+PROD_0330,Sony Router 879,Accessories,0.0,,-84,5.3,14.3x43.7x7.1 cm,2.5,131.0,Tech Distributors Inc,Pre-order,2020-02-22
+PROD_0331,Apple Tablet 813,Electronics,1514.17,1095.89,799,1.8,47.8x46.1x19.4 inches,2.5,905.0,ABC Electronics,Pre-order,2021-04-16
+PROD_0332,Dell Keyboard 916,Accessories,1247.44,858.85,609,1.6,7.3x5.7x6.4 inches,4.0,847.0,Global Supply Co,In Stock,2020-04-04
+PROD_0333,Sony Keyboard 570,Computers,52.69,25.43,541,6.04,12.2x36.7x6.9 cm,4.3,148.0,XYZ Tech,In Stock,2018-12-16
+PROD_0334,Microsoft Laptop 736,Networking,50000.0,30594.74,729,0.78,,,,abc electronics,In Stock,2018-01-24
+PROD_0335,Apple Monitor 971,Peripherals,1131.11,721.82,690,7.03,35.3x47.8x16.8 cm,,, XYZ Tech ,Discontinued,2021-09-30
+PROD_0336,Apple Headphones 711,Accessories,773.47,519.59,484,8.9,36.2x34.0x7.6 cm,1.9,130.0,Tech Distributors Inc,Discontinued,2021-06-18
+PROD_0337,Sony Keyboard 327,Electronics,1588.96,1005.76,595,,23.7x40.9x2.4 inches,4.0,844.0, Tech Distributors Inc ,Pre-order,2020-03-30
+PROD_0338,Samsung Webcam 255,Accessories,1065.97,534.51,454,,14.5x28.1x11.6 inches,2.8,532.0,XYZ Tech,Out of Stock,2021-10-11
+PROD_0339,Dell Printer 239,Computers,1316.58,544.86,779,4.24,10.5x33.6x19.1 inches,,,Global Supply Co,Discontinued,2022-11-29
+PROD_0340,Dell Webcam 112,Networking,720.75,261.01,309,0.38,49.8x29.1x10.7 cm,0.0,254.0,ABC Electronics,Pre-order,2022-11-05
+PROD_0341,Apple Printer 884,Computers,1730.9,999.42,572,6.34,42.2x24.1x19.1 cm,3.0,820.0,Tech Distributors Inc,Discontinued,2023-02-12
+PROD_0342,Dell Monitor 409,Networking,741.53,473.67,41,9.54,47.3x36.4x8.8 cm,1.7,731.0,Global Supply Co,Out of Stock,2021-04-21
+PROD_0343,Logitech Keyboard 563,Peripherals,,,111,6.66,21.3x45.5x4.0 cm,2.9,691.0,Global Supply Co,Discontinued,2022-09-15
+PROD_0344,Samsung Mouse 996,Accessories,1276.11,1008.47,845,3.84,30.8x13.7x1.8 cm,1.8,274.0,XYZ Tech,Pre-order,2023-03-15
+PROD_0345,Logitech Router 118,Electronics,187.02,89.81,252,3.16,,1.0,820.0,Tech Distributors Inc,In Stock,2018-07-28
+PROD_0346,Samsung Monitor 172,Peripherals,1494.2,488.49,913,2.78,,3.7,33.0,Tech Distributors Inc,In Stock,2019-06-27
+PROD_0347,HP Monitor 990,Accessories,,,494,1.73,40.4x10.4x3.7 cm,3.1,816.0, ABC Electronics ,Discontinued,2021-01-15
+PROD_0348,Apple Mouse 516,Peripherals,954.88,401.14,883,1.94,,,,XYZ Tech,Pre-order,2018-07-11
+PROD_0349,Samsung Monitor 105,Computers,267.6,187.72,32,4.75,,2.0,444.0,Tech Distributors Inc,In Stock,2021-01-05
+PROD_0350,Microsoft Monitor 541,Electronics,1519.36,1017.54,285,1.96,32.6x32.3x13.4 cm,4.2,449.0,XYZ Tech,Discontinued,2021-10-09
+PROD_0351,Dell Mouse 411,Electronics,696.15,429.28,533,6.16,6.1x23.7x6.0 cm,4.5,80.0,Tech Distributors Inc,Out of Stock,2020-10-14
+PROD_0352,Samsung Monitor 398,Accessories,71.8,45.45,758,2.65,21.9x28.0x8.7 cm,4.2,896.0,XYZ Tech,In Stock,2021-09-04
+PROD_0353,Apple Router 470,Networking,46.25,25.13,258,4.44,32.5x36.1x9.0 cm,,,ABC Electronics,In Stock,2022-05-29
+PROD_0354,Samsung Laptop 812,Peripherals,304.3,230.19,716,3.19,23.4x20.7x8.5 cm,,,ABC Electronics,Out of Stock,2019-04-09
+PROD_0355,Microsoft Router 561,Peripherals,1391.21,628.43,7,6.93,6.3x23.2x8.6 inches,2.6,595.0,global supply co,In Stock,2022-09-25
+PROD_0356,Sony Tablet 842,Electronics,1575.61,1115.05,940,5.31,,3.3,533.0,Global Supply Co,In Stock,2021-01-27
+PROD_0357,Apple Printer 756,Accessories,1817.27,1168.29,-95,6.52,,3.4,457.0,ABC Electronics,In Stock,2020-01-10
+PROD_0358,Apple Router 454,Peripherals,589.76,348.99,400,7.24,33.4x39.5x5.0 cm,,,Global Supply Co,Pre-order,2023-09-29
+PROD_0359,Microsoft Smartphone 623,Computers,1859.8,658.81,241,3.49,46.6x14.8x19.1 cm,1.3,893.0,Global Supply Co,Pre-order,2018-02-04
+PROD_0360,Logitech Keyboard 738,Peripherals,1882.67,1498.8,882,1.82,6.6x42.2x12.1 cm,1.7,526.0,Global Supply Co,Out of Stock,2020-05-06
+PROD_0361,Dell Printer 812,Peripherals,,,78,3.0,,6.0,424.0,Global Supply Co,In Stock,2019-11-15
+PROD_0362,Logitech Laptop 871,Electronics,131.06,90.31,612,5.49,30.7x41.6x2.1 inches,1.1,794.0, Tech Distributors Inc ,Pre-order,2020-09-17
+PROD_0363,Sony Tablet 207,Peripherals,1294.86,855.17,153,9.36,49.5x24.4x18.2 cm,2.4,379.0,XYZ Tech,In Stock,2018-07-25
+PROD_0364,Dell Tablet 799,Networking,278.26,147.11,691,5.71,44.5x35.6x14.3 cm,3.2,604.0,ABC Electronics,Out of Stock,2019-04-19
+PROD_0365,HP Printer 690,Computers,1870.35,1383.04,281,1.65,23.6x44.1x12.9 cm,4.1,119.0,Global Supply Co,In Stock,2018-03-25
+PROD_0366,Samsung Router 161,Networking,1399.73,701.02,921,,,6.0,494.0,XYZ Tech,In Stock,2020-07-29
+PROD_0367,Dell Printer 931,Accessories,998.07,637.97,969,7.03,34.2x11.7x10.2 cm,2.6,195.0,Global Supply Co,Out of Stock,2019-04-26
+PROD_0368,Apple Mouse 778,Electronics,1211.37,469.2,539,7.3,46.7x24.5x5.1 inches,4.6,26.0,Tech Distributors Inc,In Stock,2019-01-13
+PROD_0369,Apple Tablet 802,Accessories,1164.92,647.34,623,,28.5x18.6x5.7 cm,,,ABC Electronics,Out of Stock,2018-07-13
+PROD_0370,Samsung Laptop 988,Networking,1561.84,1001.16,489,,,3.8,848.0,ABC Electronics,Pre-order,2020-07-16
+PROD_0371,Logitech Headphones 537,Peripherals,1388.56,912.48,923,3.62,20.8x15.0x2.2 inches,2.7,572.0,Tech Distributors Inc,Pre-order,2021-07-31
+PROD_0372,Apple Webcam 379,Peripherals,1998.56,949.02,695,2.11,27.3x16.3x9.6 inches,2.3,662.0,Tech Distributors Inc,Discontinued,2019-12-05
+PROD_0373,Logitech Webcam 263,Accessories,346.75,195.87,741,,6.3x43.4x4.6 cm,3.9,139.0,XYZ Tech,Discontinued,2020-03-07
+PROD_0374,Dell Router 207,Accessories,,,152,,30.7x10.2x13.6 cm,3.3,41.0,ABC Electronics,Discontinued,2019-02-04
+PROD_0375,Samsung Router 621,Computers,1638.2,583.05,436,,,1.7,303.0,abc electronics,Out of Stock,2021-05-07
+PROD_0376,Microsoft Webcam 670,Networking,1911.94,834.51,451,9.15,25.8x10.3x15.6 cm,,,xyz tech,Out of Stock,2023-06-05
+PROD_0377,Logitech Router 128,Electronics,513.35,371.7,545,2.56,24.9x22.4x13.8 cm,,,Tech Distributors Inc,Out of Stock,2022-02-07
+PROD_0378,Microsoft Keyboard 726,Computers,555.48,279.9,-63,2.32,45.9x10.0x15.2 cm,1.7,899.0,XYZ Tech,In Stock,2021-04-10
+PROD_0379,Apple Monitor 975,Peripherals,,,945,9.75,11.0x41.6x11.0 cm,3.1,639.0,Tech Distributors Inc,In Stock,2020-11-06
+PROD_0380,Apple Printer 426,Computers,153.94,102.74,329,4.71,,1.3,846.0,XYZ Tech,Pre-order,2020-10-20
+PROD_0381,Logitech Tablet 274,Computers,1963.09,1219.27,960,8.19,47.1x8.6x3.0 inches,2.7,92.0,Tech Distributors Inc,Pre-order,2022-11-03
+PROD_0382,Dell Router 636,Electronics,984.44,668.28,814,4.13,31.1x6.8x9.5 cm,,,ABC Electronics,In Stock,2019-07-30
+PROD_0383,Logitech Smartphone 462,Electronics,1780.31,1386.77,412,4.64,24.3x14.2x5.8 cm,1.6,499.0,Tech Distributors Inc,Discontinued,2018-02-08
+PROD_0384,HP Mouse 654,Accessories,,,131,1.15,,2.0,12.0,ABC Electronics,Pre-order,2023-06-06
+PROD_0385,Microsoft Smartphone 807,Accessories,1219.72,879.83,932,,40.9x48.8x3.8 cm,4.9,701.0,ABC Electronics,Out of Stock,2022-09-16
+PROD_0386,Dell Printer 938,Accessories,170.57,113.31,400,0.17,,1.6,498.0,Global Supply Co,Out of Stock,2020-05-21
+PROD_0387,Dell Webcam 832,Networking,848.89,613.72,165,4.21,14.5x8.9x18.6 cm,3.7,690.0, Global Supply Co ,Pre-order,2018-10-24
+PROD_0388,Samsung Monitor 885,Networking,1061.75,776.09,444,3.22,48.7x15.3x14.5 cm,3.9,627.0,Tech Distributors Inc,In Stock,2020-04-08
+PROD_0389,Logitech Mouse 520,Electronics,1317.86,919.73,567,8.85,43.9x42.5x7.9 inches,1.9,800.0,XYZ Tech,Pre-order,2021-08-13
+PROD_0390,HP Laptop 855,Accessories,50000.0,25484.3,-39,8.99,,,,Global Supply Co,Out of Stock,2023-01-26
+PROD_0391,Sony Mouse 867,Accessories,1697.05,555.27,769,6.42,38.7x22.0x1.8 inches,2.5,394.0,Tech Distributors Inc,Discontinued,2018-04-03
+PROD_0392,Dell Printer 818,Accessories,1708.13,1340.94,916,3.39,,3.5,886.0,xyz tech,In Stock,2022-06-03
+PROD_0393,Samsung Keyboard 968,Accessories,572.54,227.74,762,5.95,47.4x24.2x2.0 inches,4.9,338.0,Tech Distributors Inc,Out of Stock,2022-09-17
+PROD_0394,Samsung Monitor 409,Computers,1460.33,509.1,556,,18.6x35.5x1.8 cm,,,Global Supply Co,Pre-order,2019-02-28
+PROD_0395,Dell Keyboard 727,Computers,0.0,,868,8.2,25.9x21.3x6.2 inches,,, Tech Distributors Inc ,Discontinued,2020-12-29
+PROD_0396,Dell Keyboard 922,Electronics,1322.25,547.06,260,0.62,,4.0,731.0,XYZ Tech,Pre-order,2019-02-18
+PROD_0397,Samsung Keyboard 578,Electronics,1195.22,793.0,65,7.88,20.1x47.7x5.1 inches,,,ABC Electronics,Pre-order,2019-12-30
+PROD_0398,Dell Laptop 675,Accessories,1835.47,590.52,628,1.61,40.8x8.1x16.8 cm,2.4,158.0,Tech Distributors Inc,Discontinued,2022-02-22
+PROD_0399,Microsoft Keyboard 254,Networking,,,686,,7.9x7.3x18.4 inches,2.2,442.0,ABC Electronics,In Stock,2020-10-30
+PROD_0400,Microsoft Router 428,Computers,1754.9,1377.24,981,3.0,,1.8,148.0,ABC Electronics,In Stock,2021-05-25
+PROD_0401,Sony Keyboard 646,Networking,,,516,6.12,46.4x20.5x19.8 cm,,,Tech Distributors Inc,Out of Stock,2022-08-15
+PROD_0402,Logitech Mouse 925,Networking,826.92,464.64,882,,,1.1,953.0,ABC Electronics,Pre-order,2019-12-31
+PROD_0403,Microsoft Router 352,Peripherals,1769.77,1095.02,391,7.95,39.6x14.2x5.9 cm,4.2,9.0,Tech Distributors Inc,Pre-order,2018-05-30
+PROD_0404,Microsoft Laptop 833,Networking,900.02,311.97,914,1.47,30.9x17.8x8.9 cm,,,ABC Electronics,Pre-order,2023-09-21
+PROD_0405,Sony Mouse 949,Electronics,1455.61,1108.75,320,7.75,21.9x43.4x16.6 cm,,,Tech Distributors Inc,Discontinued,2019-02-03
+PROD_0406,Samsung Laptop 199,Accessories,941.58,298.23,868,,26.8x26.6x13.6 cm,4.4,749.0,ABC Electronics,In Stock,2023-09-12
+PROD_0407,Sony Laptop 776,Electronics,1794.82,1089.52,175,7.72,20.8x20.4x13.0 inches,2.1,587.0,ABC Electronics,In Stock,2018-08-05
+PROD_0408,Microsoft Headphones 741,Accessories,0.0,,546,2.27,,4.9,250.0,Tech Distributors Inc,Pre-order,2020-05-02
+PROD_0409,Sony Monitor 445,Computers,1380.78,541.32,209,5.87,46.6x16.3x13.8 cm,,,XYZ Tech,In Stock,2022-06-24
+PROD_0410,Apple Mouse 541,Accessories,1921.03,907.94,741,4.31,28.0x22.3x17.6 inches,4.9,863.0,XYZ Tech,In Stock,2019-08-29
+PROD_0411,HP Tablet 982,Electronics,741.62,483.38,502,7.11,,,,ABC Electronics,Out of Stock,2022-11-11
+PROD_0412,Samsung Router 529,Electronics,945.43,692.72,372,1.03,,2.7,554.0,Tech Distributors Inc,In Stock,2019-07-31
+PROD_0413,Apple Headphones 787,Networking,904.08,412.58,739,6.11,12.0x21.5x5.0 cm,1.8,158.0,ABC Electronics,Discontinued,2020-12-20
+PROD_0414,Microsoft Tablet 296,Peripherals,,,861,2.52,17.2x20.4x9.2 inches,4.5,511.0,ABC Electronics,In Stock,2023-04-11
+PROD_0415,HP Keyboard 180,Electronics,335.57,239.05,520,,,2.3,533.0,ABC Electronics,In Stock,2022-11-13
+PROD_0416,Logitech Monitor 158,Accessories,1737.74,1221.2,593,9.09,,1.3,148.0,ABC Electronics,Discontinued,2023-03-25
+PROD_0417,HP Keyboard 914,Electronics,1377.47,585.33,978,1.36,,1.7,159.0,Tech Distributors Inc,Discontinued,2018-05-21
+PROD_0418,Sony Headphones 691,Computers,567.22,346.55,727,,19.4x37.8x10.0 cm,4.0,64.0,Tech Distributors Inc,Discontinued,2019-05-15
+PROD_0419,HP Keyboard 393,Networking,692.17,381.81,363,5.05,,4.4,542.0,ABC Electronics,Pre-order,2020-10-29
+PROD_0420,Microsoft Keyboard 731,Peripherals,1114.19,452.13,791,,43.9x42.7x5.2 inches,3.9,941.0,ABC Electronics,Pre-order,2019-02-19
+PROD_0421,Dell Webcam 242,Accessories,,,588,8.42,6.4x40.7x13.6 cm,,,XYZ Tech,Discontinued,2019-08-02
+PROD_0422,Apple Printer 101,Electronics,,,873,6.15,34.4x26.6x18.1 cm,4.1,893.0,abc electronics,Pre-order,2022-08-09
+PROD_0423,Sony Mouse 771,Electronics,503.78,398.77,897,,,,,XYZ Tech,Discontinued,2020-12-31
+PROD_0424,Microsoft Router 418,Networking,,,923,8.59,18.5x30.1x7.9 cm,3.4,418.0,XYZ Tech,In Stock,2023-05-24
+PROD_0425,Samsung Webcam 525,Peripherals,1844.99,590.21,414,4.58,,2.9,71.0, XYZ Tech ,Discontinued,2018-07-07
+PROD_0426,HP Webcam 631,Peripherals,262.77,119.87,631,0.73,20.0x26.2x16.6 cm,2.4,553.0,Tech Distributors Inc,Pre-order,2022-12-05
+PROD_0427,Apple Webcam 792,Computers,1637.74,853.48,959,1.5,,1.5,960.0,Global Supply Co,In Stock,2018-12-28
+PROD_0428,Samsung Tablet 444,Networking,0.0,,278,,25.7x6.6x11.3 cm,3.5,692.0,XYZ Tech,Discontinued,2023-04-25
+PROD_0429,Dell Webcam 748,Accessories,558.43,307.48,527,0.15,28.7x49.1x18.4 cm,1.1,612.0,Tech Distributors Inc,In Stock,2023-05-03
+PROD_0430,Logitech Mouse 463,Computers,467.98,366.28,782,,11.2x19.4x18.1 cm,3.8,477.0,XYZ Tech,Pre-order,2018-07-27
+PROD_0431,Dell Tablet 630,Networking,1729.22,633.97,858,8.76,14.4x23.2x1.8 cm,2.4,752.0,Tech Distributors Inc,Pre-order,2018-04-03
+PROD_0432,Sony Keyboard 801,Peripherals,790.42,527.91,116,,46.0x5.3x18.8 inches,2.9,973.0,ABC Electronics,In Stock,2022-05-16
+PROD_0433,Microsoft Router 805,Accessories,0.0,,907,1.72,49.9x40.0x9.5 cm,,,Tech Distributors Inc,Pre-order,2021-04-29
+PROD_0434,Logitech Monitor 178,Electronics,1101.52,747.63,467,,10.5x24.1x17.2 cm,3.0,225.0,ABC Electronics,In Stock,2021-04-18
+PROD_0435,Apple Router 391,Electronics,732.62,529.97,924,8.43,9.9x27.4x12.0 inches,3.7,657.0,Tech Distributors Inc,Discontinued,2019-05-03
+PROD_0436,HP Router 188,Computers,740.59,569.56,8,6.18,5.9x21.5x10.1 cm,3.3,134.0,XYZ Tech,In Stock,2020-04-22
+PROD_0437,Dell Laptop 616,Computers,1287.64,892.85,621,7.33,33.4x20.9x16.3 cm,4.4,169.0,XYZ Tech,Pre-order,2018-04-29
+PROD_0438,Apple Headphones 652,Peripherals,1351.2,677.41,81,,6.0x12.7x2.8 cm,1.1,289.0,ABC Electronics,In Stock,2023-03-27
+PROD_0439,Sony Webcam 203,Computers,1182.87,499.99,959,1.46,38.0x35.1x2.6 cm,2.6,818.0,ABC Electronics,Pre-order,2022-08-28
+PROD_0440,Microsoft Mouse 542,Accessories,854.0,285.05,123,8.66,11.3x17.8x2.6 inches,2.1,70.0,ABC Electronics,Discontinued,2021-08-10
+PROD_0441,Sony Mouse 290,Electronics,1515.47,979.36,259,3.82,,2.0,475.0,ABC Electronics,Pre-order,2023-10-24
+PROD_0442,Logitech Headphones 287,Computers,495.24,242.8,859,5.56,,1.6,709.0,ABC Electronics,Discontinued,2023-08-13
+PROD_0443,Logitech Printer 193,Computers,1522.38,723.21,572,2.57,38.8x26.3x4.9 cm,3.1,27.0,Global Supply Co,In Stock,2019-03-01
+PROD_0444,Logitech Tablet 167,Computers,1344.22,832.59,121,7.9,,2.1,428.0, Tech Distributors Inc ,Discontinued,2020-03-07
+PROD_0445,Dell Smartphone 918,Computers,50000.0,35978.45,375,3.19,20.4x18.5x17.9 inches,2.6,534.0,Tech Distributors Inc,Discontinued,2022-05-26
+PROD_0446,Dell Router 338,Electronics,210.36,159.91,430,6.2,,1.8,200.0,ABC Electronics,In Stock,2021-03-04
+PROD_0447,Samsung Printer 357,Electronics,299.15,157.13,112,6.62,,,,XYZ Tech,Out of Stock,2021-03-12
+PROD_0448,Apple Webcam 450,Computers,1976.21,1171.34,-23,4.05,42.2x32.7x4.6 cm,4.4,104.0,Global Supply Co,In Stock,2023-02-16
+PROD_0449,Logitech Headphones 978,Accessories,1823.09,1264.03,642,2.2,48.6x39.1x17.7 cm,3.7,835.0,tech distributors inc,Discontinued,2019-09-15
+PROD_0450,Microsoft Tablet 743,Networking,50000.0,36404.61,466,,,4.5,737.0,Global Supply Co,In Stock,2022-11-06
+PROD_0451,Samsung Keyboard 420,Computers,213.65,114.19,712,8.76,46.6x49.1x14.9 cm,4.9,110.0,XYZ Tech,Pre-order,2020-03-03
+PROD_0452,Dell Monitor 282,Electronics,,,822,1.6,48.1x17.5x18.7 cm,2.7,266.0,global supply co,Out of Stock,2020-08-11
+PROD_0453,Samsung Router 465,Computers,1616.85,753.88,968,4.5,,4.4,856.0,abc electronics,Discontinued,2021-07-20
+PROD_0454,Samsung Mouse 149,Accessories,563.51,345.76,543,8.87,5.4x34.4x7.9 cm,4.3,292.0,XYZ Tech,Out of Stock,2020-10-08
+PROD_0455,Sony Tablet 703,Electronics,83.01,33.26,77,9.54,28.5x31.5x5.6 cm,3.9,787.0,Global Supply Co,Pre-order,2018-11-15
+PROD_0456,Logitech Tablet 672,Accessories,1019.45,690.26,565,,5.3x44.1x15.0 cm,3.2,472.0,XYZ Tech,Discontinued,2019-02-22
+PROD_0457,HP Router 153,Peripherals,1684.17,761.83,372,,,3.9,250.0,XYZ Tech,Pre-order,2023-11-06
+PROD_0458,Samsung Webcam 784,Computers,659.33,495.49,644,,28.9x36.1x11.8 cm,1.0,967.0,global supply co,Pre-order,2021-01-28
+PROD_0459,HP Monitor 236,Computers,836.01,414.44,284,,18.2x11.3x18.3 inches,4.6,624.0,ABC Electronics,Discontinued,2022-12-20
+PROD_0460,Samsung Monitor 300,Networking,1767.0,980.96,798,0.5,5.4x49.6x9.2 inches,4.6,755.0,Tech Distributors Inc,Discontinued,2023-02-08
+PROD_0461,Logitech Router 790,Networking,113.88,44.03,233,,43.9x45.8x8.0 cm,2.0,131.0,xyz tech,Pre-order,2018-10-06
+PROD_0462,Dell Printer 543,Electronics,1591.59,540.99,329,,39.6x9.0x8.8 cm,2.0,714.0,XYZ Tech,In Stock,2018-06-08
+PROD_0463,Samsung Mouse 847,Accessories,998.82,442.43,843,8.1,35.9x8.0x2.0 cm,1.9,362.0,Tech Distributors Inc,In Stock,2023-04-07
+PROD_0464,Dell Tablet 565,Accessories,1692.73,1127.47,134,5.78,24.8x29.8x1.6 cm,1.7,142.0,Tech Distributors Inc,Out of Stock,2019-07-25
+PROD_0465,Samsung Monitor 880,Peripherals,,,479,5.66,49.3x42.5x7.4 inches,4.1,157.0,Global Supply Co,Out of Stock,2021-07-10
+PROD_0466,Microsoft Webcam 648,Computers,1504.01,1154.32,901,,,2.6,317.0,Global Supply Co,Pre-order,2023-06-21
+PROD_0467,Sony Router 410,Computers,333.76,218.76,112,4.72,20.3x6.8x8.0 cm,4.5,26.0,Tech Distributors Inc,Discontinued,2019-10-29
+PROD_0468,Samsung Headphones 151,Accessories,585.21,218.9,922,,28.5x49.2x6.6 cm,2.6,141.0,Global Supply Co,Out of Stock,2019-07-31
+PROD_0469,Logitech Laptop 122,Peripherals,1104.71,786.27,148,5.74,32.3x17.5x8.1 cm,4.0,948.0,xyz tech,Discontinued,2023-10-30
+PROD_0470,Microsoft Headphones 467,Networking,1928.46,1031.91,433,5.26,25.6x31.0x12.7 cm,3.1,504.0,Global Supply Co,In Stock,2019-05-04
+PROD_0471,HP Webcam 162,Electronics,908.36,430.46,77,,,,,ABC Electronics,Pre-order,2021-06-28
+PROD_0472,Microsoft Laptop 723,Networking,61.63,24.97,884,9.39,,2.2,415.0,Global Supply Co,Discontinued,2018-06-04
+PROD_0473,Sony Printer 669,Peripherals,1607.23,612.79,587,3.14,40.5x28.4x6.7 inches,3.8,429.0,xyz tech,Pre-order,2020-08-08
+PROD_0474,HP Printer 325,Computers,788.57,547.75,203,,,1.6,358.0,XYZ Tech,Discontinued,2021-02-27
+PROD_0475,HP Webcam 314,Computers,719.03,332.69,320,8.44,6.4x46.0x14.2 cm,1.1,919.0,Tech Distributors Inc,Discontinued,2020-10-14
+PROD_0476,Sony Tablet 596,Peripherals,379.67,256.97,190,1.53,25.4x34.5x13.5 inches,,,XYZ Tech,Pre-order,2018-08-31
+PROD_0477,Microsoft Tablet 854,Networking,286.5,146.61,31,5.29,6.1x41.2x15.5 cm,3.6,345.0,XYZ Tech,Pre-order,2020-02-25
+PROD_0478,Dell Webcam 310,Networking,890.06,415.94,-16,8.6,34.9x5.9x14.7 cm,2.8,759.0,Global Supply Co,Out of Stock,2018-08-06
+PROD_0479,Dell Printer 717,Electronics,116.6,86.25,485,3.36,25.2x19.4x4.8 cm,,,Global Supply Co,Out of Stock,2020-04-01
+PROD_0480,Logitech Headphones 495,Computers,166.71,82.7,502,0.59,,1.3,229.0,Tech Distributors Inc,Out of Stock,2022-11-04
+PROD_0481,Dell Mouse 177,Networking,303.92,190.03,30,9.15,48.2x17.2x8.1 cm,4.5,901.0,XYZ Tech,Pre-order,2019-02-04
+PROD_0482,Logitech Webcam 374,Networking,54.34,39.01,186,5.31,45.1x16.2x3.8 inches,1.6,947.0,ABC Electronics,Pre-order,2022-07-23
+PROD_0483,Samsung Router 225,Peripherals,1550.05,599.25,103,,21.6x32.1x18.6 cm,3.0,190.0,XYZ Tech,In Stock,2020-04-02
+PROD_0484,Samsung Keyboard 495,Peripherals,1754.41,795.71,215,1.2,21.7x18.9x13.5 cm,1.3,230.0,Tech Distributors Inc,Pre-order,2023-08-07
+PROD_0485,Microsoft Mouse 873,Networking,56.95,31.08,713,9.11,,3.1,418.0, Global Supply Co ,Pre-order,2021-05-27
+PROD_0486,Samsung Webcam 236,Computers,1364.97,948.66,13,,49.5x30.8x19.2 cm,1.8,233.0,Global Supply Co,Pre-order,2022-04-07
+PROD_0487,Samsung Tablet 506,Peripherals,898.45,674.46,186,,16.7x20.9x12.8 cm,3.6,804.0,global supply co,In Stock,2022-06-10
+PROD_0488,Samsung Router 457,Electronics,1335.66,483.7,382,9.71,,2.8,568.0,ABC Electronics,Discontinued,2018-02-14
+PROD_0489,Dell Keyboard 592,Networking,,,203,5.87,,2.9,395.0,XYZ Tech,In Stock,2020-12-18
+PROD_0490,Samsung Smartphone 424,Electronics,906.96,713.5,306,,42.9x8.0x15.5 inches,4.5,557.0,Global Supply Co,Discontinued,2023-03-17
+PROD_0491,Apple Monitor 218,Accessories,1172.41,742.89,195,3.1,10.0x42.3x7.8 inches,4.6,433.0,Tech Distributors Inc,In Stock,2023-12-18
+PROD_0492,Logitech Monitor 490,Accessories,406.86,168.25,824,6.33,23.0x49.3x2.6 cm,2.0,591.0,Tech Distributors Inc,Discontinued,2019-01-06
+PROD_0493,Dell Tablet 909,Accessories,1076.43,330.39,143,6.13,19.9x45.6x2.4 inches,4.3,348.0,Global Supply Co,In Stock,2018-02-12
+PROD_0494,Dell Keyboard 462,Peripherals,207.3,75.95,19,,13.6x9.5x19.9 inches,1.1,9.0,xyz tech,Discontinued,2019-07-20
+PROD_0495,Sony Webcam 122,Electronics,1787.27,990.87,805,6.63,32.1x22.3x17.5 cm,2.1,288.0,Tech Distributors Inc,Pre-order,2019-11-13
+PROD_0496,Samsung Headphones 778,Electronics,651.91,330.95,912,5.34,19.7x10.7x6.1 cm,3.2,240.0,ABC Electronics,Out of Stock,2023-03-12
+PROD_0497,Dell Printer 733,Peripherals,943.04,687.68,710,2.1,37.8x32.6x8.3 cm,2.3,704.0,Tech Distributors Inc,Pre-order,2020-06-13
+PROD_0498,Sony Keyboard 587,Peripherals,,,275,,,2.3,119.0,ABC Electronics,Out of Stock,2022-03-17
+PROD_0499,Apple Keyboard 858,Electronics,110.49,62.67,858,,39.7x28.5x14.2 cm,3.9,458.0,XYZ Tech,Out of Stock,2022-12-15
+PROD_0500,Logitech Monitor 116,Networking,801.92,387.39,633,6.73,,4.9,96.0,ABC Electronics,Pre-order,2018-09-04
+PROD_0361,Dell Printer 812,Peripherals,,,78,3.0,,6.0,424.0,Global Supply Co,In Stock,2019-11-15
+PROD_0078,Sony Printer 661,Accessories,1477.26,978.21,426,3.62,,1.6,267.0,ABC Electronics,Pre-order,2022-11-07
+PROD_0453,Samsung Router 465,Computers,1616.85,753.88,968,4.5,,4.4,856.0,abc electronics,Discontinued,2021-07-20
+PROD_0241,Sony Monitor 512,Computers,1900.96,916.33,88,8.44,29.4x46.0x9.4 cm,3.6,28.0,global supply co,Discontinued,2019-02-05
+PROD_0175,Logitech Monitor 891,Electronics,50000.0,38014.03,548,6.9,39.7x16.3x8.0 cm,,,Tech Distributors Inc,Pre-order,2020-10-19
+PROD_0481,Dell Mouse 177,Networking,303.92,190.03,30,9.15,48.2x17.2x8.1 cm,4.5,901.0,XYZ Tech,Pre-order,2019-02-04
+PROD_0299,Sony Laptop 158,Networking,,,327,0.58,,2.7,191.0,global supply co,Discontinued,2022-07-31
+PROD_0290,Apple Laptop 703,Peripherals,1450.27,519.74,522,,8.7x36.2x16.9 cm,,,ABC Electronics,Out of Stock,2019-10-24
+PROD_0096,Apple Monitor 504,Accessories,1163.43,361.01,887,9.26,10.6x21.9x2.0 cm,10.0,588.0,ABC Electronics,Discontinued,2020-02-26
+PROD_0308,HP Headphones 601,Peripherals,1483.69,495.95,532,0.7,37.9x29.9x14.0 cm,1.4,135.0,Tech Distributors Inc,Pre-order,2019-07-13
+PROD_0234,Samsung Tablet 418,Accessories,352.57,265.93,425,5.32,,2.8,296.0,ABC Electronics,Out of Stock,2022-08-26
+PROD_0485,Microsoft Mouse 873,Networking,56.95,31.08,713,9.11,,3.1,418.0, Global Supply Co ,Pre-order,2021-05-27
+PROD_0370,Samsung Laptop 988,Networking,1561.84,1001.16,489,,,3.8,848.0,ABC Electronics,Pre-order,2020-07-16
+PROD_0069,Dell Router 246,Peripherals,367.37,192.95,215,,,1.9,480.0, Tech Distributors Inc ,In Stock,2018-02-27
+PROD_0170,Microsoft Printer 758,Accessories,517.98,377.4,863,3.56,9.0x42.2x14.2 cm,4.5,7.0,Global Supply Co,Out of Stock,2022-07-05
+PROD_0312,Samsung Printer 921,Peripherals,345.95,242.05,462,7.28,5.7x41.4x2.6 cm,1.1,657.0,XYZ Tech,Discontinued,2021-03-25
+PROD_0230,Sony Printer 951,Computers,36.66,24.22,856,1.69,9.7x44.2x10.6 cm,4.9,984.0,ABC Electronics,Discontinued,2022-02-19
+PROD_0494,Dell Keyboard 462,Peripherals,207.3,75.95,19,,13.6x9.5x19.9 inches,1.1,9.0,xyz tech,Discontinued,2019-07-20
+PROD_0359,Microsoft Smartphone 623,Computers,1859.8,658.81,241,3.49,46.6x14.8x19.1 cm,1.3,893.0,Global Supply Co,Pre-order,2018-02-04
+PROD_0123,HP Tablet 390,Computers,261.4,153.38,96,2.23,34.4x16.9x1.7 cm,,,Global Supply Co,Discontinued,2019-08-26

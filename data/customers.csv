@@ -1,0 +1,1071 @@
+customer_id,first_name,last_name,email,phone,age,income,registration_date,status,city,state,purchase_amount,loyalty_score
+CUST_00001,Jane,Smith,jane.smith@gmail.com,999-130-2535,62,53893,2022-07-08,Suspended,New York,TX,319.4,98
+CUST_00002,jane,Moore,jane.moore@gmail.com,(555) 180-5803,67,35458,2021-04-21,Active,San Antonio,PA,716.99,86
+CUST_00003,Jane,Thomas,jane.thomas@yahoo.com,9999246168,31,1000000,2021-10-06,Inactive,San Diego,CA,287.86,96
+CUST_00004,David,Thomas,david.thomas@gmail.com,1237102040,47,97512,2020-01-24,Active,Dallas,PA,875.18,59
+CUST_00005,David,Anderson,david.anderson@gmail.com,4561006310,77,134008,2021-09-21,Inactive,New York,CA,977.12,9
+CUST_00006,Chris,Brown,chris.brown@gmail.com,4565489479,32,27757,2023-04-19,Inactive,San Jose,NY,1811.79,43
+CUST_00007,Sarah,Miller,sarah.miller@gmail.com,5554627939,64,110649,2023-08-16,Active,New York,CA,388.52,58
+CUST_00008,Mike,Miller,mike.miller@gmail.com,999-195-4872,75,74672,2020-01-05,Pending,Phoenix,AZ,1915.06,72
+CUST_00009,Emma,Brown,emma.brown@gmail.com,123-614-9701,22,55828,2022-04-06,Active,San Jose,CA,1318.17,73
+CUST_00010,David,Davis,david.davis@gmail.com,123.175.9808,40,140247,2021-05-15,Suspended,Phoenix,AZ,1974.59,84
+CUST_00011,Chris,Miller,chris.miller@yahoo.com,4563085325,76,37097,2023-07-23,Pending,phoenix,IL,531.29,95
+CUST_00012,tom,ANDERSON,tom.anderson@yahoo.com,999.142.6050,33,71357,2023-02-20,Pending,San Jose,TX,,23
+CUST_00013,John,Brown,john.brown@yahoo.com,7893274269,70,54831,2021-04-01,Active,Houston,CA,,36
+CUST_00014,Chris, Moore,chris.moore@gmail.com,(999) 371-1626,54,30817,2023-12-22,Pending,New York,TX,149.25,86
+CUST_00015,Anna,Wilson,anna.wilson@gmail.com,789.780.7211,71,62606,2021-03-06,Pending,San Jose,CA,435.27,61
+CUST_00016,Mike,Johnson,mike.johnson@invalid,4561475011,67,79321,2023-07-13,Inactive,San Antonio,NY,,99
+CUST_00017,Tom,Davis,tom.davis@yahoo.com,5558738251,53,45861,2022-08-30,Pending,Phoenix,AZ,1047.39,81
+CUST_00018,Emma,Johnson,emma.johnson@gmail.com,5555176421,31,76049,2023-04-11,Active, San Jose ,PA,786.07,54
+CUST_00019,Chris,Thomas,chris.thomas@yahoo.com,(555) 841-3704,45,85515,2021-01-07,Active,Phoenix,PA,1760.48,36
+CUST_00020,Tom,Miller,tom.miller@invalid,(456) 765-2124,33,112747,2020-08-22,Inactive,San Diego,IL,1927.83,92
+CUST_00021,Mike,MILLER,mike.miller@invalid,(555) 832-4249,45,34038,2022-11-02,Suspended,New York,CA,730.75,59
+CUST_00022,Tom,Brown,tom.brown@gmail.com,555-430-5022,54,74674,2021-11-19,Active,San Diego,TX,524.12,36
+CUST_00023,david,Anderson,david.anderson@yahoo.com,555-558-1282,55,97544,2022-12-23,Suspended,San Antonio,PA,549.12,33
+CUST_00024,Sarah,Wilson,sarah.wilson@gmail.com,999.202.4180,18,41591,2021-07-15,Active,New York,IL,1508.06,14
+CUST_00025,Anna,Miller,anna.miller@gmail.com,(123) 510-9056,5,79548,2023-05-26,Inactive,Dallas,AZ,,55
+CUST_00026,Anna,Smith,anna.smith@yahoo.com,4565188381,32,62056,2023-12-10,Pending,Los Angeles,CA,1868.0,55
+CUST_00027,Sarah,Brown,sarah.brown@yahoo.com,999.805.5982,49,103385,2020-03-22,Pending, Philadelphia ,TX,,74
+CUST_00028,John,Miller,john.miller@gmail.com,(999) 546-9056,39,89942,2021-08-13,Pending,dallas,AZ,1940.67,52
+CUST_00029,John,ANDERSON,john.anderson@gmail.com,(123) 308-5375,58,56365,2023-12-24,Inactive,Phoenix,CA,1684.4,15
+CUST_00030,Jane,Brown,jane.brown@yahoo.com,(456) 567-3369,68,69548,2022-11-05,Suspended,New York,CA,1323.28,20
+CUST_00031,Emma,Wilson,emma.wilson@yahoo.com,4568628749,60,110461,2020-11-07,Pending,New York,PA,,57
+CUST_00032,Emma,Smith,emma.smith@yahoo.com,7899729742,200,124536,2022-09-26,Active,san jose,AZ,,96
+CUST_00033,Jane, Johnson,jane.johnson@gmail.com,(789) 541-3385,42,56566,2022-10-16,Inactive,Houston,AZ,1798.83,60
+CUST_00034,chris,Brown,chris.brown@invalid,7892094886,54,116655,2021-08-27,Active,San Antonio,NY,,96
+CUST_00035,David,Davis,david.davis@yahoo.com,456-742-1645,36,79460,2020-12-25,Inactive,Chicago,PA,1827.84,22
+CUST_00036,Emma,Miller,emma.miller@yahoo.com,5556493024,65,101619,2022-02-19,Suspended,Los Angeles,CA,,72
+CUST_00037,Anna,Davis,anna.davis@gmail.com,1236503222,60,1000000,2023-01-11,Pending,San Jose,TX,1669.05,79
+CUST_00038,David,Smith,david.smith@yahoo.com,(789) 657-6876,59,27799,2020-04-13,Suspended,Houston,TX,1532.66,27
+CUST_00039,Sarah,Wilson,sarah.wilson@invalid,456.212.1422,33,27068,2020-12-22,Suspended,New York,CA,957.73,100
+CUST_00040,Anna,Johnson,anna.johnson@yahoo.com,7895362768,46,35589,2021-10-21,Inactive,Los Angeles,CA,657.12,77
+CUST_00041,Emma,ANDERSON,emma.anderson@yahoo.com,(456) 540-8398,38,74060,2020-11-08,Pending,los angeles,TX,1480.2,17
+CUST_00042,Anna,Anderson,anna.anderson@gmail.com,1233173535,24,97910,2022-01-22,Active,Phoenix,TX,,80
+CUST_00043,Chris, Smith,chris.smith@yahoo.com,(789) 459-1100,51,80028,2022-07-18,Suspended,Chicago,CA,1767.85,20
+CUST_00044,Anna,Smith,anna.smith@gmail.com,(999) 216-6655,56,51794,2021-09-09,Inactive,Chicago,CA,1496.56,23
+CUST_00045,Chris,Davis,chris.davis@gmail.com,1236877626,43,67568,2020-12-17,Pending,philadelphia,TX,806.9,11
+CUST_00046,David,Wilson,david.wilson@gmail.com,789-341-2684,59,149687,2023-07-10,Pending,San Diego,CA,1765.28,83
+CUST_00047,Anna,Wilson,anna.wilson@gmail.com,(789) 705-1920,71,109497,2020-07-03,Pending,San Diego,NY,1621.53,84
+CUST_00048,Anna,Taylor,anna.taylor@yahoo.com,123-140-5059,76,78578,2021-11-23,Active,philadelphia,TX,1450.23,85
+CUST_00049,Anna,Brown,anna.brown@invalid,(555) 232-2388,45,27389,2022-01-12,Suspended,Chicago,CA,1999.95,20
+CUST_00050,Jane, Anderson,jane.anderson@yahoo.com,(456) 711-7172,61,83222,2023-06-04,Suspended,San Diego,CA,,25
+CUST_00051,Anna,Taylor,anna.taylor@invalid,(456) 920-3267,51,62363,2020-06-20,Inactive,Phoenix,TX,1821.9,58
+CUST_00052,john,Moore,john.moore@gmail.com,123-910-3392,48,25688,2020-06-11,Active,Phoenix,CA,231.26,37
+CUST_00053,Jane,Smith,jane.smith@gmail.com,(999) 116-9443,33,49551,2023-09-22,Active,Dallas,TX,1574.96,65
+CUST_00054,tom,Taylor,tom.taylor@gmail.com,456.236.1726,29,114742,2022-08-09,Pending,Chicago,CA,411.17,26
+CUST_00055,Lisa,Miller,lisa.miller@gmail.com,7899187029,65,75678,2021-11-25,Inactive,San Diego,TX,174.4,55
+CUST_00056,Anna,Brown,anna.brown@yahoo.com,555.143.6776,68,5000,2023-10-06,Pending,Philadelphia,IL,,19
+CUST_00057,Emma,Smith,emma.smith@gmail.com,456.554.2259,59,39869,2020-02-23,Inactive,San Diego,CA,527.98,58
+CUST_00058,Anna,Miller,anna.miller@gmail.com,555.826.2063,72,118003,2023-12-05,Inactive,Philadelphia,TX,481.11,64
+CUST_00059,Chris,Thomas,chris.thomas@gmail.com,(555) 638-7730,61,41821,2023-02-03,Inactive,Chicago,NY,1041.02,39
+CUST_00060,Lisa,Davis,lisa.davis@yahoo.com,999-740-5961,55,111341,2023-07-02,Suspended,san jose,CA,1286.49,74
+CUST_00061,Sarah,Thomas,sarah.thomas@yahoo.com,5552618202,31,43830,2021-10-02,Suspended,Philadelphia,PA,221.31,31
+CUST_00062,David,TAYLOR,david.taylor@gmail.com,4566109433,37,36802,2022-03-16,Pending,Houston,NY,1199.06,84
+CUST_00063,david,Anderson,david.anderson@gmail.com,1231757329,35,106689,2023-10-25,Active,Chicago,PA,737.56,19
+CUST_00064,Chris,MOORE,chris.moore@gmail.com,999.266.7438,50,117895,2023-02-26,Suspended,San Diego,CA,,75
+CUST_00065,John,Thomas,john.thomas@yahoo.com,999-636-7229,38,79127,2023-11-15,Inactive,San Antonio,CA,,95
+CUST_00066,Mike,Anderson,mike.anderson@gmail.com,999.724.8932,32,500000,2021-08-14,Inactive,San Diego,AZ,1151.22,70
+CUST_00067,Tom,Wilson,tom.wilson@gmail.com,555.319.4310,62,39316,2023-06-14,Inactive,houston,TX,114.46,53
+CUST_00068,Emma,Johnson,emma.johnson@yahoo.com,(555) 588-4267,32,119780,2020-03-17,Inactive,San Antonio,NY,,51
+CUST_00069,Mike,MILLER,mike.miller@invalid,789-636-9092,39,85150,2023-08-20,Suspended,chicago,AZ,1516.99,23
+CUST_00070,Tom,MOORE,tom.moore@gmail.com,(456) 106-5272,41,33142,2023-09-29,Active,San Diego,TX,,91
+CUST_00071,Jane,Miller,jane.miller@yahoo.com,(789) 525-9998,51,35237,2023-03-01,Active,New York,TX,308.21,42
+CUST_00072,Emma,Johnson,emma.johnson@gmail.com,(456) 625-7806,70,53560,2023-03-30,Active,New York,TX,,9
+CUST_00073,Emma,Smith,emma.smith@yahoo.com,789-990-7184,40,95419,2022-03-15,Inactive,Houston,AZ,1441.0,55
+CUST_00074,Sarah,Davis,sarah.davis@gmail.com,5557081550,63,57077,2020-03-31,Pending,San Diego,NY,1987.03,30
+CUST_00075,Anna,Wilson,anna.wilson@yahoo.com,9997417999,40,1000000,2022-02-19,Suspended,San Antonio,IL,952.3,29
+CUST_00076,Mike,Taylor,mike.taylor@gmail.com,(456) 438-2295,61,30183,2020-05-29,Inactive,San Jose,CA,1815.0,39
+CUST_00077,John,Davis,john.davis@gmail.com,9998945637,59,59283,2022-01-06,Pending,san diego,CA,647.26,27
+CUST_00078,Tom,Smith,tom.smith@gmail.com,5556835026,78,58728,2022-09-27,Pending,San Diego,IL,1097.63,24
+CUST_00079,Chris,Smith,chris.smith@gmail.com,456.109.4583,58,105808,2022-09-16,Pending,new york,NY,1447.16,69
+CUST_00080,John,Anderson,john.anderson@gmail.com,(456) 346-4144,43,56877,2023-11-28,Inactive,Phoenix,NY,764.74,71
+CUST_00081,john,Brown,john.brown@invalid,(123) 640-1697,35,98860,2023-09-09,Active,Chicago,TX,1506.99,92
+CUST_00082,Jane,Miller,jane.miller@gmail.com,(456) 909-2284,67,103067,2022-03-23,Suspended,New York,CA,718.06,49
+CUST_00083,anna,Moore,anna.moore@gmail.com,4561056050,35,36442,2021-01-18,Pending,San Diego,CA,714.29,12
+CUST_00084,lisa,Moore,lisa.moore@yahoo.com,456.273.3274,22,61170,2022-05-12,Suspended,San Diego,TX,996.65,79
+CUST_00085,Jane,Brown,jane.brown@gmail.com,789-407-6253,150,116089,2023-07-20,Pending,San Jose,AZ,791.94,15
+CUST_00086,Sarah, Thomas,sarah.thomas@yahoo.com,456-951-2133,33,45203,2022-05-16,Pending,Los Angeles,CA,1018.16,89
+CUST_00087,John,Wilson,john.wilson@gmail.com,(789) 270-1725,34,122891,2022-11-28,Inactive,San Diego,CA,309.98,4
+CUST_00088,David,MOORE,david.moore@gmail.com,456.199.8178,20,40084,2020-02-16,Suspended,Los Angeles,TX,1108.3,43
+CUST_00089,Emma,Davis,emma.davis@yahoo.com,(456) 560-8037,69,49505,2022-01-19,Suspended,Houston,CA,1281.83,77
+CUST_00090,Tom,Thomas,tom.thomas@yahoo.com,(999) 704-2388,62,75916,2022-05-06,Inactive,San Jose,TX,1294.07,23
+CUST_00091,Emma,Miller,emma.miller@gmail.com,4565189056,46,35835,2023-03-03,Active,Houston,TX,1563.67,73
+CUST_00092,Emma,Anderson,emma.anderson@invalid,999-878-8231,20,70688,2020-06-27,Pending,Los Angeles,CA,1723.49,79
+CUST_00093,Mike,Thomas,mike.thomas@gmail.com,(999) 272-6302,66,145424,2020-05-01,Suspended,Chicago,IL,1658.68,98
+CUST_00094,Tom,Taylor,tom.taylor@yahoo.com,123.811.7046,73,121039,2020-07-09,Pending,Philadelphia,TX,864.99,28
+CUST_00095,Lisa,Miller,lisa.miller@yahoo.com,1239783588,79,115255,2020-09-27,Suspended,Chicago,CA,508.27,48
+CUST_00096,Mike,Smith,mike.smith@yahoo.com,(123) 318-8812,39,137766,2022-05-14,Inactive,san diego,CA,741.45,39
+CUST_00097,mike,Brown,mike.brown@gmail.com,4562433017,45,43327,2021-05-22,Suspended,Los Angeles,CA,1883.15,4
+CUST_00098,David,Davis,david.davis@yahoo.com,456.611.2163,26,134965,2023-03-10,Pending,Philadelphia,CA,,99
+CUST_00099,anna,Johnson,anna.johnson@gmail.com,999.184.9791,23,51633,2020-11-14,Suspended,San Antonio,CA,880.6,31
+CUST_00100,Jane,Moore,jane.moore@gmail.com,123.267.9133,26,139486,2021-07-04,Active,New York,TX,1427.52,74
+CUST_00101,Emma,TAYLOR,emma.taylor@yahoo.com,999-333-9336,41,44671,2021-01-01,Active,Dallas,TX,504.04,93
+CUST_00102,Jane,Thomas,jane.thomas@yahoo.com,5554352415,30,127826,2021-09-14,Inactive,San Diego,TX,1097.65,32
+CUST_00103,Tom,Smith,tom.smith@invalid,1236424902,21,5000,2023-12-28,Suspended,los angeles,TX,1792.2,59
+CUST_00104,jane,Thomas,jane.thomas@gmail.com,456.920.7438,32,51569,2020-10-05,Active,Chicago,PA,1076.49,99
+CUST_00105,David,Taylor,david.taylor@yahoo.com,(123) 320-6370,34,47789,2020-03-04,Pending,San Diego,CA,1609.75,18
+CUST_00106,John,Davis,john.davis@gmail.com,(789) 932-2228,71,41059,2020-03-28,Pending,New York,TX,771.63,55
+CUST_00107,Sarah,Brown,sarah.brown@yahoo.com,555-162-2437,69,107674,2023-01-18,Active,San Antonio,TX,694.63,73
+CUST_00108,Tom,Miller,tom.miller@gmail.com,555.263.2640,68,5000,2021-03-25,Pending,Philadelphia,IL,1189.11,95
+CUST_00109,Anna,Smith,anna.smith@yahoo.com,555-279-9035,48,145310,2023-06-11,Inactive,Chicago,PA,303.95,91
+CUST_00110,Jane,Anderson,jane.anderson@gmail.com,789-261-8157,53,146745,2023-06-10,Suspended,Houston,TX,1380.11,17
+CUST_00111,John, Thomas,john.thomas@yahoo.com,999.439.2274,74,1000000,2023-10-04,Suspended,san diego,CA,1576.17,93
+CUST_00112,Tom,Taylor,tom.taylor@gmail.com,123.266.8393,34,5000,2021-12-01,Inactive,San Antonio,CA,1970.7,62
+CUST_00113,Tom,Brown,tom.brown@invalid,5551981813,71,32144,2022-01-08,Active,san antonio,CA,203.0,27
+CUST_00114,David,Johnson,david.johnson@gmail.com,999.478.4056,34,60200,2023-03-01,Active,Chicago,CA,1618.28,53
+CUST_00115,Anna,Davis,anna.davis@yahoo.com,555-587-5896,66,149395,2020-12-08,Inactive,Houston,TX,1646.9,19
+CUST_00116,David,Wilson,david.wilson@gmail.com,(789) 632-8506,27,101372,2020-07-24,Active,San Jose,TX,,53
+CUST_00117,Emma,THOMAS,emma.thomas@yahoo.com,(123) 505-6431,68,61745,2022-10-03,Active,Houston,CA,648.53,94
+CUST_00118,Jane,Davis,jane.davis@gmail.com,(123) 627-3604,74,134704,2020-04-28,Inactive,New York,TX,1648.78,65
+CUST_00119,Jane,Smith,jane.smith@gmail.com,789-866-2480,67,5000,2023-08-18,Inactive,Houston,NY,,99
+CUST_00120, Emma ,Brown,emma.brown@gmail.com,789.570.5128,70,101609,2020-07-28,Active,Dallas,PA,1191.61,37
+CUST_00121,jane,Taylor,jane.taylor@yahoo.com,789-629-4937,59,63745,2021-06-15,Pending, San Antonio ,CA,692.9,92
+CUST_00122,Chris,Taylor,chris.taylor@yahoo.com,456.858.5237,32,122545,2021-09-20,Pending,Philadelphia,CA,,61
+CUST_00123,Anna,THOMAS,anna.thomas@gmail.com,7894507704,73,127097,2020-06-14,Pending,Philadelphia,NY,554.32,98
+CUST_00124,Anna,Brown,anna.brown@gmail.com,555-138-9745,18,57613,2021-04-08,Suspended,Phoenix,CA,139.92,6
+CUST_00125,David,Taylor,david.taylor@invalid,789-868-4087,26,27872,2023-04-22,Inactive,Los Angeles,NY,1284.24,99
+CUST_00126,John, Thomas,john.thomas@gmail.com,555.818.3508,24,60386,2023-06-29,Inactive,San Antonio,CA,236.88,14
+CUST_00127,Anna,Davis,anna.davis@gmail.com,(999) 608-4402,71,89763,2020-11-01,Active,dallas,AZ,918.93,38
+CUST_00128,John,Johnson,john.johnson@gmail.com,1234366857,150,37183,2022-02-02,Suspended,Chicago,CA,777.57,62
+CUST_00129,Mike,Johnson,mike.johnson@yahoo.com,555-285-7221,49,78907,2022-06-21,Active,Los Angeles,TX,1157.53,73
+CUST_00130,Lisa,Anderson,lisa.anderson@gmail.com,555-111-3571,49,68371,2021-07-23,Active,Dallas,TX,166.87,57
+CUST_00131,Emma,Johnson,emma.johnson@gmail.com,5556204389,150,132031,2021-04-01,Pending,Philadelphia,CA,732.96,58
+CUST_00132,Sarah,Smith,sarah.smith@yahoo.com,123-243-7704,72,84905,2021-01-25,Suspended, Los Angeles ,CA,1784.59,59
+CUST_00133,Chris,BROWN,chris.brown@gmail.com,999.848.3103,42,104822,2023-11-19,Inactive,Phoenix,AZ,275.41,53
+CUST_00134,Chris,Miller,chris.miller@gmail.com,456.788.3173,66,87963,2023-04-08,Pending,Dallas,NY,60.29,19
+CUST_00135,John,Davis,john.davis@gmail.com,7892044675,68,116242,2021-08-12,Active,San Antonio,PA,,7
+CUST_00136,David,Davis,david.davis@yahoo.com,789-856-4218,5,47779,2022-11-18,Active,san antonio,AZ,1172.13,33
+CUST_00137,emma,Brown,emma.brown@yahoo.com,(789) 602-6866,28,95390,2022-04-06,Active,Philadelphia,PA,594.21,97
+CUST_00138, Emma ,Anderson,emma.anderson@yahoo.com,999.490.2857,51,74146,2022-11-19,Pending,san diego,TX,173.87,13
+CUST_00139,chris,ANDERSON,chris.anderson@gmail.com,(123) 310-9810,39,34600,2020-04-21,Inactive,Phoenix,TX,,53
+CUST_00140,Tom, Moore,tom.moore@gmail.com,(999) 146-2189,77,76788,2023-09-15,Active,San Diego,TX,1700.44,38
+CUST_00141,Mike,Miller,mike.miller@yahoo.com,(999) 995-3316,65,120150,2021-12-05,Inactive,San Antonio,IL,449.37,33
+CUST_00142,Mike,Thomas,mike.thomas@gmail.com,789-356-2608,33,106201,2020-05-22,Inactive,Philadelphia,AZ,313.27,73
+CUST_00143,Lisa,Moore,lisa.moore@gmail.com,7894676004,29,35744,2021-07-28,Inactive,Dallas,CA,1785.29,65
+CUST_00144,Anna,Thomas,anna.thomas@yahoo.com,(555) 769-3435,50,56310,2023-06-11,Inactive,Dallas,CA,,85
+CUST_00145,Mike,TAYLOR,mike.taylor@gmail.com,(456) 630-6918,51,60847,2021-06-23,Inactive,San Antonio,CA,758.89,29
+CUST_00146,Lisa,Wilson,lisa.wilson@gmail.com,123-316-3461,39,88113,2023-10-14,Pending,San Diego,TX,95.86,74
+CUST_00147,mike,Anderson,mike.anderson@yahoo.com,9995598723,71,43705,2023-04-08,Inactive,San Jose,PA,,77
+CUST_00148,Sarah,Moore,sarah.moore@gmail.com,(456) 720-2577,60,104098,2023-01-09,Active,San Antonio,NY,863.62,62
+CUST_00149,Tom,Wilson,tom.wilson@gmail.com,555-979-2373,65,100757,2022-12-06,Active,dallas,PA,222.1,55
+CUST_00150,David,Miller,david.miller@yahoo.com,555.672.8925,43,137066,2023-09-12,Active,Houston,IL,1021.6,44
+CUST_00151, Anna ,Smith,anna.smith@yahoo.com,5557231618,43,93289,2021-08-09,Active,Chicago,TX,,67
+CUST_00152,John,Thomas,john.thomas@yahoo.com,(456) 188-5520,22,1000000,2021-08-05,Suspended,Philadelphia,CA,,59
+CUST_00153,Anna,Smith,anna.smith@yahoo.com,999-932-5098,79,114337,2022-08-01,Active,San Diego,TX,467.56,41
+CUST_00154,Lisa,Anderson,lisa.anderson@yahoo.com,789-587-6142,61,5000,2022-10-18,Inactive,Houston,TX,1671.53,80
+CUST_00155,Jane,Johnson,jane.johnson@gmail.com,123.604.5501,66,32097,2022-12-12,Pending, San Diego ,PA,1375.81,23
+CUST_00156, Jane ,Anderson,jane.anderson@gmail.com,999.369.4885,49,79931,2023-12-06,Suspended,Philadelphia,IL,1958.75,88
+CUST_00157,Jane,Miller,jane.miller@yahoo.com,555.611.3203,37,137525,2023-03-08,Active,san antonio,TX,958.31,81
+CUST_00158,Lisa,Miller,lisa.miller@gmail.com,9997899363,46,74947,2023-06-10,Suspended,San Diego,IL,1857.85,54
+CUST_00159,Anna,MOORE,anna.moore@gmail.com,7898659535,29,41389,2021-04-25,Suspended,Los Angeles,CA,1758.6,71
+CUST_00160,Tom,ANDERSON,tom.anderson@yahoo.com,789-855-5655,60,144966,2021-10-28,Pending,San Diego,AZ,278.88,90
+CUST_00161,Anna,Thomas,anna.thomas@gmail.com,789.552.6044,18,131873,2020-10-06,Suspended, Phoenix ,CA,,62
+CUST_00162,Tom,Miller,tom.miller@gmail.com,456-948-7199,69,1000000,2023-11-03,Suspended,Phoenix,AZ,1708.43,24
+CUST_00163,Jane,Taylor,jane.taylor@gmail.com,(999) 122-4046,27,53467,2021-12-01,Pending,Phoenix,PA,1584.94,43
+CUST_00164,Mike,Smith,mike.smith@gmail.com,555-224-5078,67,112294,2021-03-02,Pending,San Antonio,PA,1459.19,96
+CUST_00165,Chris,Johnson,chris.johnson@gmail.com,1236982960,18,1000000,2023-11-15,Pending,San Jose,TX,191.89,80
+CUST_00166,John,Smith,john.smith@gmail.com,999.850.4161,34,88609,2023-12-18,Pending,Dallas,TX,1091.8,42
+CUST_00167,David,Thomas,david.thomas@gmail.com,789-894-9289,22,95642,2022-03-04,Inactive,Dallas,IL,651.97,83
+CUST_00168,Jane,ANDERSON,jane.anderson@gmail.com,(456) 201-1521,56,26715,2021-03-03,Pending,Los Angeles,PA,1877.11,54
+CUST_00169,John,THOMAS,john.thomas@yahoo.com,123-644-7313,53,38829,2023-07-31,Suspended,San Diego,CA,368.99,52
+CUST_00170,Mike,Anderson,mike.anderson@invalid,789-522-8054,53,500000,2022-01-07,Pending, San Diego ,NY,,77
+CUST_00171,mike,Miller,mike.miller@yahoo.com,789-669-3534,41,57749,2021-04-22,Suspended,phoenix,TX,1449.93,62
+CUST_00172,Anna,Johnson,anna.johnson@gmail.com,7898651187,51,95769,2023-03-02,Inactive,Philadelphia,NY,1994.76,58
+CUST_00173,anna,Anderson,anna.anderson@gmail.com,123-368-2393,30,110491,2023-03-16,Inactive,Dallas,TX,539.85,56
+CUST_00174,Anna,Johnson,anna.johnson@yahoo.com,789-731-8245,41,120484,2020-06-24,Active,New York,IL,,37
+CUST_00175,Jane,MILLER,jane.miller@gmail.com,(789) 661-8913,21,128440,2023-11-27,Suspended,New York,CA,549.91,85
+CUST_00176,Jane,Smith,jane.smith@yahoo.com,(789) 596-9709,51,89216,2022-03-16,Inactive,New York,AZ,1956.71,65
+CUST_00177,John, Miller,john.miller@gmail.com,4566334726,27,65944,2023-05-24,Suspended,San Diego,IL,1371.26,26
+CUST_00178,David,Anderson,david.anderson@gmail.com,456-670-9732,66,79269,2022-04-22,Suspended,San Diego,AZ,383.99,17
+CUST_00179,Anna,Thomas,anna.thomas@gmail.com,5552887348,28,29224,2022-04-16,Active,Phoenix,TX,141.61,57
+CUST_00180,Emma,Wilson,emma.wilson@yahoo.com,(789) 503-9784,33,76853,2020-03-21,Pending,Dallas,TX,802.1,39
+CUST_00181,David,Taylor,david.taylor@gmail.com,5552387440,19,102373,2023-12-30,Inactive,san diego,IL,255.85,15
+CUST_00182,Lisa,Johnson,lisa.johnson@gmail.com,5552831840,64,83491,2021-08-14,Inactive,Los Angeles,NY,513.69,59
+CUST_00183,Emma,Anderson,emma.anderson@gmail.com,555-350-9967,40,136913,2020-03-07,Suspended, Philadelphia ,TX,,21
+CUST_00184,Anna,Thomas,anna.thomas@gmail.com,789.876.8001,25,60968,2021-11-05,Pending,Dallas,NY,1462.16,81
+CUST_00185,Jane,Taylor,jane.taylor@yahoo.com,789-232-9132,80,40493,2020-02-19,Pending,Los Angeles,CA,,53
+CUST_00186,Lisa,Anderson,lisa.anderson@gmail.com,(789) 618-6307,30,69294,2023-10-09,Pending,San Diego,CA,926.63,69
+CUST_00187,Emma,MOORE,emma.moore@gmail.com,123.167.3446,200,46753,2023-03-15,Pending,Chicago,AZ,635.85,5
+CUST_00188,Jane,Taylor,jane.taylor@gmail.com,7896181408,27,146062,2022-09-17,Suspended,Philadelphia,TX,274.11,93
+CUST_00189, Tom ,Anderson,tom.anderson@gmail.com,123.123.6114,36,66831,2022-06-22,Active,Phoenix,NY,,72
+CUST_00190,Sarah,Anderson,sarah.anderson@gmail.com,(123) 418-6549,21,76369,2021-01-01,Pending,San Jose,TX,1345.03,69
+CUST_00191,Emma,Thomas,emma.thomas@yahoo.com,555-329-3354,60,137825,2021-10-27,Pending,san diego,PA,1693.07,37
+CUST_00192,Anna,Thomas,anna.thomas@yahoo.com,7896613605,39,115971,2023-04-25,Pending,San Antonio,TX,1342.51,95
+CUST_00193,Anna,Taylor,anna.taylor@gmail.com,(555) 171-2781,26,143391,2023-07-26,Active,Chicago,AZ,1160.08,26
+CUST_00194,Lisa,Miller,lisa.miller@yahoo.com,(789) 191-1133,53,5000,2023-12-11,Suspended,Los Angeles,TX,1184.43,81
+CUST_00195,Tom,Moore,tom.moore@gmail.com,(789) 960-7835,27,88792,2023-09-09,Pending,chicago,TX,,90
+CUST_00196,Tom,Thomas,tom.thomas@gmail.com,999.829.9220,20,117390,2022-01-24,Active,San Jose,IL,1057.55,97
+CUST_00197,emma,Anderson,emma.anderson@yahoo.com,(123) 800-9834,50,1000000,2021-11-09,Pending,Philadelphia,AZ,1393.15,77
+CUST_00198,anna,Miller,anna.miller@invalid,999.229.9283,35,58679,2020-01-30,Active,San Jose,IL,745.84,23
+CUST_00199, Sarah ,Taylor,sarah.taylor@invalid,999-957-9125,64,52637,2023-03-29,Suspended,New York,CA,933.39,61
+CUST_00200,Chris,Davis,chris.davis@gmail.com,5557526797,59,68904,2021-07-07,Suspended,Los Angeles,CA,1500.69,94
+CUST_00201,Sarah,Anderson,sarah.anderson@yahoo.com,123.801.8306,20,37050,2020-04-26,Inactive,San Jose,CA,1213.32,49
+CUST_00202,Anna,Brown,anna.brown@yahoo.com,789.363.3653,42,32872,2021-06-12,Suspended,Chicago,TX,365.1,63
+CUST_00203,Chris,Moore,chris.moore@gmail.com,(999) 845-5105,35,68231,2022-03-12,Active,Dallas,CA,1689.66,100
+CUST_00204,Jane,Anderson,jane.anderson@gmail.com,789.747.2485,47,63005,2023-08-19,Inactive,Chicago,TX,786.31,14
+CUST_00205,lisa,Taylor,lisa.taylor@yahoo.com,9997586041,71,27151,2020-03-16,Suspended,New York,TX,1616.14,86
+CUST_00206,Chris,Brown,chris.brown@gmail.com,999.114.3822,24,47372,2023-04-25,Active,Los Angeles,CA,1610.86,55
+CUST_00207,Tom,Wilson,tom.wilson@invalid,456-707-3841,28,97536,2020-12-03,Pending, Houston ,CA,1268.07,49
+CUST_00208,john,TAYLOR,john.taylor@gmail.com,5556358379,29,29931,2023-05-06,Inactive,San Diego,AZ,19.09,31
+CUST_00209,Chris,Johnson,chris.johnson@yahoo.com,4568018772,60,5000,2023-08-13,Suspended,Phoenix,CA,1519.23,6
+CUST_00210,John,Anderson,john.anderson@yahoo.com,999.865.6336,33,139017,2021-02-13,Pending,houston,NY,,19
+CUST_00211,Anna,Taylor,anna.taylor@gmail.com,7892138627,66,141183,2021-08-27,Inactive,San Jose,TX,,12
+CUST_00212,Chris,Taylor,chris.taylor@gmail.com,4566871083,5,1000000,2022-10-29,Active,San Antonio,CA,488.62,72
+CUST_00213,Tom,Davis,tom.davis@gmail.com,555-565-8598,41,117261,2023-07-21,Active,Los Angeles,TX,857.55,35
+CUST_00214,Anna,Anderson,anna.anderson@yahoo.com,999.492.6989,59,33782,2023-02-22,Inactive,Chicago,CA,1477.39,97
+CUST_00215,Sarah,Davis,sarah.davis@gmail.com,555.581.9714,41,148910,2023-11-20,Active,Houston,CA,365.84,10
+CUST_00216,David,Johnson,david.johnson@gmail.com,(999) 235-8764,69,149183,2022-11-30,Suspended,San Antonio,PA,1335.05,68
+CUST_00217,Emma,Taylor,emma.taylor@gmail.com,789.391.8469,29,115814,2023-09-26,Inactive, Chicago ,PA,887.37,48
+CUST_00218,Chris,Smith,chris.smith@invalid,999-125-7628,65,91507,2021-11-09,Suspended,San Diego,CA,1601.16,94
+CUST_00219,Emma,Wilson,emma.wilson@gmail.com,555-556-6855,67,27955,2020-06-20,Pending,Los Angeles,CA,1214.1,8
+CUST_00220,Lisa,Moore,lisa.moore@gmail.com,555.859.7809,64,500000,2022-04-28,Inactive,San Jose,AZ,1736.38,43
+CUST_00221,anna,Moore,anna.moore@yahoo.com,456.396.9037,65,28517,2020-01-06,Inactive,Phoenix,CA,1335.17,37
+CUST_00222,emma,Davis,emma.davis@gmail.com,555.743.8799,54,59018,2020-11-29,Active,Chicago,IL,115.25,47
+CUST_00223,Lisa,Smith,lisa.smith@gmail.com,123.993.6180,62,95047,2023-04-02,Suspended,chicago,PA,829.87,21
+CUST_00224,Mike,Anderson,mike.anderson@gmail.com,(999) 829-2867,37,43220,2022-06-24,Suspended, Chicago ,CA,1715.06,19
+CUST_00225,David,Brown,david.brown@gmail.com,(555) 875-8065,76,33683,2021-09-09,Active,Los Angeles,TX,408.05,86
+CUST_00226,Jane,Brown,jane.brown@gmail.com,999-683-2119,5,1000000,2020-01-09,Active,Houston,CA,1182.87,57
+CUST_00227,Jane,Brown,jane.brown@yahoo.com,789.239.9123,20,89711,2020-08-24,Pending,Phoenix,CA,820.49,55
+CUST_00228, Jane ,Taylor,jane.taylor@gmail.com,999-222-3348,80,51248,2023-05-03,Pending,Los Angeles,CA,1429.85,75
+CUST_00229,Tom,Wilson,tom.wilson@yahoo.com,(123) 225-5107,49,48474,2022-02-22,Suspended,Chicago,CA,1044.7,64
+CUST_00230,Sarah,Miller,sarah.miller@gmail.com,(123) 540-2951,53,127155,2021-09-12,Inactive,San Diego,TX,227.67,87
+CUST_00231,Chris,Anderson,chris.anderson@gmail.com,555-884-5660,40,101541,2020-02-25,Suspended,san antonio,PA,122.33,32
+CUST_00232,david,Thomas,david.thomas@gmail.com,(123) 571-7921,150,67260,2023-03-18,Active,San Diego,PA,1624.8,86
+CUST_00233,Anna,Miller,anna.miller@yahoo.com,(999) 319-5708,55,69150,2021-07-13,Active,San Jose,TX,162.56,39
+CUST_00234,David,Moore,david.moore@yahoo.com,999-742-9457,70,86249,2021-07-02,Pending,San Jose,TX,304.01,20
+CUST_00235,David,Moore,david.moore@gmail.com,789-362-4868,69,85838,2022-09-21,Pending, San Antonio ,IL,67.99,36
+CUST_00236, Mike ,Smith,mike.smith@yahoo.com,(123) 516-6954,71,126595,2022-12-11,Suspended,San Diego,CA,633.69,75
+CUST_00237,Sarah,Moore,sarah.moore@yahoo.com,123-483-2850,5,118804,2022-01-23,Suspended,New York,NY,1327.82,7
+CUST_00238,Sarah,Miller,sarah.miller@gmail.com,456-497-1128,73,145047,2022-06-17,Suspended,San Antonio,CA,1881.59,61
+CUST_00239,Lisa,Moore,lisa.moore@gmail.com,999-855-6353,68,25403,2022-03-31,Inactive,Phoenix,IL,1429.99,99
+CUST_00240,Mike,Thomas,mike.thomas@gmail.com,999-918-5616,42,1000000,2021-04-04,Active,New York,TX,,60
+CUST_00241,Mike,Smith,mike.smith@yahoo.com,123-545-8433,73,59891,2021-08-12,Pending,San Antonio,CA,1649.94,94
+CUST_00242,Tom,Brown,tom.brown@yahoo.com,7899926296,63,80481,2023-05-08,Suspended,los angeles,PA,,61
+CUST_00243, Anna ,Thomas,anna.thomas@yahoo.com,789.366.3783,26,118094,2022-12-22,Pending,Chicago,IL,1947.01,36
+CUST_00244,Tom,Miller,tom.miller@gmail.com,456-882-3478,29,59108,2020-11-30,Pending,San Antonio,CA,719.48,91
+CUST_00245,Emma,Taylor,emma.taylor@gmail.com,456-942-5469,22,90288,2023-10-18,Active,philadelphia,CA,1184.77,14
+CUST_00246,mike,Smith,mike.smith@invalid,999-437-1718,69,67358,2020-04-23,Active,Dallas,TX,487.76,99
+CUST_00247,Jane,Smith,jane.smith@yahoo.com,123.853.6080,71,51197,2022-09-29,Pending,San Antonio,TX,850.85,48
+CUST_00248,tom,Moore,tom.moore@yahoo.com,555.579.8165,26,64375,2021-05-24,Pending,Phoenix,NY,1026.2,53
+CUST_00249,Anna, Miller,anna.miller@gmail.com,4564218454,34,145338,2021-01-18,Inactive,chicago,AZ,,14
+CUST_00250,John,SMITH,john.smith@yahoo.com,(999) 843-8974,18,131950,2020-02-02,Inactive,New York,TX,1255.86,69
+CUST_00251,David,Taylor,david.taylor@gmail.com,5553065830,18,136100,2023-12-31,Pending,San Antonio,CA,1998.06,5
+CUST_00252,Emma,Anderson,emma.anderson@yahoo.com,9993747834,57,500000,2022-07-07,Pending,New York,CA,471.89,29
+CUST_00253,Lisa,Thomas,lisa.thomas@gmail.com,555.918.3654,23,41920,2020-12-20,Inactive,Chicago,TX,,64
+CUST_00254,sarah,ANDERSON,sarah.anderson@yahoo.com,9992234671,39,125843,2020-04-05,Suspended,Chicago,CA,1415.75,57
+CUST_00255,Jane,Johnson,jane.johnson@gmail.com,4568455786,49,38014,2020-11-11,Suspended,Philadelphia,TX,837.34,99
+CUST_00256,Emma,Wilson,emma.wilson@yahoo.com,4565237706,200,72418,2020-03-01,Pending,Chicago,TX,,11
+CUST_00257, Tom ,Brown,tom.brown@gmail.com,999.838.6139,57,1000000,2022-04-07,Pending,Houston,CA,1397.97,84
+CUST_00258,sarah,Miller,sarah.miller@gmail.com,999-195-9383,74,102660,2021-06-13,Inactive,Phoenix,CA,1684.75,34
+CUST_00259,lisa,Johnson,lisa.johnson@gmail.com,4563913293,33,92692,2023-04-07,Inactive,Philadelphia,TX,173.07,8
+CUST_00260,Mike,TAYLOR,mike.taylor@yahoo.com,789-751-7937,26,84993,2020-09-21,Active, Houston ,IL,,48
+CUST_00261,Jane,Thomas,jane.thomas@gmail.com,(789) 483-5968,37,53256,2021-01-09,Pending,New York,NY,1150.39,73
+CUST_00262,Lisa,Moore,lisa.moore@gmail.com,5554964814,20,500000,2021-07-22,Active,Chicago,AZ,256.33,72
+CUST_00263,Anna,ANDERSON,anna.anderson@yahoo.com,(123) 774-9713,56,102187,2020-04-02,Pending,New York,NY,,41
+CUST_00264,Jane,Johnson,jane.johnson@gmail.com,555.285.1445,38,142048,2021-10-25,Suspended,San Antonio,NY,1506.75,76
+CUST_00265,Chris,Anderson,chris.anderson@gmail.com,555.667.2663,46,108335,2022-10-21,Inactive,Chicago,TX,853.27,72
+CUST_00266,John,Taylor,john.taylor@yahoo.com,789.459.4485,65,34166,2021-09-07,Active,San Antonio,TX,,56
+CUST_00267,Chris,Wilson,chris.wilson@gmail.com,7897611033,18,79154,2023-02-12,Pending,San Antonio,CA,1786.22,86
+CUST_00268,Jane,Wilson,jane.wilson@yahoo.com,123.555.1153,63,36792,2023-06-10,Suspended,Houston,PA,990.75,91
+CUST_00269,Sarah,Smith,sarah.smith@gmail.com,999-166-3101,64,50146,2023-10-20,Active,Dallas,CA,859.96,87
+CUST_00270,John,Wilson,john.wilson@gmail.com,(123) 838-4678,39,99949,2020-02-21,Inactive,San Antonio,TX,628.5,81
+CUST_00271,John,TAYLOR,john.taylor@gmail.com,(555) 344-6583,57,37539,2023-07-04,Pending,San Jose,NY,1781.27,89
+CUST_00272,Mike,Smith,mike.smith@yahoo.com,999-970-7249,68,26390,2022-07-17,Pending,San Diego,CA,1305.33,87
+CUST_00273,Emma,Anderson,emma.anderson@yahoo.com,4565318887,26,32928,2020-09-18,Suspended,San Jose,PA,1771.59,100
+CUST_00274,Emma,Miller,emma.miller@gmail.com,(456) 619-1894,60,115680,2022-08-15,Suspended,San Jose,AZ,332.94,59
+CUST_00275,John,TAYLOR,john.taylor@gmail.com,(789) 926-7158,53,63086,2022-06-20,Inactive,San Jose,NY,575.36,29
+CUST_00276,Mike,Wilson,mike.wilson@gmail.com,456.412.8474,78,129729,2023-06-30,Pending,Los Angeles,IL,391.45,49
+CUST_00277,Lisa,Thomas,lisa.thomas@yahoo.com,7899933071,23,128677,2023-09-20,Active,Chicago,TX,1042.6,23
+CUST_00278,Lisa,Anderson,lisa.anderson@yahoo.com,9999834840,45,99890,2020-11-17,Suspended,Phoenix,CA,1042.45,30
+CUST_00279,Emma,Anderson,emma.anderson@gmail.com,555.371.2243,50,35244,2021-07-20,Inactive,Los Angeles,TX,401.33,43
+CUST_00280,David,Davis,david.davis@yahoo.com,1235151194,66,500000,2021-04-11,Inactive,Houston,TX,1447.8,60
+CUST_00281,Jane,Wilson,jane.wilson@yahoo.com,123.412.1158,45,77870,2023-11-15,Suspended,Philadelphia,NY,,20
+CUST_00282,Lisa,Thomas,lisa.thomas@invalid,4562116387,37,38672,2023-10-14,Inactive,New York,NY,148.29,50
+CUST_00283,Sarah,MILLER,sarah.miller@yahoo.com,5555892126,5,51958,2021-09-26,Pending,San Diego,AZ,1009.93,88
+CUST_00284,Sarah,Smith,sarah.smith@gmail.com,999.854.2492,63,76260,2023-06-09,Inactive,San Antonio,TX,1822.56,24
+CUST_00285,Jane,MOORE,jane.moore@gmail.com,(123) 814-4559,67,84105,2020-12-03,Suspended,Houston,CA,1354.49,60
+CUST_00286,Tom,DAVIS,tom.davis@yahoo.com,555-184-9985,35,47359,2020-02-06,Active,Chicago,TX,1346.07,2
+CUST_00287, Mike ,Taylor,mike.taylor@yahoo.com,(999) 756-2684,67,57728,2022-02-06,Inactive,houston,NY,392.38,86
+CUST_00288,Jane,BROWN,jane.brown@yahoo.com,999.223.4807,18,66450,2020-01-25,Pending,Houston,AZ,744.27,9
+CUST_00289,Tom,Miller,tom.miller@yahoo.com,999.746.7366,66,66676,2023-09-26,Pending,Los Angeles,CA,1026.94,95
+CUST_00290,Anna,Smith,anna.smith@yahoo.com,9993063484,20,120067,2023-05-09,Pending,Philadelphia,NY,1955.36,83
+CUST_00291,John,Davis,john.davis@yahoo.com,(456) 920-4644,49,50226,2020-04-16,Inactive,Houston,TX,1864.31,31
+CUST_00292,Tom,Taylor,tom.taylor@gmail.com,555-378-8883,45,121328,2022-06-06,Inactive,san diego,CA,1843.85,77
+CUST_00293,Chris,Brown,chris.brown@gmail.com,456.294.1068,77,76727,2022-02-03,Pending,San Diego,CA,87.27,16
+CUST_00294,Anna,Brown,anna.brown@gmail.com,555-813-1945,76,107700,2023-12-18,Active,Chicago,IL,1208.28,85
+CUST_00295,John,Johnson,john.johnson@yahoo.com,9996129735,64,139871,2020-07-01,Active,San Jose,IL,426.96,96
+CUST_00296, David ,Smith,david.smith@gmail.com,789-274-3890,50,500000,2023-03-07,Inactive,Chicago,TX,1805.52,53
+CUST_00297,Anna,Johnson,anna.johnson@gmail.com,(999) 340-8829,51,74239,2023-05-19,Suspended,San Diego,TX,1366.9,44
+CUST_00298,Sarah,Wilson,sarah.wilson@gmail.com,555.126.3013,5,106048,2023-11-06,Pending,Dallas,PA,726.81,6
+CUST_00299,Lisa,Taylor,lisa.taylor@yahoo.com,(555) 774-2645,68,134098,2023-10-10,Pending,Chicago,CA,489.39,28
+CUST_00300,Jane,Johnson,jane.johnson@yahoo.com,4567813224,62,54334,2023-03-25,Active,Philadelphia,TX,1572.31,56
+CUST_00301,Sarah,MILLER,sarah.miller@yahoo.com,123-230-6134,80,126093,2022-01-17,Inactive,Dallas,CA,1081.2,59
+CUST_00302,David,Davis,david.davis@yahoo.com,123-416-9230,63,5000,2021-11-13,Inactive,Houston,TX,114.61,100
+CUST_00303,Emma,Moore,emma.moore@gmail.com,555.500.2176,30,96828,2022-03-17,Active,Chicago,NY,1422.08,59
+CUST_00304,Anna,Brown,anna.brown@gmail.com,(123) 470-2670,80,148871,2020-04-17,Active,Dallas,IL,813.95,5
+CUST_00305,Tom,Taylor,tom.taylor@yahoo.com,(123) 896-8596,25,112659,2022-11-09,Inactive,New York,CA,1493.26,76
+CUST_00306,Emma,Moore,emma.moore@gmail.com,(555) 932-1323,31,5000,2021-01-05,Inactive,New York,CA,1154.41,84
+CUST_00307,Chris,MILLER,chris.miller@gmail.com,5559015807,49,93506,2021-12-22,Inactive, Los Angeles ,NY,606.42,28
+CUST_00308,Anna,Anderson,anna.anderson@gmail.com,555-509-8472,22,60310,2023-07-20,Inactive,Philadelphia,TX,845.18,20
+CUST_00309,tom,Moore,tom.moore@gmail.com,123.896.5476,42,5000,2022-02-14,Active,Los Angeles,AZ,1615.53,13
+CUST_00310,Anna,Miller,anna.miller@gmail.com,789-664-7597,27,121393,2021-07-01,Active,Philadelphia,CA,921.0,57
+CUST_00311,Emma,Anderson,emma.anderson@gmail.com,(123) 412-7660,78,100407,2020-04-27,Active,Phoenix,NY,,55
+CUST_00312,Mike,Taylor,mike.taylor@gmail.com,456-831-7962,200,1000000,2023-11-01,Active,San Jose,TX,,23
+CUST_00313,Mike,ANDERSON,mike.anderson@invalid,7893975901,31,107729,2023-03-10,Pending,Houston,TX,80.5,60
+CUST_00314,Emma,Smith,emma.smith@yahoo.com,456-109-2660,76,45398,2023-09-06,Suspended,Houston,PA,372.54,35
+CUST_00315,Emma,Taylor,emma.taylor@gmail.com,456-236-7464,79,59838,2020-08-31,Pending,San Diego,IL,1531.14,52
+CUST_00316, Tom ,Brown,tom.brown@yahoo.com,4563965623,45,44987,2022-11-13,Inactive,Houston,AZ,,32
+CUST_00317,Tom,Davis,tom.davis@gmail.com,999-334-2973,45,51167,2020-07-05,Active,San Antonio,TX,857.89,8
+CUST_00318,John,Miller,john.miller@yahoo.com,(456) 141-1008,34,500000,2021-11-15,Suspended, los angeles ,TX,269.31,47
+CUST_00319,Lisa,Thomas,lisa.thomas@yahoo.com,456.297.8303,48,5000,2022-12-28,Inactive,New York,AZ,,98
+CUST_00320,Chris,Wilson,chris.wilson@gmail.com,(999) 909-1358,62,131762,2022-03-25,Pending,Dallas,IL,1023.46,72
+CUST_00321,Tom,Thomas,tom.thomas@yahoo.com,999.365.5971,53,54350,2020-04-03,Inactive,phoenix,AZ,,35
+CUST_00322,John,Davis,john.davis@yahoo.com,(789) 185-9999,32,61659,2020-12-27,Suspended,New York,CA,1494.08,49
+CUST_00323,David,Thomas,david.thomas@yahoo.com,5555902535,29,48083,2021-01-21,Pending, Chicago ,IL,,51
+CUST_00324,Sarah,Johnson,sarah.johnson@yahoo.com,(456) 844-1193,59,5000,2021-05-23,Active,Phoenix,NY,28.7,14
+CUST_00325,Lisa,Johnson,lisa.johnson@gmail.com,(456) 349-1915,36,141189,2022-04-30,Inactive, New York ,TX,713.09,37
+CUST_00326,Tom,Johnson,tom.johnson@gmail.com,789.719.3475,61,142062,2023-09-28,Suspended,San Jose,CA,1003.51,48
+CUST_00327,Jane,Smith,jane.smith@gmail.com,555.844.5562,5,71217,2021-10-15,Pending,San Antonio,CA,673.6,84
+CUST_00328,Tom,Moore,tom.moore@gmail.com,(555) 639-4593,48,5000,2020-05-02,Suspended,Philadelphia,IL,296.84,71
+CUST_00329,Tom,Davis,tom.davis@gmail.com,1237782208,73,44252,2022-01-18,Inactive, Los Angeles ,TX,373.02,96
+CUST_00330,Chris,Miller,chris.miller@gmail.com,1231117494,74,118245,2021-06-12,Suspended,Houston,CA,1956.07,17
+CUST_00331,tom,Thomas,tom.thomas@gmail.com,555.947.7233,30,38683,2020-06-08,Suspended,San Jose,TX,1087.72,9
+CUST_00332,John,Miller,john.miller@gmail.com,123.422.2527,79,50543,2021-10-06,Pending,Philadelphia,CA,1794.06,65
+CUST_00333,Mike,Smith,mike.smith@gmail.com,555.320.3307,26,72227,2023-06-30,Pending,New York,TX,1994.05,78
+CUST_00334,Mike,Thomas,mike.thomas@gmail.com,123.273.5843,40,48486,2023-12-26,Pending,Phoenix,CA,289.49,16
+CUST_00335,Emma,Smith,emma.smith@gmail.com,999.798.7769,61,109392,2020-04-26,Inactive,dallas,AZ,1144.57,10
+CUST_00336,Emma,Johnson,emma.johnson@gmail.com,1234246610,65,61487,2022-07-19,Active,Dallas,TX,72.33,77
+CUST_00337,John,Wilson,john.wilson@yahoo.com,5551705487,73,139201,2022-05-09,Inactive,Phoenix,TX,1508.82,22
+CUST_00338,Tom,Taylor,tom.taylor@yahoo.com,(555) 942-1162,47,500000,2021-10-10,Active,San Antonio,CA,,17
+CUST_00339,anna,Johnson,anna.johnson@yahoo.com,456.479.6960,73,90422,2023-08-21,Pending,San Antonio,TX,1948.4,43
+CUST_00340,Mike,Taylor,mike.taylor@yahoo.com,5551911269,65,146533,2023-01-20,Active,San Diego,AZ,,28
+CUST_00341,Emma,Anderson,emma.anderson@invalid,555.900.4668,34,143315,2022-04-29,Inactive,New York,NY,1583.12,67
+CUST_00342,Anna,Wilson,anna.wilson@invalid,456-948-1845,38,82331,2021-04-18,Active,Chicago,TX,1258.36,34
+CUST_00343,Mike,WILSON,mike.wilson@gmail.com,999-125-3138,52,120199,2022-02-13,Suspended,New York,NY,1162.92,14
+CUST_00344,Anna,Johnson,anna.johnson@gmail.com,456-602-1359,42,108040,2022-07-12,Inactive,Chicago,CA,1711.07,16
+CUST_00345, Lisa ,Taylor,lisa.taylor@gmail.com,(999) 130-9781,19,53804,2020-06-19,Inactive,Phoenix,CA,1107.48,38
+CUST_00346,Emma,Moore,emma.moore@yahoo.com,7898398992,45,60608,2021-10-14,Active,San Jose,PA,1269.07,9
+CUST_00347,John,Anderson,john.anderson@invalid,999.284.6286,31,73754,2020-10-24,Suspended,los angeles,PA,1139.26,42
+CUST_00348,Chris,Johnson,chris.johnson@yahoo.com,(123) 687-7909,49,60968,2022-05-12,Active,Los Angeles,CA,1157.06,37
+CUST_00349,Anna,Smith,anna.smith@yahoo.com,123.197.7800,40,97935,2021-10-03,Pending,san jose,CA,1285.78,16
+CUST_00350, anna ,JOHNSON,anna.johnson@yahoo.com,(555) 331-3788,73,140778,2020-03-29,Active,New York,PA,1585.34,49
+CUST_00351,Mike,Brown,mike.brown@yahoo.com,5553468830,150,88269,2021-04-07,Active,Phoenix,PA,1747.02,85
+CUST_00352,sarah,Johnson,sarah.johnson@gmail.com,5558786108,72,144816,2020-09-23,Inactive,Philadelphia,CA,1562.24,25
+CUST_00353,Tom,Brown,tom.brown@gmail.com,1235879698,25,5000,2021-12-26,Pending,Houston,TX,888.27,48
+CUST_00354,Tom,Moore,tom.moore@gmail.com,(123) 797-1817,33,38242,2021-07-18,Inactive,San Jose,TX,1470.51,89
+CUST_00355,Sarah,Brown,sarah.brown@gmail.com,(999) 817-8811,39,43590,2020-01-27,Pending,San Antonio,AZ,,22
+CUST_00356, John ,Thomas,john.thomas@gmail.com,(123) 680-5762,69,84325,2022-10-01,Suspended,Dallas,PA,1657.22,39
+CUST_00357,Chris,Thomas,chris.thomas@gmail.com,456.131.5003,23,74516,2023-08-01,Active,Phoenix,CA,,68
+CUST_00358,Lisa,Wilson,lisa.wilson@gmail.com,(789) 954-3014,61,114249,2020-11-03,Suspended,San Jose,CA,1601.57,2
+CUST_00359,Sarah, Miller,sarah.miller@yahoo.com,(123) 357-3256,27,5000,2022-06-03,Active,Phoenix,PA,1360.22,50
+CUST_00360,Jane,Miller,jane.miller@yahoo.com,(456) 799-4268,77,96543,2021-01-10,Pending,san antonio,PA,1373.47,46
+CUST_00361, Tom ,Taylor,tom.taylor@invalid,555.905.4975,52,140055,2021-08-23,Active,San Antonio,CA,1751.07,59
+CUST_00362,Jane,Smith,jane.smith@gmail.com,789-224-9369,79,54300,2023-10-15,Inactive,Phoenix,NY,1251.09,26
+CUST_00363,John,Brown,john.brown@yahoo.com,555.514.8925,61,111266,2023-06-17,Active, San Antonio ,IL,1318.36,22
+CUST_00364,Chris,Davis,chris.davis@yahoo.com,555.933.7960,54,101092,2021-09-12,Active,San Jose,PA,,60
+CUST_00365,emma,Miller,emma.miller@yahoo.com,9994606558,68,127886,2023-09-10,Suspended,san antonio,CA,948.79,85
+CUST_00366,Chris,Anderson,chris.anderson@yahoo.com,1237812740,48,55347,2021-04-29,Active,Chicago,TX,,8
+CUST_00367,Jane,SMITH,jane.smith@yahoo.com,7893005136,36,122275,2020-11-27,Pending,Dallas,CA,1920.07,13
+CUST_00368,Mike,Smith,mike.smith@yahoo.com,999.684.8761,53,130066,2020-05-17,Pending,San Antonio,CA,1566.95,39
+CUST_00369, emma ,Davis,emma.davis@yahoo.com,555.394.2225,21,141891,2020-08-15,Pending, Phoenix ,TX,675.74,98
+CUST_00370,Sarah,Anderson,sarah.anderson@gmail.com,999-454-2159,20,90089,2022-11-05,Inactive,Philadelphia,TX,120.16,100
+CUST_00371,Sarah, Anderson,sarah.anderson@gmail.com,(555) 812-3051,80,500000,2021-01-31,Suspended,San Antonio,CA,461.98,96
+CUST_00372,chris,Thomas,chris.thomas@gmail.com,5553993125,25,35011,2021-05-27,Inactive,San Diego,TX,612.41,47
+CUST_00373,David,Davis,david.davis@yahoo.com,999-180-4335,64,43607,2020-03-14,Inactive,San Diego,CA,1674.29,35
+CUST_00374,Tom,MILLER,tom.miller@yahoo.com,(555) 554-1727,20,70587,2020-02-23,Suspended,Phoenix,NY,1660.19,56
+CUST_00375,John,Johnson,john.johnson@invalid,999-686-9501,18,114469,2021-07-15,Active,Houston,CA,1234.94,47
+CUST_00376,david,Thomas,david.thomas@gmail.com,1237534569,78,142577,2023-06-03,Suspended,Los Angeles,AZ,994.91,30
+CUST_00377,Mike,Thomas,mike.thomas@gmail.com,(789) 142-4734,40,91445,2022-06-27,Active,dallas,CA,1647.16,54
+CUST_00378,Tom,Miller,tom.miller@yahoo.com,(555) 401-1510,69,118817,2022-11-06,Suspended,Houston,IL,1995.66,11
+CUST_00379,Sarah,Thomas,sarah.thomas@yahoo.com,999.775.9592,71,144415,2021-05-14,Suspended,Houston,TX,1498.89,15
+CUST_00380,Emma,Moore,emma.moore@yahoo.com,555-335-3052,68,66136,2020-08-29,Active,San Antonio,CA,1764.07,26
+CUST_00381,Emma,Smith,emma.smith@gmail.com,1236279672,40,116347,2023-02-14,Inactive,Phoenix,PA,1237.09,93
+CUST_00382,Lisa,Taylor,lisa.taylor@yahoo.com,4567908430,29,102080,2021-07-26,Active,Houston,CA,1055.14,66
+CUST_00383,Tom,Miller,tom.miller@yahoo.com,(456) 540-9505,49,141044,2020-12-12,Suspended,Phoenix,TX,290.6,27
+CUST_00384,chris,Brown,chris.brown@gmail.com,1236333067,25,145479,2020-09-02,Pending,San Antonio,IL,,94
+CUST_00385,Lisa,Johnson,lisa.johnson@gmail.com,999.139.8100,53,140025,2023-07-06,Active,New York,TX,537.92,20
+CUST_00386,Mike,Taylor,mike.taylor@yahoo.com,123.827.3918,58,108586,2021-12-15,Pending,Dallas,AZ,1751.33,86
+CUST_00387,Tom,Thomas,tom.thomas@yahoo.com,7892183886,200,116353,2022-03-26,Inactive,San Diego,CA,477.37,38
+CUST_00388,sarah,Moore,sarah.moore@gmail.com,555.845.4587,32,46828,2023-01-02,Inactive,Los Angeles,PA,1084.14,93
+CUST_00389,Tom,Johnson,tom.johnson@gmail.com,456.958.9776,76,79184,2021-03-17,Inactive, new york ,TX,801.9,63
+CUST_00390,david, Miller,david.miller@yahoo.com,5551782210,65,104281,2020-11-06,Active,San Jose,CA,,42
+CUST_00391,John,Miller,john.miller@gmail.com,123-674-5563,49,149709,2022-02-02,Active,San Diego,TX,899.7,62
+CUST_00392,David,Wilson,david.wilson@yahoo.com,(999) 355-2374,34,122060,2021-11-22,Inactive,New York,TX,,35
+CUST_00393,Chris,Taylor,chris.taylor@gmail.com,123-816-2269,25,82357,2020-08-20,Active,San Antonio,TX,1500.5,71
+CUST_00394,John,Miller,john.miller@gmail.com,789.635.4349,31,1000000,2020-10-04,Inactive,Dallas,PA,309.19,9
+CUST_00395,John,Miller,john.miller@yahoo.com,999.453.1231,73,120593,2021-09-18,Suspended,San Jose,TX,1322.14,10
+CUST_00396,Jane,Davis,jane.davis@yahoo.com,789-926-8756,69,43786,2020-12-03,Pending,New York,NY,1616.4,55
+CUST_00397,Lisa,Miller,lisa.miller@gmail.com,789-424-9694,53,116108,2021-05-28,Active,Dallas,IL,737.72,60
+CUST_00398,Lisa,Moore,lisa.moore@gmail.com,123.299.1091,41,1000000,2020-01-27,Suspended,New York,TX,1394.04,33
+CUST_00399,John,Thomas,john.thomas@gmail.com,555-926-2702,26,134322,2020-09-01,Active,San Diego,CA,,36
+CUST_00400,Sarah,Thomas,sarah.thomas@gmail.com,(999) 839-7000,66,120545,2021-06-30,Active,Chicago,TX,824.41,82
+CUST_00401,John,Miller,john.miller@gmail.com,(555) 190-2904,68,108616,2022-02-06,Pending,Los Angeles,AZ,1288.21,25
+CUST_00402,mike,Miller,mike.miller@gmail.com,4563702514,41,109125,2022-12-07,Pending,chicago,TX,1141.74,90
+CUST_00403,David,Davis,david.davis@gmail.com,4566294054,55,98894,2022-02-12,Active,Philadelphia,NY,956.24,44
+CUST_00404,Jane,Brown,jane.brown@yahoo.com,555.584.4990,43,146764,2021-04-24,Active,San Antonio,CA,66.82,66
+CUST_00405,David,Thomas,david.thomas@gmail.com,7899206670,47,44331,2021-02-14,Inactive,Phoenix,TX,1451.03,20
+CUST_00406,Lisa,Smith,lisa.smith@yahoo.com,555.881.2569,26,67875,2021-08-02,Pending,San Jose,CA,1940.75,4
+CUST_00407,Anna,Brown,anna.brown@yahoo.com,1233165946,42,80798,2020-11-04,Suspended,Phoenix,NY,1910.48,23
+CUST_00408,Chris,JOHNSON,chris.johnson@yahoo.com,1231118964,21,58901,2023-07-22,Active,San Jose,TX,952.36,43
+CUST_00409,Lisa,Johnson,lisa.johnson@gmail.com,7895451795,25,85325,2022-01-21,Active,San Jose,PA,1536.0,4
+CUST_00410,Mike,MILLER,mike.miller@gmail.com,123-354-3871,45,70270,2022-07-27,Inactive, Dallas ,PA,302.03,93
+CUST_00411,Jane,Moore,jane.moore@gmail.com,456.956.8101,200,136967,2021-05-14,Active,Philadelphia,TX,1380.84,24
+CUST_00412,John, Thomas,john.thomas@yahoo.com,456.199.4626,57,118327,2023-06-01,Pending,San Jose,TX,1860.45,2
+CUST_00413,Lisa,Wilson,lisa.wilson@gmail.com,(555) 361-7601,51,63249,2021-10-07,Pending,san diego,IL,1134.14,54
+CUST_00414,John,Miller,john.miller@yahoo.com,1232823606,40,79811,2023-05-12,Suspended,Philadelphia,PA,1069.69,29
+CUST_00415,Emma,Taylor,emma.taylor@gmail.com,7894927850,58,54385,2020-10-10,Active,San Jose,NY,507.38,73
+CUST_00416,jane,Wilson,jane.wilson@gmail.com,456.279.8736,22,52132,2023-03-28,Pending,San Diego,TX,1945.88,65
+CUST_00417,Anna,Wilson,anna.wilson@yahoo.com,(555) 987-9515,56,95014,2020-02-18,Pending,San Diego,TX,1453.05,6
+CUST_00418,Chris,Taylor,chris.taylor@yahoo.com,1232454982,24,115926,2020-05-31,Pending,San Diego,PA,894.9,58
+CUST_00419,Anna,Miller,anna.miller@gmail.com,789.681.5992,69,44205,2023-05-29,Suspended,San Antonio,TX,305.24,2
+CUST_00420,Chris,Anderson,chris.anderson@yahoo.com,7899919605,75,112653,2020-05-12,Suspended,Houston,AZ,1460.24,16
+CUST_00421,Lisa,Taylor,lisa.taylor@yahoo.com,(999) 333-4318,79,122158,2023-01-06,Active,New York,TX,1481.48,89
+CUST_00422, Sarah ,Davis,sarah.davis@gmail.com,456-235-9561,55,37880,2023-01-04,Active,Philadelphia,CA,175.94,26
+CUST_00423, Anna ,Davis,anna.davis@yahoo.com,555.100.5124,29,88344,2022-11-19,Suspended,Phoenix,PA,1126.92,40
+CUST_00424,Jane,Brown,jane.brown@gmail.com,555-196-8261,66,65265,2022-10-24,Suspended,Philadelphia,AZ,,27
+CUST_00425,Mike,Wilson,mike.wilson@gmail.com,999.334.5306,39,133689,2021-10-07,Pending,Phoenix,TX,1880.57,8
+CUST_00426, Lisa ,Brown,lisa.brown@yahoo.com,789-124-6273,46,39003,2020-06-01,Inactive,Chicago,CA,1942.56,6
+CUST_00427,Tom,Taylor,tom.taylor@gmail.com,999.583.3200,200,44893,2020-11-04,Suspended,San Jose,TX,1097.7,85
+CUST_00428,Chris,Miller,chris.miller@yahoo.com,7895794730,30,117282,2021-06-14,Suspended, San Jose ,CA,860.39,63
+CUST_00429, Chris ,Smith,chris.smith@gmail.com,(789) 909-9827,80,39723,2022-12-25,Inactive,Dallas,CA,1985.97,97
+CUST_00430,Tom,Miller,tom.miller@gmail.com,(999) 447-8439,42,54521,2021-10-22,Pending,Chicago,PA,1310.69,26
+CUST_00431,Anna,Wilson,anna.wilson@gmail.com,(123) 126-9739,38,1000000,2021-03-03,Inactive,Phoenix,TX,,28
+CUST_00432,John,Brown,john.brown@yahoo.com,(456) 489-1806,29,100799,2022-11-23,Active,Chicago,CA,723.2,41
+CUST_00433,Sarah,Johnson,sarah.johnson@gmail.com,555-463-6904,5,131190,2022-03-09,Pending,New York,PA,1696.36,23
+CUST_00434,Mike,Anderson,mike.anderson@yahoo.com,789-943-3580,69,72850,2020-08-12,Inactive,New York,PA,,34
+CUST_00435, John ,Smith,john.smith@gmail.com,(555) 880-9604,22,87349,2022-08-09,Pending,Dallas,NY,944.28,33
+CUST_00436,Chris,Wilson,chris.wilson@gmail.com,4568612553,57,54651,2021-05-28,Inactive,Phoenix,CA,1158.56,35
+CUST_00437,Mike,Wilson,mike.wilson@yahoo.com,555-913-4242,38,88016,2022-09-17,Suspended,Houston,CA,1985.47,59
+CUST_00438,Chris,Taylor,chris.taylor@yahoo.com,789.567.2581,41,28331,2023-01-17,Inactive,Los Angeles,CA,1428.26,17
+CUST_00439,David,Taylor,david.taylor@gmail.com,999-960-4634,51,129891,2022-12-27,Suspended,Dallas,TX,325.91,88
+CUST_00440,Anna,Davis,anna.davis@yahoo.com,789.634.7901,78,34813,2021-05-29,Suspended,Houston,CA,826.65,19
+CUST_00441,Mike,Davis,mike.davis@gmail.com,456-511-3022,66,108460,2020-08-28,Suspended,Dallas,CA,882.16,16
+CUST_00442,Anna,Taylor,anna.taylor@yahoo.com,123.536.3759,24,120913,2023-05-20,Suspended,Houston,TX,1279.74,99
+CUST_00443,David,Miller,david.miller@gmail.com,5552068993,73,500000,2020-03-27,Active,San Jose,CA,243.77,98
+CUST_00444,Anna,Thomas,anna.thomas@yahoo.com,999-138-7532,19,68117,2020-07-21,Suspended,San Antonio,AZ,1369.19,46
+CUST_00445,Sarah,MILLER,sarah.miller@yahoo.com,456-763-6273,72,71111,2023-06-16,Inactive,Philadelphia,CA,632.72,64
+CUST_00446,Tom,Davis,tom.davis@yahoo.com,456-214-4109,62,37237,2020-07-04,Pending,Phoenix,PA,1843.3,14
+CUST_00447,David,THOMAS,david.thomas@gmail.com,789-329-4587,33,1000000,2022-09-16,Pending,San Antonio,TX,1697.33,75
+CUST_00448,Anna,Moore,anna.moore@gmail.com,456-465-2262,76,91512,2023-12-21,Pending,Dallas,CA,703.2,90
+CUST_00449,Chris,Davis,chris.davis@gmail.com,(456) 122-8347,22,500000,2023-03-12,Suspended,New York,IL,,28
+CUST_00450,David,Anderson,david.anderson@gmail.com,(999) 797-6152,22,94438,2022-04-27,Inactive,Houston,IL,68.68,64
+CUST_00451,lisa,Johnson,lisa.johnson@gmail.com,555.418.6818,29,51293,2021-04-09,Suspended,Los Angeles,TX,1759.81,8
+CUST_00452,john, WILSON,john.wilson@gmail.com,999-979-2136,80,139307,2023-10-31,Inactive,San Jose,CA,1760.55,23
+CUST_00453,Emma,Smith,emma.smith@yahoo.com,7892712633,27,500000,2022-07-20,Pending,San Diego,CA,737.73,31
+CUST_00454,Emma,DAVIS,emma.davis@yahoo.com,999-193-6251,26,50957,2021-08-22,Pending,San Antonio,NY,649.81,62
+CUST_00455,David,Taylor,david.taylor@gmail.com,(123) 414-9893,150,95485,2020-04-17,Pending,Dallas,PA,98.99,28
+CUST_00456,Mike,DAVIS,mike.davis@gmail.com,555-397-1077,71,45437,2020-10-17,Inactive,San Jose,TX,1423.24,81
+CUST_00457,David,Moore,david.moore@yahoo.com,(555) 359-1170,25,128702,2022-09-27,Active,Chicago,AZ,,92
+CUST_00458,Tom,Miller,tom.miller@yahoo.com,(456) 188-9158,20,49179,2020-06-20,Active,Houston,IL,1540.56,85
+CUST_00459, Sarah ,DAVIS,sarah.davis@gmail.com,(456) 458-8569,58,111246,2022-06-17,Active,san diego,TX,330.59,71
+CUST_00460,John,Johnson,john.johnson@yahoo.com,7891031957,25,124899,2023-07-10,Active, San Jose ,CA,,83
+CUST_00461,Anna,Moore,anna.moore@yahoo.com,555-565-9789,150,5000,2022-01-23,Active,San Antonio,CA,1760.81,30
+CUST_00462,Mike,Wilson,mike.wilson@yahoo.com,555-433-7535,54,139505,2023-09-12,Suspended,San Diego,TX,620.73,51
+CUST_00463,Jane,Anderson,jane.anderson@gmail.com,(456) 445-3567,42,47589,2021-07-13,Inactive,San Antonio,IL,942.47,95
+CUST_00464,Emma,Wilson,emma.wilson@gmail.com,123-108-1864,79,135189,2020-05-15,Suspended,San Jose,CA,1410.17,38
+CUST_00465,Chris,Brown,chris.brown@gmail.com,9992163402,20,74931,2022-08-26,Pending, San Diego ,PA,,75
+CUST_00466,Emma,Smith,emma.smith@invalid,789-238-5916,150,128911,2020-06-19,Suspended,San Jose,CA,,54
+CUST_00467,Lisa,Miller,lisa.miller@yahoo.com,(123) 764-4912,66,111430,2020-06-13,Suspended,dallas,CA,1151.57,39
+CUST_00468,Emma,Moore,emma.moore@gmail.com,5556654160,23,1000000,2020-06-22,Suspended, Dallas ,IL,223.03,10
+CUST_00469,Jane,Brown,jane.brown@yahoo.com,(789) 991-2153,26,122788,2020-06-15,Inactive,Los Angeles,TX,473.82,7
+CUST_00470,Tom,Wilson,tom.wilson@yahoo.com,555-553-4029,74,49817,2023-12-04,Active,Los Angeles,TX,1274.24,76
+CUST_00471,Tom,Anderson,tom.anderson@gmail.com,7894521989,66,83449,2020-01-25,Active,Philadelphia,PA,1214.96,9
+CUST_00472,Lisa,Taylor,lisa.taylor@gmail.com,4565726314,75,45012,2020-10-17,Pending,San Antonio,PA,1741.8,20
+CUST_00473,John,Moore,john.moore@gmail.com,555-377-6526,79,61394,2021-04-11,Inactive,San Diego,TX,,21
+CUST_00474,John,WILSON,john.wilson@gmail.com,555.113.6046,61,105167,2020-09-06,Inactive,Dallas,IL,1941.16,9
+CUST_00475,Lisa,Moore,lisa.moore@yahoo.com,555-668-6582,200,144456,2021-04-13,Inactive,Houston,NY,1762.65,50
+CUST_00476,anna,Wilson,anna.wilson@invalid,789.910.5525,21,54272,2023-07-20,Active,Philadelphia,TX,552.79,41
+CUST_00477,Lisa,Thomas,lisa.thomas@yahoo.com,7893895066,70,64082,2021-06-18,Inactive, Chicago ,TX,935.23,19
+CUST_00478,Tom,Anderson,tom.anderson@gmail.com,999.430.1277,41,134026,2022-02-07,Active,San Antonio,PA,1523.46,83
+CUST_00479,anna,Thomas,anna.thomas@yahoo.com,456.830.4850,44,34119,2022-10-05,Pending,dallas,TX,1100.71,12
+CUST_00480,Emma,Brown,emma.brown@gmail.com,123-590-1694,5,67329,2022-03-04,Pending,New York,NY,1397.28,71
+CUST_00481,sarah,Thomas,sarah.thomas@yahoo.com,999.255.9785,50,134421,2021-02-16,Suspended,Philadelphia,TX,577.91,4
+CUST_00482,Chris,Moore,chris.moore@gmail.com,(999) 853-5892,32,140917,2021-05-31,Inactive, dallas ,IL,,27
+CUST_00483,Tom,Wilson,tom.wilson@gmail.com,456.734.1819,37,120518,2023-03-09,Inactive,los angeles,TX,,95
+CUST_00484,Jane,MILLER,jane.miller@gmail.com,4561884847,55,60800,2021-07-07,Active,San Jose,IL,801.1,49
+CUST_00485,Emma,Moore,emma.moore@gmail.com,789-836-8850,46,110220,2020-03-31,Pending,Dallas,TX,1487.63,37
+CUST_00486,Anna,Wilson,anna.wilson@gmail.com,456.694.7582,27,123521,2022-10-09,Pending,Philadelphia,AZ,,43
+CUST_00487,Emma, Taylor,emma.taylor@yahoo.com,4569354372,44,90717,2023-01-19,Active, Dallas ,TX,337.76,30
+CUST_00488,Lisa,Taylor,lisa.taylor@yahoo.com,555-867-7684,75,118874,2020-01-02,Active,San Diego,AZ,818.18,27
+CUST_00489,jane,DAVIS,jane.davis@gmail.com,789.777.7602,31,106167,2023-04-22,Pending,San Jose,NY,709.48,33
+CUST_00490,Tom,Anderson,tom.anderson@yahoo.com,(123) 489-1633,71,145889,2020-07-11,Pending,San Antonio,CA,626.53,100
+CUST_00491,Emma,DAVIS,emma.davis@gmail.com,(999) 555-2132,25,89369,2020-12-22,Pending, Phoenix ,CA,228.25,20
+CUST_00492,Jane,Davis,jane.davis@gmail.com,(555) 144-5952,26,149082,2023-05-24,Active,San Diego,TX,1055.1,89
+CUST_00493,Chris,JOHNSON,chris.johnson@gmail.com,789-619-4985,29,83471,2023-09-13,Suspended,Dallas,IL,240.54,6
+CUST_00494, Mike ,Miller,mike.miller@gmail.com,7894274992,30,87688,2022-09-07,Inactive,Los Angeles,TX,,10
+CUST_00495,Mike,Anderson,mike.anderson@gmail.com,(555) 959-6926,67,50245,2023-10-07,Suspended,San Antonio,TX,263.38,79
+CUST_00496,Chris,Moore,chris.moore@yahoo.com,(555) 714-1506,43,110218,2021-11-30,Suspended,Dallas,CA,778.33,89
+CUST_00497,Chris,Thomas,chris.thomas@yahoo.com,999-357-5394,75,56380,2023-03-05,Inactive,Philadelphia,PA,828.96,34
+CUST_00498,Sarah,Thomas,sarah.thomas@gmail.com,999.695.9521,31,108026,2021-11-21,Inactive,San Diego,AZ,,59
+CUST_00499,Mike,Miller,mike.miller@invalid,1236635539,21,1000000,2022-09-29,Active,San Diego,IL,729.06,7
+CUST_00500,Jane,Miller,jane.miller@gmail.com,123-110-2825,57,123530,2021-06-30,Suspended,Houston,PA,351.97,50
+CUST_00501,Anna,SMITH,anna.smith@gmail.com,123.570.3713,33,82041,2023-04-02,Pending,San Diego,CA,893.82,20
+CUST_00502,Tom,THOMAS,tom.thomas@gmail.com,999-121-9176,63,134699,2023-12-02,Pending,Chicago,PA,555.54,92
+CUST_00503, Sarah ,Moore,sarah.moore@yahoo.com,5551209043,76,82325,2021-06-06,Suspended,Houston,AZ,345.4,75
+CUST_00504,Anna,Anderson,anna.anderson@gmail.com,456.637.5180,45,145057,2021-01-15,Inactive,San Antonio,TX,,80
+CUST_00505,Mike,Miller,mike.miller@gmail.com,123.646.3033,27,49485,2021-05-18,Active,Philadelphia,TX,1006.82,8
+CUST_00506,Mike,Smith,mike.smith@yahoo.com,(555) 351-8453,5,85394,2022-12-19,Pending,San Antonio,TX,1298.23,67
+CUST_00507,Anna,Thomas,anna.thomas@gmail.com,(555) 229-1596,44,64258,2022-02-04,Active,Philadelphia,TX,1280.52,19
+CUST_00508,Anna, Brown,anna.brown@gmail.com,5555743136,5,1000000,2020-07-26,Suspended,philadelphia,TX,,56
+CUST_00509, David ,Wilson,david.wilson@gmail.com,(789) 298-6084,31,73662,2020-02-19,Pending,San Antonio,PA,577.01,7
+CUST_00510,Anna,Johnson,anna.johnson@gmail.com,999-257-7191,76,105854,2022-02-25,Suspended, San Antonio ,NY,,25
+CUST_00511,Sarah,Moore,sarah.moore@invalid,456-267-1613,80,113160,2022-10-07,Active,Los Angeles,PA,1959.12,61
+CUST_00512,David,Thomas,david.thomas@gmail.com,999.331.1364,50,119932,2022-04-08,Active,San Jose,CA,1114.48,29
+CUST_00513,Sarah,Taylor,sarah.taylor@gmail.com,999.266.8883,21,131831,2022-06-04,Inactive, San Antonio ,PA,479.01,63
+CUST_00514,Tom,Thomas,tom.thomas@gmail.com,999-973-2357,49,147470,2023-11-29,Inactive,new york,IL,1688.72,87
+CUST_00515,lisa,Thomas,lisa.thomas@invalid,(123) 140-1003,36,93955,2020-05-26,Suspended,chicago,AZ,1554.39,66
+CUST_00516,Anna,DAVIS,anna.davis@yahoo.com,789.528.4852,47,45344,2020-03-16,Active,New York,CA,,17
+CUST_00517,Jane,Miller,jane.miller@gmail.com,9994723564,22,135247,2021-05-31,Pending,Chicago,TX,1726.52,58
+CUST_00518,Lisa,Moore,lisa.moore@yahoo.com,456-195-8977,56,61419,2021-02-18,Inactive, san antonio ,PA,1602.42,48
+CUST_00519,Jane,Taylor,jane.taylor@yahoo.com,9995451645,200,95620,2022-07-23,Active,Phoenix,CA,1757.69,60
+CUST_00520,Anna,Thomas,anna.thomas@yahoo.com,123-784-5163,78,56323,2022-03-24,Active,san antonio,AZ,1799.99,54
+CUST_00521,David,Thomas,david.thomas@yahoo.com,(456) 498-6383,33,5000,2020-07-22,Inactive,Phoenix,AZ,1812.85,27
+CUST_00522,Lisa,Johnson,lisa.johnson@gmail.com,456-973-1054,46,90596,2022-12-30,Pending,Dallas,AZ,718.96,12
+CUST_00523, Tom ,Davis,tom.davis@yahoo.com,123-249-6604,77,71056,2020-03-02,Suspended,San Antonio,TX,810.89,22
+CUST_00524,Emma,THOMAS,emma.thomas@yahoo.com,(555) 670-8501,18,27244,2023-09-23,Suspended,Philadelphia,PA,,11
+CUST_00525,Jane,Thomas,jane.thomas@gmail.com,789.351.6112,24,64348,2023-09-23,Inactive,Phoenix,AZ,829.94,10
+CUST_00526,Lisa, Johnson,lisa.johnson@gmail.com,123.471.2857,25,52827,2023-04-07,Active,houston,TX,1826.82,11
+CUST_00527,Chris,Thomas,chris.thomas@gmail.com,(123) 419-7884,55,141837,2022-09-03,Active,San Diego,CA,1185.8,72
+CUST_00528,Sarah,Johnson,sarah.johnson@yahoo.com,555.344.7683,64,49582,2022-10-05,Inactive,New York,TX,1060.28,45
+CUST_00529,Anna,Moore,anna.moore@gmail.com,999-217-7644,70,40725,2023-10-06,Inactive,Chicago,TX,1465.19,88
+CUST_00530,Sarah,Miller,sarah.miller@gmail.com,123.250.3019,150,114170,2021-07-17,Pending,Houston,TX,1741.2,85
+CUST_00531,Emma,Miller,emma.miller@yahoo.com,555.213.5705,67,127982,2022-12-20,Active,San Jose,TX,1379.98,36
+CUST_00532,Tom, Miller,tom.miller@gmail.com,456.212.5385,35,92696,2021-09-27,Pending,new york,CA,572.8,32
+CUST_00533,Chris,Thomas,chris.thomas@invalid,123-435-7876,64,125160,2022-05-20,Suspended,Phoenix,CA,720.21,49
+CUST_00534,Sarah,Davis,sarah.davis@gmail.com,(555) 675-1269,44,121811,2020-05-28,Active,Dallas,TX,202.74,33
+CUST_00535,Anna,Moore,anna.moore@gmail.com,(456) 726-2946,35,111153,2023-11-26,Active,San Diego,TX,,13
+CUST_00536,Anna,Davis,anna.davis@gmail.com,456-742-1349,20,50671,2021-03-04,Inactive,Chicago,CA,277.68,16
+CUST_00537,Sarah,Wilson,sarah.wilson@gmail.com,4566453868,66,34596,2020-11-10,Pending,Los Angeles,IL,1045.32,72
+CUST_00538,Chris,Thomas,chris.thomas@yahoo.com,999.276.8292,77,126162,2020-02-11,Inactive,San Antonio,CA,,75
+CUST_00539,Mike,Smith,mike.smith@yahoo.com,999-154-9486,21,104547,2023-01-18,Active,Houston,TX,526.72,43
+CUST_00540,Mike,Smith,mike.smith@yahoo.com,9991826273,35,500000,2020-03-02,Active,New York,NY,,93
+CUST_00541,Lisa,Brown,lisa.brown@yahoo.com,123.158.1423,61,144833,2022-10-29,Suspended,Phoenix,IL,1157.01,62
+CUST_00542,Chris,Johnson,chris.johnson@gmail.com,123-578-1430,58,72378,2022-11-22,Suspended,Dallas,CA,307.05,35
+CUST_00543,Lisa,Wilson,lisa.wilson@gmail.com,123.312.4938,19,127054,2023-07-27,Inactive,chicago,NY,,51
+CUST_00544,Chris,Johnson,chris.johnson@yahoo.com,(456) 660-8760,33,33589,2020-10-16,Pending,San Jose,TX,1342.3,94
+CUST_00545,david,Brown,david.brown@yahoo.com,5559941668,80,45535,2021-12-27,Suspended, Phoenix ,TX,1445.04,48
+CUST_00546,Mike,Miller,mike.miller@gmail.com,(789) 983-5761,53,92993,2020-12-31,Suspended,Philadelphia,CA,132.44,89
+CUST_00547,David,Smith,david.smith@invalid,789-363-6162,23,103624,2022-07-20,Pending,Los Angeles,TX,191.92,87
+CUST_00548,Sarah,Brown,sarah.brown@yahoo.com,1235729203,64,141893,2020-01-18,Active, Chicago ,NY,675.83,54
+CUST_00549,Mike,THOMAS,mike.thomas@gmail.com,789.103.4501,21,104127,2020-05-25,Active,Dallas,CA,459.43,51
+CUST_00550,Lisa,Smith,lisa.smith@yahoo.com,999.345.8393,23,29781,2023-11-25,Suspended,Chicago,NY,1264.65,100
+CUST_00551,Sarah,Taylor,sarah.taylor@gmail.com,456.995.1907,74,132239,2020-02-25,Pending,Chicago,TX,359.26,28
+CUST_00552,lisa,Wilson,lisa.wilson@yahoo.com,(555) 534-3336,75,129046,2022-12-16,Pending,Houston,TX,1061.93,53
+CUST_00553,Sarah,Wilson,sarah.wilson@gmail.com,(123) 619-7033,46,1000000,2020-12-05,Pending,San Jose,TX,1149.7,49
+CUST_00554,David,Anderson,david.anderson@yahoo.com,123-248-9769,54,27788,2022-10-21,Suspended,San Jose,TX,,25
+CUST_00555,Sarah,Miller,sarah.miller@invalid,1237552928,80,109139,2022-06-24,Inactive,Houston,TX,448.59,86
+CUST_00556,Lisa,Davis,lisa.davis@yahoo.com,789.779.2930,69,44299,2022-04-11,Suspended,Dallas,AZ,1105.72,74
+CUST_00557,Tom,Johnson,tom.johnson@yahoo.com,456.421.6518,67,95971,2020-11-01,Inactive,San Jose,TX,1799.0,4
+CUST_00558,Mike,TAYLOR,mike.taylor@yahoo.com,555-219-7343,39,132914,2020-02-22,Active,Los Angeles,AZ,1263.43,10
+CUST_00559,Lisa,Smith,lisa.smith@yahoo.com,5553761275,56,46274,2020-04-29,Pending,Chicago,TX,1196.66,45
+CUST_00560,Jane,Taylor,jane.taylor@invalid,999.123.7509,30,84489,2021-04-20,Active,Chicago,IL,1832.48,52
+CUST_00561,Chris,Johnson,chris.johnson@gmail.com,456.868.7912,49,70215,2022-02-09,Active,Houston,TX,536.55,7
+CUST_00562,Mike,Thomas,mike.thomas@invalid,(123) 541-5512,52,43582,2022-08-06,Pending,Dallas,NY,1281.73,63
+CUST_00563,Anna,Anderson,anna.anderson@invalid,456-448-9049,52,40071,2022-11-21,Inactive,Dallas,NY,1149.13,58
+CUST_00564,John,Taylor,john.taylor@yahoo.com,(555) 589-2000,18,43825,2020-06-21,Inactive,Chicago,IL,792.78,85
+CUST_00565,Lisa,Anderson,lisa.anderson@gmail.com,456.567.1646,57,62854,2023-01-24,Active,Chicago,PA,1903.29,89
+CUST_00566,Chris,Moore,chris.moore@gmail.com,9993906681,50,131202,2020-03-14,Pending,Los Angeles,TX,787.09,26
+CUST_00567,Mike,Smith,mike.smith@yahoo.com,5559778151,27,41972,2021-10-17,Inactive, San Diego ,TX,1053.53,52
+CUST_00568, sarah ,Wilson,sarah.wilson@yahoo.com,555-802-8481,52,122841,2021-12-02,Suspended,Phoenix,TX,794.19,18
+CUST_00569,Anna,Miller,anna.miller@yahoo.com,555-987-4187,61,67975,2021-01-17,Suspended,San Diego,TX,1155.13,52
+CUST_00570,Sarah,Davis,sarah.davis@yahoo.com,1236315306,53,104938,2021-10-18,Pending,Phoenix,TX,1250.13,87
+CUST_00571,Anna,Johnson,anna.johnson@gmail.com,789.188.6967,36,67830,2021-11-02,Inactive,Los Angeles,CA,,54
+CUST_00572,Chris, Johnson,chris.johnson@invalid,789-813-2787,57,40992,2023-11-26,Pending,dallas,IL,23.39,47
+CUST_00573,Chris,Anderson,chris.anderson@gmail.com,555.525.8369,28,117550,2021-11-22,Suspended,Phoenix,CA,733.78,41
+CUST_00574,Anna,Miller,anna.miller@invalid,555.140.1702,55,55420,2020-05-28,Inactive,Chicago,CA,1738.29,9
+CUST_00575,Lisa,Wilson,lisa.wilson@yahoo.com,789-971-9516,72,147768,2021-03-30,Pending,San Diego,AZ,307.91,1
+CUST_00576,Chris,Brown,chris.brown@yahoo.com,999-854-3190,59,64959,2023-07-02,Active, New York ,CA,836.58,63
+CUST_00577,Chris,Taylor,chris.taylor@yahoo.com,456.575.6256,42,99870,2020-03-07,Suspended,Chicago,CA,1318.78,31
+CUST_00578,Tom,Smith,tom.smith@gmail.com,456.678.4049,27,99301,2023-06-13,Inactive,San Antonio,TX,1317.92,75
+CUST_00579,David,Davis,david.davis@yahoo.com,(999) 976-9850,59,122473,2022-10-06,Inactive,Chicago,NY,529.47,33
+CUST_00580,Emma,Thomas,emma.thomas@gmail.com,1234395038,76,39747,2021-03-14,Pending,Philadelphia,TX,306.99,87
+CUST_00581,Jane,Brown,jane.brown@gmail.com,123.631.9248,62,117399,2022-02-01,Suspended,Chicago,NY,1845.87,99
+CUST_00582,John,Miller,john.miller@yahoo.com,(789) 212-8540,59,127133,2023-04-16,Suspended,new york,AZ,1472.5,25
+CUST_00583,Sarah,Smith,sarah.smith@yahoo.com,123-149-3472,61,500000,2022-04-19,Pending,chicago,CA,771.34,14
+CUST_00584,Mike,Smith,mike.smith@yahoo.com,5556854153,31,111551,2021-01-01,Pending,Phoenix,AZ,189.3,3
+CUST_00585, Tom ,Anderson,tom.anderson@invalid,456.117.4172,71,131229,2023-09-03,Active,Houston,PA,1392.18,64
+CUST_00586,Jane,Davis,jane.davis@gmail.com,789-880-3135,48,500000,2020-09-09,Suspended,San Jose,CA,341.04,80
+CUST_00587,Jane,Moore,jane.moore@gmail.com,(123) 450-6233,25,72603,2022-04-10,Pending,San Jose,PA,1575.81,80
+CUST_00588,Emma,Thomas,emma.thomas@gmail.com,(555) 961-2743,67,127708,2022-11-19,Active,New York,TX,209.75,52
+CUST_00589,Jane,Taylor,jane.taylor@yahoo.com,5554501996,50,84370,2020-07-27,Inactive,New York,CA,,37
+CUST_00590,Chris,Miller,chris.miller@gmail.com,5555577978,49,40793,2023-02-23,Active,Philadelphia,TX,321.6,57
+CUST_00591,Tom,Moore,tom.moore@gmail.com,555.512.7796,200,123971,2020-05-18,Active,New York,CA,512.11,3
+CUST_00592,David,Thomas,david.thomas@yahoo.com,(789) 687-1049,56,130884,2023-04-22,Suspended,San Jose,TX,1063.08,64
+CUST_00593,Jane,Davis,jane.davis@yahoo.com,1233931804,35,133909,2020-12-22,Suspended,San Antonio,TX,1194.29,75
+CUST_00594,Jane,THOMAS,jane.thomas@gmail.com,456-578-1835,44,45756,2023-09-15,Active,phoenix,TX,,11
+CUST_00595,Anna,Thomas,anna.thomas@yahoo.com,(123) 555-1367,72,96646,2022-03-28,Suspended,Phoenix,CA,1761.55,46
+CUST_00596,Sarah,Thomas,sarah.thomas@gmail.com,123-147-7861,42,64263,2023-05-04,Pending,Los Angeles,IL,1004.37,76
+CUST_00597,Mike,Thomas,mike.thomas@gmail.com,555.702.6810,23,80511,2020-08-18,Suspended,san antonio,TX,575.39,89
+CUST_00598,Sarah,Wilson,sarah.wilson@yahoo.com,5558185637,33,147625,2023-06-06,Pending,New York,IL,33.11,72
+CUST_00599,Tom,Brown,tom.brown@gmail.com,999-614-4637,74,58886,2022-03-20,Pending,Chicago,CA,145.62,3
+CUST_00600,Jane,Johnson,jane.johnson@yahoo.com,789-940-4351,44,69791,2021-01-17,Inactive,New York,TX,671.58,90
+CUST_00601,Mike,Wilson,mike.wilson@gmail.com,7893801462,22,122037,2022-09-18,Active,Dallas,TX,1097.78,6
+CUST_00602,John,Moore,john.moore@gmail.com,123.737.4026,57,105924,2021-05-24,Pending,San Jose,TX,631.58,12
+CUST_00603, Anna ,Miller,anna.miller@gmail.com,456.813.7250,48,114491,2020-05-06,Inactive,San Jose,TX,635.63,53
+CUST_00604,Mike,Johnson,mike.johnson@gmail.com,999-926-3226,76,74157,2023-10-29,Suspended,Dallas,TX,1580.46,34
+CUST_00605,David,Wilson,david.wilson@gmail.com,7899241473,72,58828,2022-04-08,Pending,Chicago,TX,585.49,14
+CUST_00606,Lisa,Thomas,lisa.thomas@gmail.com,4565388837,26,105382,2020-05-17,Pending,New York,CA,1822.33,65
+CUST_00607,David, Anderson,david.anderson@gmail.com,123-505-8883,29,140668,2022-01-03,Pending,New York,IL,,53
+CUST_00608,mike,Moore,mike.moore@gmail.com,(555) 450-4735,40,1000000,2020-12-11,Suspended,Phoenix,IL,1119.41,97
+CUST_00609,Lisa, Miller,lisa.miller@gmail.com,(789) 768-7019,78,147507,2023-12-31,Pending,Phoenix,CA,1245.37,11
+CUST_00610,Tom,Davis,tom.davis@gmail.com,(999) 651-7217,21,33817,2023-05-27,Pending,Houston,TX,1221.67,30
+CUST_00611,Chris,Anderson,chris.anderson@gmail.com,123.832.7493,22,70264,2020-12-18,Suspended,Phoenix,PA,860.72,69
+CUST_00612,Chris,Wilson,chris.wilson@gmail.com,7896245185,54,101850,2022-12-16,Inactive,san jose,PA,1409.12,62
+CUST_00613,Emma,Brown,emma.brown@invalid,999-827-5139,28,56230,2023-03-09,Active,Chicago,TX,789.88,21
+CUST_00614,Anna, Davis,anna.davis@yahoo.com,(456) 249-2984,62,85464,2022-06-07,Pending, los angeles ,CA,1120.64,87
+CUST_00615,tom,JOHNSON,tom.johnson@gmail.com,(456) 666-5740,35,123444,2023-02-01,Inactive,Houston,CA,1355.8,13
+CUST_00616,Sarah, Smith,sarah.smith@gmail.com,7898051754,75,80323,2021-07-04,Active,los angeles,PA,182.22,12
+CUST_00617,sarah,Miller,sarah.miller@yahoo.com,7894764189,30,43458,2022-02-12,Pending,Chicago,NY,1084.47,72
+CUST_00618,Anna,Johnson,anna.johnson@gmail.com,7896838446,56,27919,2020-06-27,Inactive,San Antonio,PA,1927.15,67
+CUST_00619,mike, Moore,mike.moore@yahoo.com,(789) 242-2193,47,36824,2023-10-06,Inactive,San Diego,CA,1349.22,83
+CUST_00620,David,Johnson,david.johnson@gmail.com,555.560.1874,26,97555,2021-12-10,Suspended,Philadelphia,PA,1016.54,1
+CUST_00621,Mike,Brown,mike.brown@yahoo.com,123-324-6606,26,138313,2022-08-20,Inactive,Dallas,PA,,36
+CUST_00622,Jane,Taylor,jane.taylor@yahoo.com,(456) 192-3232,21,148597,2023-02-25,Active,Los Angeles,NY,1689.24,14
+CUST_00623,Jane,WILSON,jane.wilson@yahoo.com,555.133.8575,18,500000,2023-12-05,Active,Dallas,PA,461.74,83
+CUST_00624,Anna,Anderson,anna.anderson@gmail.com,789-884-2893,5,131291,2023-01-07,Active,Houston,CA,671.26,20
+CUST_00625,Chris,Thomas,chris.thomas@yahoo.com,(789) 548-5194,35,500000,2020-03-20,Pending,San Diego,AZ,,70
+CUST_00626,Chris,Miller,chris.miller@yahoo.com,7891548299,63,72199,2022-07-08,Suspended,philadelphia,IL,373.72,2
+CUST_00627, Chris ,Wilson,chris.wilson@gmail.com,9998979315,61,68061,2021-08-27,Pending,san antonio,IL,818.18,80
+CUST_00628,Sarah,Wilson,sarah.wilson@gmail.com,(123) 782-3215,44,116702,2020-04-13,Active,Philadelphia,IL,,45
+CUST_00629,Anna,Miller,anna.miller@yahoo.com,123.964.3115,55,109399,2020-02-27,Inactive,los angeles,AZ,,80
+CUST_00630,David,Smith,david.smith@gmail.com,(456) 538-1747,200,105658,2023-06-16,Inactive,Dallas,TX,,88
+CUST_00631,Mike,SMITH,mike.smith@gmail.com,1236597338,20,142366,2021-05-09,Pending,Dallas,TX,1144.85,37
+CUST_00632,lisa,Davis,lisa.davis@gmail.com,123-748-6700,150,142813,2022-03-12,Inactive,Phoenix,IL,1259.2,85
+CUST_00633,Mike,Davis,mike.davis@gmail.com,1231059863,33,141182,2020-08-26,Active,San Antonio,IL,22.93,87
+CUST_00634,Emma,Wilson,emma.wilson@yahoo.com,456-707-7938,5,130395,2021-01-01,Active,Chicago,IL,929.27,60
+CUST_00635,anna,Brown,anna.brown@yahoo.com,(999) 106-3964,76,41317,2022-12-05,Pending,New York,TX,233.01,56
+CUST_00636,Lisa,WILSON,lisa.wilson@yahoo.com,555-490-9466,66,104150,2021-03-18,Active,Dallas,IL,1167.95,23
+CUST_00637,David,Wilson,david.wilson@gmail.com,555-155-3910,71,5000,2023-09-18,Inactive,New York,CA,,84
+CUST_00638,Mike,ANDERSON,mike.anderson@yahoo.com,(123) 789-3073,63,53707,2020-09-25,Inactive,San Diego,IL,215.44,48
+CUST_00639,John,Brown,john.brown@gmail.com,(123) 452-4781,32,34311,2023-11-01,Active,Chicago,CA,762.46,78
+CUST_00640,Mike,Thomas,mike.thomas@yahoo.com,999-168-7342,44,90678,2020-04-24,Suspended,San Antonio,TX,1815.75,59
+CUST_00641,John,Moore,john.moore@gmail.com,1235518069,200,125952,2021-01-21,Inactive, San Jose ,CA,912.69,17
+CUST_00642,Tom,Brown,tom.brown@yahoo.com,(456) 948-6628,49,1000000,2023-11-08,Active,San Jose,TX,1815.81,92
+CUST_00643,Anna,Thomas,anna.thomas@gmail.com,789-474-1943,30,5000,2023-11-13,Inactive,los angeles,TX,65.7,93
+CUST_00644,Emma,Moore,emma.moore@gmail.com,789.345.8153,77,126832,2022-10-26,Pending,Los Angeles,IL,693.08,48
+CUST_00645,John,Thomas,john.thomas@yahoo.com,4566897247,46,136863,2021-05-05,Active,San Diego,TX,1437.63,16
+CUST_00646,Tom,Johnson,tom.johnson@gmail.com,(456) 911-3579,44,125967,2022-07-26,Inactive,Los Angeles,NY,1294.78,94
+CUST_00647,Chris,Wilson,chris.wilson@gmail.com,9998563887,50,59047,2021-06-30,Pending,New York,IL,,87
+CUST_00648,Chris,Moore,chris.moore@gmail.com,(999) 540-7558,76,133450,2020-04-05,Suspended,Chicago,CA,1872.74,42
+CUST_00649,john,Smith,john.smith@gmail.com,789-222-7970,51,115980,2020-06-26,Pending,Chicago,TX,698.27,91
+CUST_00650,Tom,BROWN,tom.brown@gmail.com,456-836-7119,27,126037,2022-06-25,Inactive,San Jose,CA,581.79,61
+CUST_00651,Sarah,Wilson,sarah.wilson@invalid,5552917374,25,130765,2020-11-20,Inactive, san antonio ,CA,208.56,83
+CUST_00652,Chris,Davis,chris.davis@yahoo.com,5558987595,46,42173,2020-10-24,Inactive,Houston,IL,,92
+CUST_00653,Jane,Thomas,jane.thomas@gmail.com,456-514-1936,21,5000,2023-07-25,Pending,houston,TX,799.67,63
+CUST_00654,Sarah,Smith,sarah.smith@yahoo.com,(789) 252-1222,36,55046,2023-03-15,Pending,Philadelphia,AZ,99.62,41
+CUST_00655,Jane,Brown,jane.brown@gmail.com,9996832496,31,84095,2023-01-25,Pending,Philadelphia,NY,46.14,22
+CUST_00656,mike,Smith,mike.smith@gmail.com,1235739715,54,500000,2021-03-17,Active,Chicago,TX,1207.86,99
+CUST_00657,Emma,MOORE,emma.moore@invalid,999.530.6773,56,125920,2022-02-21,Suspended,Phoenix,CA,371.56,16
+CUST_00658, Mike ,Johnson,mike.johnson@gmail.com,(789) 676-8472,79,76857,2021-09-19,Suspended,Dallas,TX,901.17,58
+CUST_00659,Jane,Moore,jane.moore@yahoo.com,(123) 123-7663,42,1000000,2022-05-23,Inactive,San Diego,CA,283.33,90
+CUST_00660,lisa, Davis,lisa.davis@gmail.com,999.536.5910,76,136403,2023-02-20,Suspended,San Jose,TX,503.55,43
+CUST_00661,David,Davis,david.davis@gmail.com,999.953.5234,74,78728,2021-06-24,Active,Dallas,TX,456.81,76
+CUST_00662,Tom,Brown,tom.brown@gmail.com,999-202-5082,29,87749,2020-03-29,Pending,Philadelphia,PA,1264.29,53
+CUST_00663, Emma , Thomas,emma.thomas@gmail.com,789-251-4660,73,42873,2020-08-23,Inactive,San Diego,PA,1193.86,25
+CUST_00664,Lisa,Taylor,lisa.taylor@yahoo.com,1238126361,23,147493,2023-01-15,Suspended,New York,IL,820.72,86
+CUST_00665,John,Davis,john.davis@gmail.com,(456) 779-8385,68,1000000,2021-10-04,Inactive,San Jose,CA,,20
+CUST_00666,Jane,Taylor,jane.taylor@gmail.com,789-333-9791,57,500000,2022-03-11,Suspended,Chicago,IL,275.62,20
+CUST_00667,Sarah,Smith,sarah.smith@yahoo.com,(456) 122-4595,45,72867,2020-01-22,Pending,San Antonio,CA,1629.52,32
+CUST_00668,John,Brown,john.brown@gmail.com,999.274.4850,78,31116,2020-09-17,Suspended,san diego,CA,1596.35,99
+CUST_00669,Emma,Brown,emma.brown@gmail.com,5559518803,34,106565,2023-05-15,Inactive,phoenix,TX,1746.07,57
+CUST_00670,Emma,Brown,emma.brown@yahoo.com,999-494-7458,49,49592,2022-07-13,Active,chicago,NY,921.2,66
+CUST_00671,Lisa,Anderson,lisa.anderson@yahoo.com,555-983-8941,55,1000000,2021-05-30,Suspended,Chicago,CA,353.6,19
+CUST_00672,Tom, Miller,tom.miller@gmail.com,123-485-6251,65,115748,2023-01-10,Inactive,Houston,CA,,3
+CUST_00673,Chris,Taylor,chris.taylor@gmail.com,789-884-9314,46,106777,2023-12-08,Inactive,San Antonio,IL,,77
+CUST_00674,Tom,Davis,tom.davis@yahoo.com,999-528-2319,26,73350,2023-03-18,Inactive,Chicago,PA,,99
+CUST_00675,John,Brown,john.brown@gmail.com,4561438069,60,92419,2020-02-25,Suspended,Los Angeles,TX,1522.96,6
+CUST_00676,Anna,Anderson,anna.anderson@gmail.com,456.481.5850,73,79677,2023-01-02,Pending, San Antonio ,CA,660.17,72
+CUST_00677,Tom,Miller,tom.miller@gmail.com,999.591.5006,79,77655,2021-07-31,Pending,Phoenix,TX,443.25,85
+CUST_00678,Anna,Brown,anna.brown@gmail.com,123.644.4554,78,140340,2023-03-09,Active,Los Angeles,IL,818.44,79
+CUST_00679,Anna,Miller,anna.miller@yahoo.com,(123) 158-4593,40,1000000,2020-11-26,Suspended,Houston,CA,1267.3,42
+CUST_00680,David, Davis,david.davis@yahoo.com,5555079748,47,147363,2021-05-14,Inactive,Chicago,TX,,65
+CUST_00681,Tom,Davis,tom.davis@gmail.com,999.565.2716,5,34749,2021-01-23,Inactive,Dallas,TX,313.19,87
+CUST_00682,Chris,Davis,chris.davis@gmail.com,123-604-7318,75,1000000,2020-07-24,Suspended,Houston,CA,1913.48,15
+CUST_00683,Chris,Johnson,chris.johnson@yahoo.com,7898187402,79,94974,2022-02-26,Inactive,San Jose,CA,901.95,40
+CUST_00684,Anna,Thomas,anna.thomas@yahoo.com,1235555392,57,102367,2021-09-15,Active,San Diego,NY,1110.96,77
+CUST_00685,Emma,Miller,emma.miller@yahoo.com,456.215.7733,51,500000,2021-02-26,Pending,San Jose,TX,1172.72,4
+CUST_00686,Lisa,Smith,lisa.smith@gmail.com,4561407499,56,5000,2023-01-19,Inactive,Phoenix,TX,450.66,72
+CUST_00687, Anna ,Anderson,anna.anderson@gmail.com,(456) 733-8761,79,73569,2020-01-27,Active,New York,TX,812.56,76
+CUST_00688,Anna,WILSON,anna.wilson@gmail.com,9996831848,76,40507,2022-12-23,Pending,Chicago,NY,1265.74,27
+CUST_00689,Jane,Smith,jane.smith@gmail.com,123-380-6618,20,128205,2020-09-15,Active,Philadelphia,TX,,18
+CUST_00690,Tom, Brown,tom.brown@yahoo.com,789.414.8870,38,54207,2023-05-15,Pending,Philadelphia,TX,631.95,63
+CUST_00691,Mike,Miller,mike.miller@gmail.com,1231932113,67,108008,2022-08-06,Pending,Chicago,TX,1238.8,72
+CUST_00692,Lisa,Anderson,lisa.anderson@gmail.com,7894772376,39,1000000,2023-07-28,Active,Philadelphia,CA,545.8,30
+CUST_00693,Sarah,Wilson,sarah.wilson@gmail.com,555.819.8527,56,68695,2021-04-18,Pending,Dallas,CA,848.36,9
+CUST_00694,Sarah, Anderson,sarah.anderson@gmail.com,(456) 931-2119,53,66414,2023-11-02,Active,Philadelphia,AZ,1665.15,28
+CUST_00695,Sarah,Taylor,sarah.taylor@gmail.com,5558528851,77,131046,2022-03-25,Active,Phoenix,IL,1155.43,49
+CUST_00696,Tom,Miller,tom.miller@yahoo.com,123-709-6575,61,46459,2020-07-13,Active,Dallas,AZ,,22
+CUST_00697,Tom,Miller,tom.miller@yahoo.com,9996747077,63,123858,2022-11-30,Inactive,Dallas,NY,152.2,96
+CUST_00698,Chris,Thomas,chris.thomas@gmail.com,456.114.6376,34,5000,2021-06-28,Inactive,San Antonio,TX,,67
+CUST_00699,Mike,Davis,mike.davis@gmail.com,123.954.9827,74,121716,2023-06-18,Inactive,Los Angeles,PA,1124.95,55
+CUST_00700,Anna,Davis,anna.davis@gmail.com,1232993073,65,100454,2021-05-08,Active,New York,IL,,61
+CUST_00701, Lisa ,Wilson,lisa.wilson@yahoo.com,123-834-3015,63,77489,2020-05-22,Suspended,Dallas,TX,885.34,28
+CUST_00702,Chris,Thomas,chris.thomas@gmail.com,7897485782,23,137823,2022-03-01,Pending,Houston,PA,1755.67,13
+CUST_00703,Sarah,Moore,sarah.moore@gmail.com,4568847196,76,48211,2022-12-03,Active,San Antonio,TX,1787.67,80
+CUST_00704,Emma,Wilson,emma.wilson@gmail.com,7891013217,5,88780,2022-05-09,Inactive,San Antonio,CA,525.73,35
+CUST_00705,Chris, Thomas,chris.thomas@yahoo.com,555.683.3845,50,60339,2021-10-17,Suspended,Los Angeles,PA,1786.59,18
+CUST_00706,Jane,Taylor,jane.taylor@gmail.com,123-875-7287,31,124615,2022-12-06,Active,Dallas,CA,724.7,66
+CUST_00707,Sarah,Davis,sarah.davis@yahoo.com,999-457-4162,40,46870,2020-03-21,Suspended,Los Angeles,TX,,79
+CUST_00708,Lisa,TAYLOR,lisa.taylor@yahoo.com,(999) 958-5458,48,65575,2020-07-21,Inactive,Chicago,CA,1463.08,72
+CUST_00709,Tom,Miller,tom.miller@gmail.com,789-289-5745,24,106508,2020-04-15,Active,Houston,CA,438.07,61
+CUST_00710,Chris,Moore,chris.moore@gmail.com,789-500-7784,52,26307,2021-11-25,Pending, San Diego ,CA,281.76,73
+CUST_00711,John,Taylor,john.taylor@gmail.com,1238619344,59,43682,2021-01-15,Active,New York,AZ,1586.77,64
+CUST_00712,Mike, Anderson,mike.anderson@gmail.com,123-877-5940,43,69868,2021-01-05,Inactive,San Jose,NY,617.13,58
+CUST_00713,Emma,BROWN,emma.brown@gmail.com,(456) 233-8705,200,149258,2021-12-07,Suspended,San Jose,NY,221.54,86
+CUST_00714,Chris,THOMAS,chris.thomas@yahoo.com,7899109416,47,32705,2020-01-20,Suspended, Phoenix ,TX,1318.12,12
+CUST_00715,jane,Thomas,jane.thomas@gmail.com,555.502.3094,150,91828,2022-06-14,Suspended, San Diego ,IL,1152.43,68
+CUST_00716, David ,Moore,david.moore@yahoo.com,555-987-1238,19,93025,2022-02-10,Inactive,Phoenix,CA,231.35,1
+CUST_00717,Chris,Thomas,chris.thomas@gmail.com,999-493-3494,65,113244,2022-12-25,Pending, san jose ,PA,1978.09,11
+CUST_00718,Chris,Moore,chris.moore@yahoo.com,999-800-4590,5,1000000,2020-06-23,Suspended,Los Angeles,PA,666.15,19
+CUST_00719,David,Brown,david.brown@gmail.com,7895576269,56,62143,2023-04-06,Suspended,San Antonio,NY,1105.57,35
+CUST_00720,John,Brown,john.brown@yahoo.com,999.500.3305,22,115285,2021-10-27,Inactive,San Diego,TX,327.94,29
+CUST_00721,emma,SMITH,emma.smith@gmail.com,789.171.3894,36,141949,2022-03-25,Active,new york,TX,858.68,4
+CUST_00722,Mike,Anderson,mike.anderson@yahoo.com,456.191.3049,65,123491,2021-10-27,Inactive,Phoenix,AZ,1788.73,57
+CUST_00723,Sarah,Miller,sarah.miller@gmail.com,(456) 849-6064,44,46388,2021-10-12,Active,Chicago,IL,1973.86,66
+CUST_00724,Tom,Moore,tom.moore@gmail.com,123.552.9366,71,45924,2023-03-30,Active, Houston ,CA,613.58,73
+CUST_00725,David,Brown,david.brown@yahoo.com,555.188.6509,66,71781,2021-06-09,Inactive,New York,AZ,1289.21,12
+CUST_00726,Jane,Thomas,jane.thomas@gmail.com,555-330-6527,51,101898,2022-05-09,Active,San Antonio,NY,205.7,13
+CUST_00727,Mike,Johnson,mike.johnson@yahoo.com,4567259648,78,43648,2020-07-24,Pending,New York,NY,,26
+CUST_00728,Emma, Anderson,emma.anderson@gmail.com,(123) 314-5879,47,97715,2022-04-29,Active,Los Angeles,IL,1880.41,88
+CUST_00729,John,Anderson,john.anderson@gmail.com,789-178-4375,19,46819,2023-02-17,Pending,Dallas,CA,121.91,30
+CUST_00730,Tom,Johnson,tom.johnson@yahoo.com,4566484243,32,140121,2022-05-08,Active,New York,NY,1435.47,47
+CUST_00731,emma,Anderson,emma.anderson@yahoo.com,4565001623,66,71191,2022-07-22,Suspended, San Antonio ,CA,719.45,56
+CUST_00732,Jane,Davis,jane.davis@yahoo.com,1234053378,48,5000,2021-02-08,Suspended,New York,TX,1786.65,21
+CUST_00733,Sarah,Johnson,sarah.johnson@gmail.com,(456) 124-1167,32,38229,2022-01-24,Active,San Antonio,TX,,90
+CUST_00734,Sarah,Davis,sarah.davis@gmail.com,7893653547,69,80638,2020-09-07,Suspended,San Diego,CA,1543.15,58
+CUST_00735,Lisa,Johnson,lisa.johnson@gmail.com,(456) 485-1747,68,124402,2022-01-27,Suspended,San Antonio,NY,888.67,4
+CUST_00736,John,Anderson,john.anderson@yahoo.com,(456) 592-2002,74,132654,2020-05-29,Suspended,Dallas,IL,332.38,23
+CUST_00737,Tom,Anderson,tom.anderson@yahoo.com,555-356-3229,78,134423,2023-12-17,Inactive,Philadelphia,TX,1386.34,46
+CUST_00738,Sarah,Anderson,sarah.anderson@yahoo.com,789.280.1942,34,128311,2020-02-22,Inactive,San Diego,CA,,42
+CUST_00739,Emma,Moore,emma.moore@gmail.com,123-612-8591,22,138069,2020-02-26,Inactive,Dallas,CA,810.86,17
+CUST_00740,sarah,Brown,sarah.brown@yahoo.com,5556032746,67,105843,2023-01-17,Suspended,Los Angeles,TX,473.05,48
+CUST_00741,Jane,MOORE,jane.moore@yahoo.com,(555) 682-1227,52,34365,2022-07-11,Pending,New York,CA,396.1,100
+CUST_00742,Lisa,Smith,lisa.smith@gmail.com,7892635565,33,5000,2023-01-10,Inactive,san jose,PA,320.98,45
+CUST_00743,Anna,Anderson,anna.anderson@yahoo.com,555-981-2425,21,126240,2023-02-27,Pending,New York,TX,1295.3,22
+CUST_00744,Mike,Anderson,mike.anderson@yahoo.com,(789) 123-8416,49,500000,2020-02-14,Inactive,New York,CA,1686.39,22
+CUST_00745,Mike,Brown,mike.brown@gmail.com,123.698.4689,5,25859,2020-12-09,Inactive,philadelphia,PA,,43
+CUST_00746,John,Johnson,john.johnson@yahoo.com,123-694-9262,33,46260,2021-08-26,Inactive,San Antonio,IL,1079.43,45
+CUST_00747,Chris,Davis,chris.davis@yahoo.com,123-869-7435,49,34863,2022-09-12,Pending,Phoenix,CA,,50
+CUST_00748,David,Johnson,david.johnson@gmail.com,5554814803,45,60922,2022-08-27,Suspended,Chicago,TX,214.74,19
+CUST_00749,Anna, Moore,anna.moore@yahoo.com,(999) 375-6167,62,68498,2021-12-27,Active,philadelphia,IL,1283.3,39
+CUST_00750,John,Anderson,john.anderson@yahoo.com,456-980-3151,34,113526,2021-10-20,Active,San Jose,NY,1090.04,64
+CUST_00751,Emma,Moore,emma.moore@gmail.com,9992696575,60,81792,2021-07-17,Active,Dallas,PA,1065.51,95
+CUST_00752,Lisa,Moore,lisa.moore@gmail.com,(555) 228-3757,43,45843,2020-12-19,Inactive,philadelphia,IL,1593.67,82
+CUST_00753,David,Taylor,david.taylor@gmail.com,(456) 911-3662,56,79723,2022-03-18,Inactive,san diego,NY,1663.78,44
+CUST_00754,John,Thomas,john.thomas@gmail.com,456-151-2382,29,64043,2022-08-07,Active,Los Angeles,NY,845.55,3
+CUST_00755,Mike,TAYLOR,mike.taylor@yahoo.com,123.500.5610,54,85690,2020-12-21,Inactive,Phoenix,TX,1716.21,87
+CUST_00756,Sarah,Moore,sarah.moore@yahoo.com,(789) 240-4277,30,85807,2022-08-20,Pending,Dallas,NY,1388.17,33
+CUST_00757,Mike,Thomas,mike.thomas@yahoo.com,123-120-2417,29,47111,2021-08-10,Inactive,San Diego,CA,344.75,35
+CUST_00758,Lisa,Davis,lisa.davis@invalid,4564873241,20,86290,2020-12-20,Inactive,Dallas,CA,1958.71,1
+CUST_00759,Sarah,Anderson,sarah.anderson@gmail.com,7896954610,34,31541,2021-09-16,Pending,San Antonio,CA,1813.99,34
+CUST_00760,Emma,Smith,emma.smith@yahoo.com,5558734831,69,5000,2022-01-23,Suspended,Los Angeles,CA,1877.38,20
+CUST_00761,Mike,THOMAS,mike.thomas@yahoo.com,(999) 494-1334,20,57503,2022-06-28,Suspended,San Antonio,NY,1292.78,86
+CUST_00762,Tom,Taylor,tom.taylor@gmail.com,5557291264,50,53577,2022-10-25,Suspended, San Jose ,CA,1149.56,27
+CUST_00763,Mike,Anderson,mike.anderson@yahoo.com,789-968-1358,62,59388,2023-08-19,Pending,Los Angeles,CA,787.6,24
+CUST_00764,Jane,Moore,jane.moore@gmail.com,999-885-9338,53,117068,2021-10-23,Inactive,Houston,NY,1646.49,40
+CUST_00765,Mike,Moore,mike.moore@yahoo.com,456.803.1315,57,500000,2020-02-24,Pending,San Jose,TX,13.96,34
+CUST_00766,Chris,Brown,chris.brown@yahoo.com,(456) 931-1889,50,25731,2022-03-02,Pending,Phoenix,PA,,68
+CUST_00767,John,Johnson,john.johnson@gmail.com,(999) 195-6383,80,107681,2021-09-03,Active,San Diego,TX,72.58,82
+CUST_00768,Jane,Taylor,jane.taylor@yahoo.com,7897761315,50,69417,2023-03-03,Inactive,San Diego,TX,851.73,76
+CUST_00769,Anna,Moore,anna.moore@gmail.com,4567503870,75,61780,2021-07-05,Inactive,Philadelphia,IL,674.68,67
+CUST_00770,emma,SMITH,emma.smith@gmail.com,456-320-7681,150,26173,2021-01-09,Suspended,San Jose,NY,759.68,98
+CUST_00771,Mike,Miller,mike.miller@gmail.com,4568169729,67,1000000,2020-02-03,Inactive,San Antonio,TX,246.52,92
+CUST_00772,Emma,Davis,emma.davis@invalid,4567189666,22,101215,2021-09-27,Pending,Chicago,AZ,1053.63,24
+CUST_00773,Tom,THOMAS,tom.thomas@yahoo.com,999-293-6648,66,87581,2022-03-29,Pending,San Diego,TX,251.62,33
+CUST_00774,John,Anderson,john.anderson@gmail.com,(999) 863-4106,22,31510,2023-08-29,Pending,San Antonio,CA,,40
+CUST_00775,Sarah,Smith,sarah.smith@gmail.com,9991339849,71,63944,2020-11-23,Inactive,Phoenix,IL,373.48,44
+CUST_00776,John,Thomas,john.thomas@yahoo.com,9997647062,74,87109,2023-09-11,Suspended, Houston ,CA,210.0,68
+CUST_00777,Lisa,Taylor,lisa.taylor@yahoo.com,123.602.5220,22,88197,2023-09-14,Suspended,san antonio,CA,1288.3,10
+CUST_00778,Lisa,SMITH,lisa.smith@invalid,456-953-2162,20,120913,2021-01-11,Suspended,Phoenix,TX,1561.66,64
+CUST_00779,Emma,Anderson,emma.anderson@yahoo.com,555.905.8720,62,111168,2020-12-06,Suspended,Los Angeles,AZ,1629.75,72
+CUST_00780,Chris,Smith,chris.smith@yahoo.com,5553542916,49,25352,2020-04-13,Suspended,New York,NY,644.68,40
+CUST_00781,David,Smith,david.smith@gmail.com,999-702-7268,76,97703,2022-03-28,Suspended,New York,NY,650.17,78
+CUST_00782,Jane,Moore,jane.moore@gmail.com,(555) 235-4278,50,500000,2022-09-25,Active,Dallas,CA,,6
+CUST_00783,John,Johnson,john.johnson@yahoo.com,7899307386,39,97554,2021-11-24,Active,Philadelphia,IL,231.76,84
+CUST_00784,David, Taylor,david.taylor@yahoo.com,(123) 587-8821,61,126263,2020-10-08,Inactive,Los Angeles,TX,1647.52,74
+CUST_00785,Sarah,Thomas,sarah.thomas@yahoo.com,456-819-7159,22,64479,2020-02-03,Inactive,Philadelphia,CA,1814.63,67
+CUST_00786,Lisa,SMITH,lisa.smith@gmail.com,(999) 756-2437,31,102642,2020-08-30,Inactive,New York,NY,279.16,78
+CUST_00787,Mike,Davis,mike.davis@gmail.com,123-501-1682,47,131787,2022-10-06,Suspended,Philadelphia,CA,,6
+CUST_00788,Chris,Thomas,chris.thomas@gmail.com,999.456.6740,72,68276,2022-03-26,Pending,Chicago,PA,991.71,64
+CUST_00789,tom,Moore,tom.moore@gmail.com,5558757907,30,33242,2022-01-19,Suspended,new york,NY,468.49,93
+CUST_00790,Jane,MOORE,jane.moore@gmail.com,456.314.5018,34,74201,2021-06-25,Suspended,houston,CA,645.44,59
+CUST_00791,Jane,Anderson,jane.anderson@yahoo.com,9992996280,60,76902,2023-01-25,Active, Philadelphia ,IL,,96
+CUST_00792, Emma ,Johnson,emma.johnson@gmail.com,9999703353,61,99124,2022-04-09,Suspended,phoenix,IL,1528.54,51
+CUST_00793,Emma,Moore,emma.moore@gmail.com,456-988-6540,19,57946,2023-11-11,Active,Los Angeles,IL,593.74,28
+CUST_00794,Emma, Johnson,emma.johnson@gmail.com,(789) 982-2377,46,99500,2023-11-13,Active,Houston,NY,1666.35,37
+CUST_00795,Sarah,Brown,sarah.brown@gmail.com,(555) 578-8649,150,1000000,2022-09-06,Active,san diego,NY,1597.17,43
+CUST_00796,Mike,Thomas,mike.thomas@yahoo.com,7897918116,41,81102,2022-07-17,Pending,Chicago,TX,37.45,6
+CUST_00797,Tom,Davis,tom.davis@gmail.com,789-389-8337,77,101949,2023-12-02,Pending,San Jose,CA,522.8,91
+CUST_00798,John, Thomas,john.thomas@yahoo.com,456-893-8151,150,38294,2020-09-24,Active,Chicago,TX,158.51,14
+CUST_00799, David ,Anderson,david.anderson@gmail.com,456-936-9700,77,69696,2022-03-25,Pending,Dallas,TX,1057.45,17
+CUST_00800,Chris,ANDERSON,chris.anderson@gmail.com,1236897063,65,1000000,2023-01-03,Suspended,san antonio,TX,893.21,35
+CUST_00801,Tom,Davis,tom.davis@gmail.com,4565272370,18,67290,2021-12-30,Suspended,San Diego,AZ,1334.36,67
+CUST_00802,Lisa,Wilson,lisa.wilson@invalid,7894959581,68,130952,2022-12-23,Inactive,Phoenix,TX,518.15,14
+CUST_00803,David,Miller,david.miller@gmail.com,456.536.1278,73,33326,2022-07-15,Active, Houston ,CA,1873.85,20
+CUST_00804,chris,MOORE,chris.moore@yahoo.com,4567841198,70,103168,2022-09-19,Pending,Chicago,IL,227.94,47
+CUST_00805, david ,Anderson,david.anderson@gmail.com,(555) 406-9346,55,124780,2023-01-28,Active,Chicago,IL,509.44,19
+CUST_00806,John,Davis,john.davis@gmail.com,999-579-4132,65,85271,2022-08-22,Suspended,Dallas,PA,,15
+CUST_00807,Jane,Anderson,jane.anderson@gmail.com,999.905.9519,44,109764,2021-03-26,Inactive,san antonio,TX,1249.19,36
+CUST_00808,Tom,Taylor,tom.taylor@gmail.com,(555) 286-4500,50,127097,2020-10-27,Pending,Philadelphia,TX,1191.5,3
+CUST_00809,Mike,Davis,mike.davis@gmail.com,999.582.1927,73,96061,2023-07-09,Pending,New York,CA,,75
+CUST_00810,David,Johnson,david.johnson@gmail.com,(999) 653-1651,22,103974,2020-04-28,Suspended,Philadelphia,TX,1655.28,27
+CUST_00811, Chris ,Anderson,chris.anderson@gmail.com,(123) 254-4896,39,96720,2023-01-24,Active,Chicago,TX,780.06,84
+CUST_00812, Jane ,Anderson,jane.anderson@gmail.com,999-148-8449,27,104520,2021-04-18,Inactive,Phoenix,TX,1218.87,59
+CUST_00813,sarah,Wilson,sarah.wilson@yahoo.com,(456) 295-6543,71,142807,2021-03-22,Active,Philadelphia,PA,1811.09,46
+CUST_00814,Jane,Anderson,jane.anderson@yahoo.com,789.650.4428,74,31737,2023-08-27,Active,Chicago,PA,,26
+CUST_00815,Emma,Johnson,emma.johnson@yahoo.com,999-999-8378,80,126971,2023-07-09,Suspended,Philadelphia,TX,,74
+CUST_00816,John,Davis,john.davis@gmail.com,(456) 237-6231,78,84376,2023-12-17,Inactive,San Jose,CA,1023.0,72
+CUST_00817,Sarah,Smith,sarah.smith@gmail.com,(456) 941-4715,58,95456,2021-05-21,Pending,san antonio,TX,1591.47,61
+CUST_00818,Tom,Brown,tom.brown@gmail.com,555-534-2042,22,37326,2022-04-08,Active,Phoenix,AZ,1338.62,50
+CUST_00819,John,Thomas,john.thomas@yahoo.com,456-648-7636,72,147267,2020-03-01,Pending,Chicago,TX,924.76,77
+CUST_00820,Tom,MOORE,tom.moore@gmail.com,(456) 930-1525,31,80492,2023-02-08,Inactive,San Antonio,NY,1729.85,79
+CUST_00821,Mike, Miller,mike.miller@gmail.com,7894143295,25,57287,2022-09-29,Inactive,San Antonio,PA,1289.26,79
+CUST_00822,Lisa,Thomas,lisa.thomas@gmail.com,123-126-4544,39,120500,2021-03-02,Suspended,Phoenix,TX,289.96,69
+CUST_00823,sarah,Thomas,sarah.thomas@gmail.com,(555) 848-2371,62,85029,2022-12-13,Pending,San Jose,IL,,2
+CUST_00824,Anna,Wilson,anna.wilson@gmail.com,9998409780,5,101322,2020-06-21,Suspended,Los Angeles,TX,830.98,81
+CUST_00825,John, TAYLOR,john.taylor@yahoo.com,7899591866,59,43715,2022-05-26,Inactive,Houston,PA,,23
+CUST_00826,Sarah,SMITH,sarah.smith@yahoo.com,(789) 812-1309,68,77915,2022-04-17,Pending,New York,PA,1137.12,3
+CUST_00827,Tom,Moore,tom.moore@gmail.com,1231487102,19,111934,2023-06-11,Active,Los Angeles,TX,455.02,13
+CUST_00828,Mike,Wilson,mike.wilson@yahoo.com,789-795-5641,37,64052,2023-06-02,Pending,San Antonio,CA,864.5,35
+CUST_00829,John,Thomas,john.thomas@yahoo.com,(456) 383-6906,29,500000,2022-01-29,Suspended,San Jose,TX,,48
+CUST_00830,Chris,Smith,chris.smith@gmail.com,4568965436,38,69310,2021-03-02,Pending,Chicago,CA,684.78,32
+CUST_00831,Sarah,Moore,sarah.moore@yahoo.com,5557755695,50,57289,2023-10-01,Active,San Antonio,TX,1135.36,76
+CUST_00832,Anna,Thomas,anna.thomas@yahoo.com,(999) 185-2663,19,52291,2022-08-28,Inactive,san antonio,NY,,36
+CUST_00833, Tom ,Taylor,tom.taylor@gmail.com,4567065879,38,134881,2020-10-22,Inactive,San Antonio,TX,1633.73,77
+CUST_00834,Mike, Thomas,mike.thomas@gmail.com,999.285.7776,23,84178,2023-10-08,Active,San Antonio,TX,1204.16,5
+CUST_00835,Tom,Johnson,tom.johnson@gmail.com,999.299.4709,76,134213,2022-09-14,Inactive,Phoenix,NY,1095.54,89
+CUST_00836,John,Johnson,john.johnson@gmail.com,123-389-2360,20,98639,2022-05-04,Pending,Los Angeles,NY,153.98,80
+CUST_00837,Sarah,Miller,sarah.miller@yahoo.com,7893022223,48,112988,2020-07-15,Pending,san jose,TX,654.61,62
+CUST_00838,Jane,Taylor,jane.taylor@yahoo.com,123.265.9532,26,85211,2023-07-18,Suspended,Philadelphia,CA,1219.07,56
+CUST_00839,Chris,Wilson,chris.wilson@yahoo.com,123-408-2821,27,62219,2020-04-08,Active,houston,PA,1197.66,56
+CUST_00840,mike,Moore,mike.moore@invalid,456.176.1033,69,117744,2022-08-13,Suspended,Dallas,TX,571.83,73
+CUST_00841,Anna,DAVIS,anna.davis@gmail.com,555-313-6990,64,45455,2022-03-09,Pending,Chicago,PA,771.74,2
+CUST_00842,John,Johnson,john.johnson@yahoo.com,5559069387,24,25449,2023-07-30,Pending,San Antonio,AZ,,98
+CUST_00843,Mike,Anderson,mike.anderson@gmail.com,456.285.3867,35,138551,2020-11-14,Inactive,Philadelphia,AZ,553.11,5
+CUST_00844,Chris,Miller,chris.miller@gmail.com,456-945-6151,59,42203,2020-01-16,Pending,Phoenix,PA,,72
+CUST_00845,Anna, TAYLOR,anna.taylor@yahoo.com,123-987-6397,50,37531,2023-09-05,Suspended,Phoenix,CA,1768.73,17
+CUST_00846,Mike,Johnson,mike.johnson@yahoo.com,(555) 672-1408,60,143607,2022-06-29,Suspended,Houston,CA,1630.5,71
+CUST_00847,Lisa,Taylor,lisa.taylor@gmail.com,999.717.8043,27,129989,2023-01-17,Pending,New York,TX,924.8,30
+CUST_00848,David,WILSON,david.wilson@yahoo.com,555.243.6860,64,105449,2020-11-25,Pending,Phoenix,CA,,24
+CUST_00849,John,Anderson,john.anderson@gmail.com,123.565.3064,78,103689,2020-08-09,Suspended,Dallas,CA,,50
+CUST_00850,Emma,THOMAS,emma.thomas@yahoo.com,456-735-6536,38,145798,2020-10-12,Pending, houston ,IL,790.7,89
+CUST_00851,Jane,Taylor,jane.taylor@gmail.com,123-654-3897,42,87238,2020-01-11,Pending,Houston,NY,,16
+CUST_00852,Anna,Brown,anna.brown@gmail.com,555-208-4921,49,33099,2020-01-05,Active,New York,PA,759.8,24
+CUST_00853,Tom,MILLER,tom.miller@gmail.com,555-332-1007,23,1000000,2023-07-09,Pending,San Diego,CA,759.92,57
+CUST_00854,sarah,Taylor,sarah.taylor@yahoo.com,123.530.8012,48,124570,2022-05-06,Active,chicago,TX,1403.58,42
+CUST_00855,John,Moore,john.moore@yahoo.com,5557448828,33,51007,2023-11-01,Pending,Los Angeles,CA,,49
+CUST_00856,Chris,Miller,chris.miller@yahoo.com,999-122-1656,52,116342,2020-10-31,Inactive,Los Angeles,PA,1256.47,49
+CUST_00857,Sarah,Brown,sarah.brown@gmail.com,(555) 522-6611,67,139137,2020-03-03,Pending,Philadelphia,AZ,895.78,29
+CUST_00858,Lisa,Johnson,lisa.johnson@yahoo.com,4567288688,46,102159,2022-05-22,Inactive,Chicago,AZ,1662.62,3
+CUST_00859,mike,Wilson,mike.wilson@gmail.com,7898843070,63,103286,2021-04-18,Suspended,New York,TX,1755.9,18
+CUST_00860,Anna,Johnson,anna.johnson@yahoo.com,789-663-1102,73,116503,2023-09-04,Active,san diego,CA,196.28,58
+CUST_00861,Mike,Davis,mike.davis@yahoo.com,(789) 424-2049,44,112936,2020-10-14,Pending,houston,IL,,20
+CUST_00862,John,Anderson,john.anderson@yahoo.com,456-533-8395,62,78145,2022-10-18,Active,Houston,AZ,579.22,56
+CUST_00863,anna,Brown,anna.brown@gmail.com,456.881.2533,59,5000,2020-06-07,Active,Philadelphia,PA,1065.89,89
+CUST_00864,John,Anderson,john.anderson@yahoo.com,123-753-2116,43,91711,2021-11-27,Active,Houston,CA,1295.0,62
+CUST_00865,Lisa, Wilson,lisa.wilson@gmail.com,(789) 490-5617,77,45285,2022-08-05,Active,San Antonio,TX,416.37,90
+CUST_00866,Jane,Johnson,jane.johnson@invalid,123-946-7314,28,87454,2020-03-26,Suspended,New York,TX,518.61,83
+CUST_00867,Anna,Wilson,anna.wilson@gmail.com,(456) 692-9342,67,68928,2023-02-19,Active,Los Angeles,AZ,,55
+CUST_00868,anna,Davis,anna.davis@gmail.com,(555) 283-8847,69,33025,2020-12-03,Suspended,Chicago,AZ,1936.88,1
+CUST_00869,Emma,DAVIS,emma.davis@yahoo.com,1235958784,65,5000,2020-09-04,Suspended,Chicago,CA,1843.87,26
+CUST_00870,anna, Smith,anna.smith@yahoo.com,456.600.4548,48,115667,2023-09-18,Pending,san diego,TX,,87
+CUST_00871,Emma,Johnson,emma.johnson@gmail.com,(789) 141-7187,63,46165,2021-07-30,Inactive,San Antonio,CA,1914.8,24
+CUST_00872,jane,Thomas,jane.thomas@gmail.com,(789) 589-4985,78,122677,2023-12-08,Active,new york,IL,71.15,5
+CUST_00873,Lisa,Anderson,lisa.anderson@gmail.com,999.395.9316,23,39129,2021-08-03,Pending,San Diego,TX,1793.53,65
+CUST_00874,Tom,Miller,tom.miller@yahoo.com,555-936-7679,52,137500,2023-04-27,Inactive,San Diego,NY,1381.52,95
+CUST_00875,Mike,Smith,mike.smith@gmail.com,1239433346,43,5000,2020-04-26,Inactive,Houston,TX,1428.41,26
+CUST_00876,jane,SMITH,jane.smith@gmail.com,(555) 633-2867,59,5000,2021-11-18,Suspended,Los Angeles,CA,1253.74,7
+CUST_00877,Sarah,Smith,sarah.smith@yahoo.com,5552433246,40,138405,2023-03-17,Suspended,San Diego,CA,1744.91,92
+CUST_00878,Jane,Smith,jane.smith@gmail.com,(999) 543-9146,25,43341,2023-09-28,Pending,San Jose,PA,1517.36,14
+CUST_00879,Emma,Moore,emma.moore@gmail.com,(999) 655-4551,59,126703,2023-08-03,Inactive,San Diego,IL,870.19,57
+CUST_00880,Chris,Smith,chris.smith@yahoo.com,789-663-9810,54,42770,2021-10-24,Suspended,San Jose,TX,1210.49,64
+CUST_00881,John,Anderson,john.anderson@gmail.com,123-227-8222,79,102362,2021-12-22,Pending,Philadelphia,CA,237.16,40
+CUST_00882, John ,Smith,john.smith@gmail.com,(456) 635-8327,55,41186,2020-07-27,Inactive,Philadelphia,TX,1254.87,64
+CUST_00883,Anna,Smith,anna.smith@yahoo.com,(555) 719-4454,78,50633,2020-02-10,Inactive,Phoenix,TX,1406.48,74
+CUST_00884,Sarah, Taylor,sarah.taylor@gmail.com,123.779.7020,42,89611,2021-03-02,Suspended,Phoenix,AZ,140.51,49
+CUST_00885,Chris,Anderson,chris.anderson@yahoo.com,9997709962,72,89818,2021-03-18,Pending,San Antonio,TX,1722.75,59
+CUST_00886,chris,Taylor,chris.taylor@yahoo.com,999.407.4995,20,125028,2021-09-17,Suspended,New York,CA,545.59,60
+CUST_00887,John,Smith,john.smith@gmail.com,(555) 557-4723,77,80274,2020-10-09,Suspended,Dallas,NY,1381.36,82
+CUST_00888,Lisa,Smith,lisa.smith@gmail.com,555.944.4666,69,143705,2020-07-24,Active,Chicago,NY,1739.19,52
+CUST_00889,Emma,Miller,emma.miller@gmail.com,123.641.4152,79,107827,2022-06-02,Active,San Jose,CA,196.6,62
+CUST_00890,David,Wilson,david.wilson@yahoo.com,555-290-9909,34,135551,2020-10-14,Active,Philadelphia,TX,1527.37,96
+CUST_00891,Tom,Miller,tom.miller@gmail.com,555-114-1970,72,106063,2023-05-09,Suspended,Los Angeles,NY,74.65,43
+CUST_00892,Anna,Anderson,anna.anderson@gmail.com,(123) 277-4527,40,36855,2023-09-08,Suspended,chicago,TX,738.87,87
+CUST_00893,Mike,Davis,mike.davis@gmail.com,999.399.1397,23,117700,2021-02-19,Suspended,Houston,TX,,11
+CUST_00894,Mike,Thomas,mike.thomas@yahoo.com,1239282052,28,135343,2022-05-25,Inactive,san jose,TX,1641.99,20
+CUST_00895,Anna,Anderson,anna.anderson@gmail.com,5557988392,59,136469,2023-05-03,Active,Philadelphia,AZ,30.6,23
+CUST_00896,Tom,Anderson,tom.anderson@gmail.com,(789) 156-3786,67,26115,2023-05-23,Inactive,Phoenix,PA,146.93,92
+CUST_00897,Sarah,MOORE,sarah.moore@gmail.com,4563505600,52,44516,2020-01-06,Active,Houston,PA,355.89,99
+CUST_00898,Sarah,Johnson,sarah.johnson@gmail.com,(123) 343-9805,50,65141,2023-08-20,Pending, San Antonio ,NY,170.78,90
+CUST_00899,John,Taylor,john.taylor@yahoo.com,999.321.8516,25,101564,2020-06-13,Suspended,Phoenix,TX,292.12,51
+CUST_00900,Tom,Johnson,tom.johnson@yahoo.com,123-612-7803,43,122279,2022-04-02,Pending,San Diego,PA,422.87,13
+CUST_00901, Chris ,Taylor,chris.taylor@yahoo.com,7894903882,64,63909,2023-10-24,Active,Los Angeles,CA,356.49,86
+CUST_00902,Mike,Miller,mike.miller@yahoo.com,5554869825,75,27863,2021-03-19,Pending,Dallas,NY,1087.15,63
+CUST_00903,Sarah,Moore,sarah.moore@invalid,456-777-3747,20,5000,2022-02-11,Inactive,san jose,IL,322.19,62
+CUST_00904,sarah,Smith,sarah.smith@yahoo.com,555.771.5129,46,32455,2021-10-08,Inactive,Chicago,AZ,824.35,43
+CUST_00905,Lisa,Anderson,lisa.anderson@yahoo.com,555-316-6134,28,73040,2021-12-22,Pending,Chicago,CA,617.13,53
+CUST_00906,chris,Anderson,chris.anderson@gmail.com,(999) 699-1877,45,500000,2021-01-21,Inactive,Los Angeles,TX,249.86,31
+CUST_00907,Anna, Anderson,anna.anderson@yahoo.com,456.867.5847,39,143463,2021-04-25,Active,Chicago,TX,316.71,42
+CUST_00908,Lisa,Johnson,lisa.johnson@gmail.com,123-952-9086,43,40927,2023-11-26,Pending,Houston,AZ,423.74,99
+CUST_00909,lisa,Davis,lisa.davis@yahoo.com,555.893.1755,68,85924,2020-10-04,Suspended,New York,CA,,90
+CUST_00910,Emma,Davis,emma.davis@gmail.com,(456) 320-8708,32,26468,2023-12-17,Inactive,Phoenix,IL,1890.74,13
+CUST_00911,Chris,DAVIS,chris.davis@gmail.com,789-657-2636,80,136805,2021-07-08,Inactive,New York,PA,1205.84,57
+CUST_00912,Jane,Johnson,jane.johnson@gmail.com,(999) 921-5669,47,65769,2023-07-27,Inactive,Phoenix,CA,1819.5,23
+CUST_00913,jane,Johnson,jane.johnson@gmail.com,456-347-8868,54,55371,2023-01-05,Pending,Los Angeles,CA,1088.11,97
+CUST_00914,John,Thomas,john.thomas@gmail.com,123-789-3911,37,95621,2023-05-23,Inactive,Houston,CA,,95
+CUST_00915,Tom,THOMAS,tom.thomas@gmail.com,4564511341,39,27845,2023-03-28,Suspended,Chicago,TX,1977.51,78
+CUST_00916,Emma,Smith,emma.smith@gmail.com,7891455237,53,25593,2020-03-18,Suspended,Phoenix,CA,556.8,37
+CUST_00917,Anna,Moore,anna.moore@gmail.com,(555) 116-7694,34,144037,2020-06-17,Active,New York,TX,1903.28,92
+CUST_00918,Emma,Johnson,emma.johnson@yahoo.com,123.802.2571,74,48684,2021-02-22,Suspended,Houston,TX,662.06,36
+CUST_00919,John,Wilson,john.wilson@gmail.com,123-282-8121,69,64408,2020-03-09,Inactive,philadelphia,TX,1743.87,63
+CUST_00920,Mike,Moore,mike.moore@yahoo.com,9999801848,50,27483,2020-06-22,Active,Los Angeles,TX,1206.15,11
+CUST_00921,anna,Davis,anna.davis@yahoo.com,5551494542,27,50467,2022-05-15,Inactive,Phoenix,CA,1022.25,77
+CUST_00922,Sarah,DAVIS,sarah.davis@yahoo.com,123.958.3032,47,81099,2020-12-20,Pending,Chicago,CA,1396.27,66
+CUST_00923,Chris,Thomas,chris.thomas@yahoo.com,789-392-9231,47,140104,2020-02-26,Inactive,San Diego,CA,537.63,20
+CUST_00924,Emma,MOORE,emma.moore@gmail.com,(555) 884-4402,35,129373,2022-04-17,Suspended,San Antonio,TX,1447.48,44
+CUST_00925,Lisa,Moore,lisa.moore@yahoo.com,(555) 132-1220,33,101665,2023-09-25,Suspended,san antonio,CA,1187.22,52
+CUST_00926,Jane,Johnson,jane.johnson@invalid,7895818351,50,109922,2022-04-16,Pending,New York,CA,1345.72,50
+CUST_00927,mike,Thomas,mike.thomas@invalid,999-639-2110,29,49370,2022-10-13,Pending,Phoenix,CA,1250.05,55
+CUST_00928,Mike,Johnson,mike.johnson@gmail.com,555.318.2479,47,64642,2020-09-19,Active,Houston,CA,1795.41,87
+CUST_00929,Sarah,Anderson,sarah.anderson@yahoo.com,(555) 523-6080,150,113383,2021-01-19,Active,Chicago,AZ,,54
+CUST_00930,Chris,Johnson,chris.johnson@gmail.com,123-451-1948,200,500000,2022-01-09,Active,San Antonio,IL,419.01,13
+CUST_00931,David,Anderson,david.anderson@gmail.com,456-938-5230,80,65862,2020-11-17,Active,San Jose,TX,,7
+CUST_00932,jane,Brown,jane.brown@gmail.com,(555) 190-4221,150,49878,2020-04-30,Suspended,phoenix,CA,208.62,7
+CUST_00933,Tom,Wilson,tom.wilson@yahoo.com,555-433-5973,57,103374,2021-06-30,Suspended,chicago,CA,,94
+CUST_00934,John,Moore,john.moore@yahoo.com,1232373023,44,146248,2020-09-14,Inactive,Los Angeles,TX,1566.51,80
+CUST_00935,tom,Brown,tom.brown@gmail.com,123-682-4774,47,51376,2020-11-19,Inactive,new york,CA,,35
+CUST_00936,Anna,Taylor,anna.taylor@yahoo.com,123-290-1732,78,27088,2022-02-17,Active,Phoenix,IL,842.83,46
+CUST_00937,Emma,Miller,emma.miller@yahoo.com,1234388137,150,37290,2022-03-07,Suspended,Philadelphia,TX,1066.38,66
+CUST_00938,Tom,Wilson,tom.wilson@gmail.com,1239184170,35,102217,2021-07-21,Pending,Los Angeles,TX,422.56,16
+CUST_00939,David,Anderson,david.anderson@yahoo.com,789.365.8530,46,56374,2023-04-20,Suspended,Los Angeles,TX,1641.95,43
+CUST_00940,Mike,Moore,mike.moore@yahoo.com,999.489.3445,78,111972,2021-01-15,Inactive,Dallas,NY,230.46,28
+CUST_00941,lisa,Davis,lisa.davis@yahoo.com,555.614.1302,53,60232,2021-07-28,Suspended,San Jose,TX,409.33,62
+CUST_00942,Lisa,Wilson,lisa.wilson@yahoo.com,7898003563,66,123067,2023-08-28,Active,San Jose,PA,1230.13,46
+CUST_00943,Jane,Wilson,jane.wilson@gmail.com,456-928-1816,25,50122,2020-03-18,Active,Philadelphia,IL,568.76,17
+CUST_00944,Chris,Davis,chris.davis@gmail.com,(999) 884-5162,30,1000000,2020-01-11,Active,Philadelphia,TX,1763.48,52
+CUST_00945,Emma,Johnson,emma.johnson@gmail.com,5557483257,58,52028,2022-03-20,Suspended,San Jose,IL,1643.81,45
+CUST_00946,Mike,ANDERSON,mike.anderson@yahoo.com,456.789.9144,23,500000,2021-01-08,Pending,Phoenix,TX,1028.88,37
+CUST_00947, John ,Taylor,john.taylor@yahoo.com,999.166.8472,54,61351,2021-09-04,Active,Phoenix,TX,864.59,36
+CUST_00948,Mike,Anderson,mike.anderson@gmail.com,5556961601,38,105315,2021-06-23,Inactive,Phoenix,TX,990.33,44
+CUST_00949,Anna,Brown,anna.brown@yahoo.com,5554688599,21,39390,2020-09-09,Suspended,Phoenix,AZ,533.03,85
+CUST_00950,David,Anderson,david.anderson@gmail.com,123.416.2560,41,106208,2023-09-24,Suspended,Chicago,PA,,45
+CUST_00951,Anna,Wilson,anna.wilson@yahoo.com,555-906-9698,33,121477,2023-09-03,Suspended, san diego ,CA,1615.66,57
+CUST_00952,Jane,Miller,jane.miller@yahoo.com,789-830-6232,36,125477,2022-04-04,Active,Los Angeles,TX,164.89,45
+CUST_00953, John ,Smith,john.smith@yahoo.com,999.817.3917,43,5000,2020-08-12,Suspended,San Jose,TX,1847.46,55
+CUST_00954,Sarah,Wilson,sarah.wilson@yahoo.com,999-146-9012,23,5000,2021-12-08,Active,Houston,TX,941.51,40
+CUST_00955,David,Thomas,david.thomas@yahoo.com,999-887-2024,72,1000000,2020-01-23,Active,San Diego,PA,879.54,47
+CUST_00956,Mike,Moore,mike.moore@yahoo.com,4562449299,55,131200,2020-09-15,Inactive,Houston,AZ,341.12,21
+CUST_00957,Jane,Johnson,jane.johnson@gmail.com,9997445470,62,74123,2023-11-06,Suspended,Phoenix,TX,1547.21,69
+CUST_00958,Lisa,Johnson,lisa.johnson@gmail.com,(456) 665-9845,75,90097,2020-06-13,Suspended,San Antonio,CA,1049.23,26
+CUST_00959,David,Smith,david.smith@gmail.com,(123) 620-8891,200,82080,2020-08-10,Inactive,San Diego,PA,847.92,62
+CUST_00960,Jane,MOORE,jane.moore@gmail.com,999-205-9208,37,129313,2022-03-31,Suspended,San Jose,CA,808.54,42
+CUST_00961,Sarah,Thomas,sarah.thomas@yahoo.com,5559332875,25,121651,2022-02-04,Active,Houston,CA,1909.42,60
+CUST_00962,Jane,WILSON,jane.wilson@yahoo.com,(789) 275-7578,50,128896,2021-07-19,Active,Chicago,TX,1987.37,70
+CUST_00963,Chris, Miller,chris.miller@gmail.com,789.446.5156,74,35680,2021-09-15,Active,Los Angeles,TX,667.53,66
+CUST_00964,Anna,TAYLOR,anna.taylor@gmail.com,555.816.1439,46,1000000,2021-09-13,Active,Chicago,TX,195.51,51
+CUST_00965,Sarah,Anderson,sarah.anderson@gmail.com,555.978.1993,38,1000000,2023-04-17,Pending,Houston,CA,98.77,29
+CUST_00966,Anna,Moore,anna.moore@invalid,(789) 989-6575,62,82512,2021-03-20,Active,dallas,NY,,38
+CUST_00967,John,Taylor,john.taylor@yahoo.com,5556898744,46,113291,2021-12-20,Pending,Philadelphia,CA,780.93,74
+CUST_00968, Chris ,Wilson,chris.wilson@gmail.com,5554883981,51,78708,2023-01-27,Pending,New York,CA,,57
+CUST_00969,Emma,Smith,emma.smith@gmail.com,555-863-8275,5,103259,2022-05-09,Inactive, Chicago ,TX,,84
+CUST_00970,David,Davis,david.davis@gmail.com,9999331451,80,54696,2023-10-24,Active,San Antonio,TX,1079.99,51
+CUST_00971,Mike,Thomas,mike.thomas@gmail.com,5553949711,39,40263,2023-03-31,Active,Phoenix,AZ,,68
+CUST_00972,Lisa,Davis,lisa.davis@yahoo.com,(555) 670-7951,20,102344,2020-09-23,Inactive,Los Angeles,CA,1799.67,80
+CUST_00973,Lisa,Anderson,lisa.anderson@gmail.com,(555) 679-9593,28,99368,2022-01-11,Pending,Chicago,CA,607.83,55
+CUST_00974,Sarah, Brown,sarah.brown@gmail.com,(999) 599-6115,74,64001,2022-01-20,Suspended,Los Angeles,CA,1731.13,9
+CUST_00975,David,Moore,david.moore@gmail.com,(555) 797-8328,76,63319,2023-01-16,Inactive,houston,TX,,19
+CUST_00976, Chris , Davis,chris.davis@gmail.com,555.510.8953,24,85332,2020-01-15,Active,philadelphia,TX,1962.62,62
+CUST_00977,John,THOMAS,john.thomas@gmail.com,789.678.8372,72,87471,2023-04-14,Suspended,Dallas,PA,1876.44,48
+CUST_00978,Jane,Johnson,jane.johnson@gmail.com,123-442-8528,69,56224,2023-04-08,Pending,Chicago,CA,1095.37,89
+CUST_00979,David,Thomas,david.thomas@yahoo.com,555.869.5225,74,64885,2023-06-29,Pending,Dallas,TX,229.53,52
+CUST_00980,David,Davis,david.davis@gmail.com,4562285800,44,1000000,2020-03-03,Active,San Jose,TX,971.03,62
+CUST_00981,David,Brown,david.brown@gmail.com,(456) 133-4617,61,86179,2021-05-10,Active,Los Angeles,IL,1823.77,34
+CUST_00982,Lisa,Moore,lisa.moore@gmail.com,9998545471,28,95609,2023-07-29,Inactive,Philadelphia,CA,1596.53,11
+CUST_00983,sarah,Thomas,sarah.thomas@gmail.com,(456) 512-6315,58,64402,2022-07-17,Pending,Los Angeles,AZ,1011.44,32
+CUST_00984,Lisa,Wilson,lisa.wilson@gmail.com,999.852.8092,32,65078,2021-04-18,Pending,san jose,TX,1347.02,24
+CUST_00985,Lisa,Brown,lisa.brown@yahoo.com,999-352-1322,71,31615,2021-01-05,Inactive,San Antonio,IL,956.55,33
+CUST_00986,Anna,Anderson,anna.anderson@gmail.com,(123) 509-1789,23,71726,2021-10-26,Pending,New York,AZ,1399.55,35
+CUST_00987,David,WILSON,david.wilson@yahoo.com,456-622-1583,64,500000,2020-02-13,Suspended,Houston,AZ,,9
+CUST_00988,Emma,Johnson,emma.johnson@yahoo.com,555-277-9436,68,122646,2022-04-20,Inactive,Los Angeles,PA,,92
+CUST_00989,lisa,Brown,lisa.brown@gmail.com,1237098297,37,53281,2023-11-19,Pending,New York,CA,97.82,37
+CUST_00990,Tom,Johnson,tom.johnson@gmail.com,1237722877,53,78429,2022-11-06,Pending,Dallas,PA,,77
+CUST_00991,Lisa,Smith,lisa.smith@gmail.com,555-135-1197,64,97610,2020-08-17,Suspended,San Diego,TX,572.61,60
+CUST_00992,John,Anderson,john.anderson@gmail.com,999-756-5182,75,75794,2022-09-11,Suspended,san jose,TX,841.53,48
+CUST_00993,Chris,Wilson,chris.wilson@gmail.com,(999) 914-6987,59,102145,2020-10-27,Active,New York,PA,1519.26,28
+CUST_00994,Emma,Taylor,emma.taylor@gmail.com,1233899970,18,43818,2021-06-21,Active,Chicago,AZ,57.31,8
+CUST_00995,David, Thomas,david.thomas@yahoo.com,456-511-8507,24,26728,2021-02-18,Suspended,Houston,NY,1164.72,38
+CUST_00996,Mike,Thomas,mike.thomas@invalid,789-681-7762,49,72084,2020-07-23,Pending,Chicago,PA,120.82,22
+CUST_00997, John ,Brown,john.brown@yahoo.com,(123) 288-6888,72,126214,2022-11-04,Active,philadelphia,NY,1604.07,24
+CUST_00998,Mike,Taylor,mike.taylor@gmail.com,456.585.7404,27,45980,2021-06-15,Inactive,Phoenix,TX,496.19,60
+CUST_00999,Jane,Miller,jane.miller@gmail.com,4567185072,23,84532,2020-07-08,Active,Los Angeles,CA,637.5,49
+CUST_01000,Anna,Brown,anna.brown@gmail.com,(123) 325-5289,72,1000000,2023-07-21,Active,phoenix,CA,470.6,41
+CUST_00522,Lisa,Johnson,lisa.johnson@gmail.com,456-973-1054,46,90596,2022-12-30,Pending,Dallas,AZ,718.96,12
+CUST_00738,Sarah,Anderson,sarah.anderson@yahoo.com,789.280.1942,34,128311,2020-02-22,Inactive,San Diego,CA,,42
+CUST_00741,Jane,MOORE,jane.moore@yahoo.com,(555) 682-1227,52,34365,2022-07-11,Pending,New York,CA,396.1,100
+CUST_00661,David,Davis,david.davis@gmail.com,999.953.5234,74,78728,2021-06-24,Active,Dallas,TX,456.81,76
+CUST_00412,John, Thomas,john.thomas@yahoo.com,456.199.4626,57,118327,2023-06-01,Pending,San Jose,TX,1860.45,2
+CUST_00679,Anna,Miller,anna.miller@yahoo.com,(123) 158-4593,40,1000000,2020-11-26,Suspended,Houston,CA,1267.3,42
+CUST_00627, Chris ,Wilson,chris.wilson@gmail.com,9998979315,61,68061,2021-08-27,Pending,san antonio,IL,818.18,80
+CUST_00514,Tom,Thomas,tom.thomas@gmail.com,999-973-2357,49,147470,2023-11-29,Inactive,new york,IL,1688.72,87
+CUST_00860,Anna,Johnson,anna.johnson@yahoo.com,789-663-1102,73,116503,2023-09-04,Active,san diego,CA,196.28,58
+CUST_00137,emma,Brown,emma.brown@yahoo.com,(789) 602-6866,28,95390,2022-04-06,Active,Philadelphia,PA,594.21,97
+CUST_00812, Jane ,Anderson,jane.anderson@gmail.com,999-148-8449,27,104520,2021-04-18,Inactive,Phoenix,TX,1218.87,59
+CUST_00077,John,Davis,john.davis@gmail.com,9998945637,59,59283,2022-01-06,Pending,san diego,CA,647.26,27
+CUST_00637,David,Wilson,david.wilson@gmail.com,555-155-3910,71,5000,2023-09-18,Inactive,New York,CA,,84
+CUST_00974,Sarah, Brown,sarah.brown@gmail.com,(999) 599-6115,74,64001,2022-01-20,Suspended,Los Angeles,CA,1731.13,9
+CUST_00939,David,Anderson,david.anderson@yahoo.com,789.365.8530,46,56374,2023-04-20,Suspended,Los Angeles,TX,1641.95,43
+CUST_00900,Tom,Johnson,tom.johnson@yahoo.com,123-612-7803,43,122279,2022-04-02,Pending,San Diego,PA,422.87,13
+CUST_00281,Jane,Wilson,jane.wilson@yahoo.com,123.412.1158,45,77870,2023-11-15,Suspended,Philadelphia,NY,,20
+CUST_00884,Sarah, Taylor,sarah.taylor@gmail.com,123.779.7020,42,89611,2021-03-02,Suspended,Phoenix,AZ,140.51,49
+CUST_00762,Tom,Taylor,tom.taylor@gmail.com,5557291264,50,53577,2022-10-25,Suspended, San Jose ,CA,1149.56,27
+CUST_00320,Chris,Wilson,chris.wilson@gmail.com,(999) 909-1358,62,131762,2022-03-25,Pending,Dallas,IL,1023.46,72
+CUST_00550,Lisa,Smith,lisa.smith@yahoo.com,999.345.8393,23,29781,2023-11-25,Suspended,Chicago,NY,1264.65,100
+CUST_00175,Jane,MILLER,jane.miller@gmail.com,(789) 661-8913,21,128440,2023-11-27,Suspended,New York,CA,549.91,85
+CUST_00372,chris,Thomas,chris.thomas@gmail.com,5553993125,25,35011,2021-05-27,Inactive,San Diego,TX,612.41,47
+CUST_00528,Sarah,Johnson,sarah.johnson@yahoo.com,555.344.7683,64,49582,2022-10-05,Inactive,New York,TX,1060.28,45
+CUST_00211,Anna,Taylor,anna.taylor@gmail.com,7892138627,66,141183,2021-08-27,Inactive,San Jose,TX,,12
+CUST_00236, Mike ,Smith,mike.smith@yahoo.com,(123) 516-6954,71,126595,2022-12-11,Suspended,San Diego,CA,633.69,75
+CUST_00102,Jane,Thomas,jane.thomas@yahoo.com,5554352415,30,127826,2021-09-14,Inactive,San Diego,TX,1097.65,32
+CUST_00987,David,WILSON,david.wilson@yahoo.com,456-622-1583,64,500000,2020-02-13,Suspended,Houston,AZ,,9
+CUST_00903,Sarah,Moore,sarah.moore@invalid,456-777-3747,20,5000,2022-02-11,Inactive,san jose,IL,322.19,62
+CUST_00948,Mike,Anderson,mike.anderson@gmail.com,5556961601,38,105315,2021-06-23,Inactive,Phoenix,TX,990.33,44
+CUST_00347,John,Anderson,john.anderson@invalid,999.284.6286,31,73754,2020-10-24,Suspended,los angeles,PA,1139.26,42
+CUST_00140,Tom, Moore,tom.moore@gmail.com,(999) 146-2189,77,76788,2023-09-15,Active,San Diego,TX,1700.44,38
+CUST_00622,Jane,Taylor,jane.taylor@yahoo.com,(456) 192-3232,21,148597,2023-02-25,Active,Los Angeles,NY,1689.24,14
+CUST_00500,Jane,Miller,jane.miller@gmail.com,123-110-2825,57,123530,2021-06-30,Suspended,Houston,PA,351.97,50
+CUST_00371,Sarah, Anderson,sarah.anderson@gmail.com,(555) 812-3051,80,500000,2021-01-31,Suspended,San Antonio,CA,461.98,96
+CUST_00199, Sarah ,Taylor,sarah.taylor@invalid,999-957-9125,64,52637,2023-03-29,Suspended,New York,CA,933.39,61
+CUST_00688,Anna,WILSON,anna.wilson@gmail.com,9996831848,76,40507,2022-12-23,Pending,Chicago,NY,1265.74,27
+CUST_00585, Tom ,Anderson,tom.anderson@invalid,456.117.4172,71,131229,2023-09-03,Active,Houston,PA,1392.18,64
+CUST_00902,Mike,Miller,mike.miller@yahoo.com,5554869825,75,27863,2021-03-19,Pending,Dallas,NY,1087.15,63
+CUST_00060,Lisa,Davis,lisa.davis@yahoo.com,999-740-5961,55,111341,2023-07-02,Suspended,san jose,CA,1286.49,74
+CUST_00329,Tom,Davis,tom.davis@gmail.com,1237782208,73,44252,2022-01-18,Inactive, Los Angeles ,TX,373.02,96
+CUST_00097,mike,Brown,mike.brown@gmail.com,4562433017,45,43327,2021-05-22,Suspended,Los Angeles,CA,1883.15,4
+CUST_00313,Mike,ANDERSON,mike.anderson@invalid,7893975901,31,107729,2023-03-10,Pending,Houston,TX,80.5,60
+CUST_00975,David,Moore,david.moore@gmail.com,(555) 797-8328,76,63319,2023-01-16,Inactive,houston,TX,,19
+CUST_00300,Jane,Johnson,jane.johnson@yahoo.com,4567813224,62,54334,2023-03-25,Active,Philadelphia,TX,1572.31,56
+CUST_00278,Lisa,Anderson,lisa.anderson@yahoo.com,9999834840,45,99890,2020-11-17,Suspended,Phoenix,CA,1042.45,30
+CUST_00925,Lisa,Moore,lisa.moore@yahoo.com,(555) 132-1220,33,101665,2023-09-25,Suspended,san antonio,CA,1187.22,52
+CUST_00602,John,Moore,john.moore@gmail.com,123.737.4026,57,105924,2021-05-24,Pending,San Jose,TX,631.58,12
+CUST_00440,Anna,Davis,anna.davis@yahoo.com,789.634.7901,78,34813,2021-05-29,Suspended,Houston,CA,826.65,19
+CUST_00838,Jane,Taylor,jane.taylor@yahoo.com,123.265.9532,26,85211,2023-07-18,Suspended,Philadelphia,CA,1219.07,56
+CUST_01051,,,,,,,,,,,,
+CUST_01052,,,,,,,,,,,,
+CUST_01053,,,,,,,,,,,,
+CUST_01054,,,,,,,,,,,,
+CUST_01055,,,,,,,,,,,,
+CUST_01056,,,,,,,,,,,,
+CUST_01057,,,,,,,,,,,,
+CUST_01058,,,,,,,,,,,,
+CUST_01059,,,,,,,,,,,,
+CUST_01060,,,,,,,,,,,,
+CUST_01061,,,,,,,,,,,,
+CUST_01062,,,,,,,,,,,,
+CUST_01063,,,,,,,,,,,,
+CUST_01064,,,,,,,,,,,,
+CUST_01065,,,,,,,,,,,,
+CUST_01066,,,,,,,,,,,,
+CUST_01067,,,,,,,,,,,,
+CUST_01068,,,,,,,,,,,,
+CUST_01069,,,,,,,,,,,,
+CUST_01070,,,,,,,,,,,,
